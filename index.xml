@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gerard Rutten</title>
-    <link>http://example.org/</link>
+    <link>http://gedrutten.github.io/Portfolio/</link>
     <description>Recent content on Gerard Rutten</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Oct 2018 10:33:44 +1000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://gedrutten.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>http://gedrutten.github.io/Portfolio/posts/my-first-post/</link>
       <pubDate>Wed, 24 Oct 2018 10:33:44 +1000</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>http://gedrutten.github.io/Portfolio/posts/my-first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>365 Project</title>
-      <link>http://example.org/portfolio/365project/</link>
+      <link>http://gedrutten.github.io/Portfolio/portfolio/365project/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>http://example.org/portfolio/365project/</guid>
+      <guid>http://gedrutten.github.io/Portfolio/portfolio/365project/</guid>
       <description>&lt;p&gt;A project consisting of taking a photo every day and posting it to instagram.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -33,10 +33,10 @@
     
     <item>
       <title>7Summits</title>
-      <link>http://example.org/portfolio/7summits/</link>
+      <link>http://gedrutten.github.io/Portfolio/portfolio/7summits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/7summits/</guid>
+      <guid>http://gedrutten.github.io/Portfolio/portfolio/7summits/</guid>
       <description>&lt;p&gt;A fragrance for the adventurer.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -44,10 +44,10 @@
     
     <item>
       <title>AC2021</title>
-      <link>http://example.org/portfolio/ac2021/</link>
+      <link>http://gedrutten.github.io/Portfolio/portfolio/ac2021/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/ac2021/</guid>
+      <guid>http://gedrutten.github.io/Portfolio/portfolio/ac2021/</guid>
       <description>&lt;p&gt;An exploration into immersive 3D design, modelling and gaming engines.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -55,28 +55,28 @@
     
     <item>
       <title>Change in Motion</title>
-      <link>http://example.org/portfolio/stopmotion/</link>
+      <link>http://gedrutten.github.io/Portfolio/portfolio/stopmotion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/stopmotion/</guid>
+      <guid>http://gedrutten.github.io/Portfolio/portfolio/stopmotion/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Digital Jewelery</title>
-      <link>http://example.org/portfolio/digitaljewelery/</link>
+      <link>http://gedrutten.github.io/Portfolio/portfolio/digitaljewelery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/digitaljewelery/</guid>
+      <guid>http://gedrutten.github.io/Portfolio/portfolio/digitaljewelery/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Modular Wall Garden</title>
-      <link>http://example.org/portfolio/modularwallgarden/</link>
+      <link>http://gedrutten.github.io/Portfolio/portfolio/modularwallgarden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/modularwallgarden/</guid>
+      <guid>http://gedrutten.github.io/Portfolio/portfolio/modularwallgarden/</guid>
       <description>&lt;p&gt;A study in modelling for the rotational molding process.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -84,10 +84,10 @@
     
     <item>
       <title>Wave Light</title>
-      <link>http://example.org/portfolio/wavelight/</link>
+      <link>http://gedrutten.github.io/Portfolio/portfolio/wavelight/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/portfolio/wavelight/</guid>
+      <guid>http://gedrutten.github.io/Portfolio/portfolio/wavelight/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     

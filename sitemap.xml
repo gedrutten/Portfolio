@@ -3,65 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>http://gedrutten.github.io/Portfolio/posts/my-first-post/</loc>
     <lastmod>2018-10-24T10:33:44+10:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/365project/</loc>
+    <loc>http://gedrutten.github.io/Portfolio/portfolio/365project/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/7summits/</loc>
+    <loc>http://gedrutten.github.io/Portfolio/portfolio/7summits/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/ac2021/</loc>
+    <loc>http://gedrutten.github.io/Portfolio/portfolio/ac2021/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://gedrutten.github.io/Portfolio/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/stopmotion/</loc>
+    <loc>http://gedrutten.github.io/Portfolio/portfolio/stopmotion/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/digitaljewelery/</loc>
+    <loc>http://gedrutten.github.io/Portfolio/portfolio/digitaljewelery/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://gedrutten.github.io/Portfolio/</loc>
     <lastmod>2018-10-24T10:33:44+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/modularwallgarden/</loc>
+    <loc>http://gedrutten.github.io/Portfolio/portfolio/modularwallgarden/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/</loc>
+    <loc>http://gedrutten.github.io/Portfolio/portfolio/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://gedrutten.github.io/Portfolio/posts/</loc>
     <lastmod>2018-10-24T10:33:44+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://gedrutten.github.io/Portfolio/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/portfolio/wavelight/</loc>
+    <loc>http://gedrutten.github.io/Portfolio/portfolio/wavelight/</loc>
   </url>
   
 </urlset>
