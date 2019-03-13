@@ -1,0 +1,37 @@
+{{ $counter := 0 }}
+{{ $media := sort (.Site.Data.media.photos | append .Site.Data.media.videos) "taken_at" "asc" }}
+
+<div class="container">
+{{ range $media }}
+    <!-- 
+    TODO: Need to display as a certain crop (or resize all thumbs as a common size)
+    TODO; Need to add hyperlinks to actual instagram image
+    TODO: Add hover content to give it some life 
+    -->
+    <!--
+    NOTES
+    - This relies on all thumbnails to be in the static/img/portfolio/365 folder
+    - Images are stored in the "photos" folder, videos in the "videos" folder as GIF'a
+    - To make consistent size, use the following terminal command (part of image magick).  Note that this REPLACES files in situ
+        mogrify -resize '640' *.jpg
+    - Remove any references in the media.json file to images that aren't part of the 365 (eg. 3 older images that are in Insta)
+    -->
+    {{ if eq (mod $counter 3) 0 }}
+    <div class="row">
+    {{ end }}
+        
+        <div class="4u 12u$(medium)">
+            <figure>
+                {{ $tmp := replace .path "mp4" "gif" }}
+                <img style="width:100%" src="/img/portfolio/365/{{ $tmp }}" alt={{ .caption }}>
+                <figcaption><strong>{{ ((time "2015-07-28" ).AddDate 0 0 (int $counter)).Format "2 Jan 06"  }}</strong> {{ .caption }}</figcaption>
+            </figure>
+        </div>
+    {{ if eq (mod $counter 3) 2 }}
+    </div>
+    <br>
+    {{ end }}
+
+    {{ $counter = add $counter 1 }}
+{{ end }}
+</div>

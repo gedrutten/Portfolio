@@ -1,0 +1,226 @@
+# Site settings
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Gerard Rutten Design"
+theme = "forty"
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Enter your disqus shortname to enable comments
+disqusShortname = ""
+
+[params]
+  # You can use Markdown syntax for urls [text](//url.to/source)
+  # To create multi-line text in strings use the """example Text""" format
+  #
+  # All icons using Fontawesome's icon font. Look at fontawesome.io/icons
+  # for more icons. The icons are represented by their corresponding
+  # CSS class.
+
+  # Provide your metadata here.
+  name = "Gerard Rutten"
+  description = "Student of Product Design"
+
+  # Link custom assets relative to /static
+  custom_css = ["custom.css"]
+  custom_js  = []
+  favicon    = "favicon.ico"
+
+  # Just a custom image variable, please define it in .md files for content.
+  image = ""
+
+  # 404 error customization
+  [params.error404]
+    heading = "Page couldn't be found"
+    text = "Perhaps head back to [home](#)"
+
+  # Navigation Section
+  [params.navigation]
+    title = "Gerard Rutten"
+    subtitle = " Product Design"
+    menu = "Menu"
+    # Optional logo as brand stored in img/
+    # logo = "logo.png"
+
+    [[params.navigation.links]]
+      name = "Home"
+      url = "#"
+
+    [[params.navigation.links]]
+      name = "Portfolio"
+      url = "portfolio"
+
+    [[params.navigation.links]]
+      name = "About Me"
+      url = "about/about.html"
+
+    [[params.navigation.links]]
+      name = "Contact"
+      url = "contact/contact"
+
+    #[[params.navigation.links]]
+    #  name = "Elements"
+    #  url = "elements.html"
+
+    # Add custom links here by uncommenting code below. To remove links just delete
+    # the [[params.navigation.links]] map associated with that link. Copy and paste
+    # code below if you need more links. Buttons work in the same way.
+    # [[params.navigation.links]]
+    #    name = "NameOfLink"
+    #    url = "UrlOfLink"
+
+    # Button Style 1
+    # [[params.navigation.button1]]
+    #   name = "Get Started"
+    #   url = "blogs"
+
+    # Button Style 2
+    # [[params.navigation.button2]]
+    #   name = "Log In"
+    #   url = "#"
+
+
+  # Banner section
+  [params.banner]
+    # To change the background image on the homepage banner, replace 'banner.jpg' in
+    # the 'static/img' folder.
+    title = "Hi, my name is Gerard"
+    subtitle = "A student of product design."
+    buttonText = "See My Work"
+
+
+  # Tiles Section
+  [params.tiles]
+    enable = true
+    # Display your showcases here.
+    
+   # [[params.tiles.showcase]]
+   #   title = ""
+   #   subtitle = ""
+   #   image = "portfolio/"
+   #   url = "portfolio/"
+
+    [[params.tiles.showcase]]
+      title = "Wave Light"
+      subtitle = "Light responds to noise through waves on water as a wind chime respond to the breeze."
+      image = "portfolio/wavelight/GreyscaleRipple.jpg"
+      url = "portfolio/wavelight"
+
+    [[params.tiles.showcase]]
+      title = "Solar Desalinator"
+      subtitle = "A portable solution for clean water"
+      image = "portfolio/solarStill/blackAndWhite.jpg"
+      url = "portfolio/solarStill"
+
+    [[params.tiles.showcase]]
+      title = "AC2021"
+      subtitle = "An exploration into immersive 3D design, modelling and gaming engines."
+      image = "portfolio/ac2021/screenshot.png"
+      url = "portfolio/ac2021"
+
+    [[params.tiles.showcase]]
+      title = "7 Summits"
+      subtitle = "A Fragrance for the Aspirational Climber"
+      image = "portfolio/7Summits/complete_full_width.jpg"
+      url = "portfolio/7summits"
+
+    [[params.tiles.showcase]]
+      title = "Digital Jewelery"
+      subtitle = "3D Digital Modelling using Rhino 3D and Sculptris."
+      image = "portfolio/digitalJewellery/allPieces.jpg"
+      url = "portfolio/digitalJewellery"
+
+    [[params.tiles.showcase]]
+      title = "Complete Portfolio"
+      subtitle = "The rest of my work"
+      image = "pic06.jpg"
+      url = "portfolio"
+
+  [params.blog]
+    # All blogs defined in their own files. You can find example blogs
+    # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
+    # at the root of this Hugo site.
+    # For more informtion take a look at the README.
+    # To add more blogs just copy and paste the code.
+
+  # Section Type Two
+  [params.two]
+    enable = true
+    title = "About Me"
+    subtitle = "I am a student of Product Design, currently studying at Queensland College of Art, Griffith University."
+    buttonText = "Contact Me"
+    url = "contact/contact"
+
+
+  # Contact section
+  [params.contact]
+    enable = false
+    buttonSend = "Send message"
+    buttonClear = "Clear"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below and uncomment
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    formEmail = "gedrutten@gmail.com"
+
+    # Contact Section
+    # You can add multiple emails, phone numbers, or addresses
+    # by copying the corresponding map with frontmatter code.
+    # [[params.contact.email]]
+    # title = "Email"
+    # email = "example@domain.com"
+
+    # [[params.contact.phone]]
+    # title = "Phone"
+    # phone = "(000) 000-0000 x1234"
+
+    # [[params.contact.address]]
+    # title = "Address"
+    # street = "Street"
+    # city = "City, ST 00000"
+    # country = "Country"
+
+  # Footer section
+  [params.footer]
+    enable = true
+    copyright = "Gerard Rutten"
+
+    # Uses font awesome icons
+  #  [[params.footer.social]]
+  #    icon = "fa-twitter"
+  #    url= "https://www.twitter.com"
+  #    label = "Twitter"
+
+  #  [[params.footer.social]]
+  #    icon = "fa-facebook"
+  #    url= "https://www.facebook.com"
+  #    label = "Facebook"
+
+    [[params.footer.social]]
+      icon = "fa-instagram"
+      url= "https://www.instagram.com/gedrutten"
+      label = "Instagram"
+    
+  #  [[params.footer.social]]
+  #    icon = "fa-github"
+  #    url= "https://www.github.com"
+  #    label = "GitHub"
+
+    [[params.footer.social]]
+      icon = "fa-linkedin"
+      url= "https://www.linkedin.com/in/gerard-rutten-6561b44"
+      label = "LinkedIn"
+
+    [[params.footer.quicklinks]]
+      text = "Design: "
+      url= "https://www.html5up.net"
+      alt = "HTML5 UP"
