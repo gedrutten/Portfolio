@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://quizzical-jepsen-b951f4.netlify.com/"
+baseURL = "http://gerardruttendesign.com/"
 languageCode = "en-us"
 title = "Gerard Rutten Design"
 theme = "forty"
