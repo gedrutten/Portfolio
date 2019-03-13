@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://gerardruttendesign.com/"
+baseURL = "https://gerardruttendesign.com/"
 languageCode = "en-us"
 title = "Gerard Rutten Design"
 theme = "forty"
