@@ -1,6 +1,6 @@
 +++
 title = "Solar Desalinator"
-description = "A portable solution for clean water"
+description = "An origami inspired portable solution for clean water"
 draft = false
 image = "solarStill/blackAndWhite.jpg"
 +++

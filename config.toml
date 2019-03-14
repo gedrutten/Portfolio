@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://gerardruttendesign.com/"
 languageCode = "en-us"
-title = "Gerard Rutten Design"
+title = "Gerard Rutten"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -33,7 +33,7 @@ disqusShortname = ""
   # 404 error customization
   [params.error404]
     heading = "Page couldn't be found"
-    text = "Perhaps head back to [home](#)"
+    text = "Perhaps head back to [home]( {{ .Site.Params.baseURL }} )"
 
   # Navigation Section
   [params.navigation]
@@ -109,9 +109,9 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Solar Desalinator"
-      subtitle = "A portable solution for clean water"
+      subtitle = "An origami inspired portable solution for clean water"
       image = "portfolio/solarStill/blackAndWhite.jpg"
-      url = "portfolio/solarStill"
+      url = "portfolio/waterstill"
 
     [[params.tiles.showcase]]
       title = "AC2021"
@@ -129,11 +129,11 @@ disqusShortname = ""
       title = "Digital Jewelery"
       subtitle = "3D Digital Modelling using Rhino 3D and Sculptris."
       image = "portfolio/digitalJewellery/allPieces.jpg"
-      url = "portfolio/digitalJewellery"
+      url = "portfolio/digitaljewelery/"
 
     [[params.tiles.showcase]]
       title = "Complete Portfolio"
-      subtitle = "The rest of my work"
+      subtitle = "Some more of my work"
       image = "pic06.jpg"
       url = "portfolio"
 
@@ -207,7 +207,7 @@ disqusShortname = ""
 
     [[params.footer.social]]
       icon = "fa-instagram"
-      url= "https://www.instagram.com/gedrutten"
+      url= "https://www.instagram.com/gedrutten/"
       label = "Instagram"
     
   #  [[params.footer.social]]
