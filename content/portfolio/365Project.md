@@ -21,7 +21,3 @@ This is the caption from my final 365 post:
 
 {{< insta365 >}}
 
-<!--
-{{< instagram BIZN__0h0_4 >}}
-{{< instagram BIXSi0HjbnX >}}
--->
