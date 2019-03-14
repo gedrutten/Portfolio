@@ -33,7 +33,7 @@ disqusShortname = ""
   # 404 error customization
   [params.error404]
     heading = "Page couldn't be found"
-    text = "Perhaps head back to [home]( {{ .Site.Params.baseURL }} )"
+    text = "Perhaps head back to [home](https://gerardruttendesign.com/)"
 
   # Navigation Section
   [params.navigation]
