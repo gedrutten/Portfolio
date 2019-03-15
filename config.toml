@@ -104,7 +104,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Wave Light"
       subtitle = "Light responds to noise through waves on water as a wind chime respond to the breeze."
-      image = "portfolio/wavelight/GreyscaleRipple.jpg"
+      image = "portfolio/wavelight/testRippleThumbnail.jpg"
       url = "portfolio/wavelight"
 
     [[params.tiles.showcase]]
@@ -134,7 +134,7 @@ disqusShortname = ""
     [[params.tiles.showcase]]
       title = "Complete Portfolio"
       subtitle = "Some more of my work"
-      image = "pic06.jpg"
+      image = "IMG_2250.jpg"
       url = "portfolio"
 
   [params.blog]

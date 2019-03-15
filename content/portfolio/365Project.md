@@ -3,7 +3,7 @@ title = "365 Project"
 description = "A project to take a photo every day for a year."
 draft = false
 date = "2016-11-05T18:25:22+05:30"
-image = "365/photos/201607/7c1ac009f65dd45d1a63c17ae526de98.jpg"
+image = "365/titleImage.jpg"
 +++
 
 I began this project on my birthday with a colleague who shared our birthday and also shared a passion for photography. It was a challenging, but rewarding journey to complete the full year of taking a photo every day.  
