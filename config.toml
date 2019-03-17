@@ -5,7 +5,7 @@ title = "Gerard Rutten"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-136395440-1"
 
 # Enter your disqus shortname to enable comments
 disqusShortname = ""
