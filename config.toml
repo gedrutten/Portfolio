@@ -3,6 +3,7 @@ baseURL = "https://gerardruttendesign.com/"
 languageCode = "en-us"
 title = "Gerard Rutten"
 theme = "forty"
+pluralizeListTitles = false
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = "UA-136395440-1"
