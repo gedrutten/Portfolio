@@ -5,6 +5,8 @@ image = "digitalJewellery/allPieces.jpg"
 description = "3D Digital Modelling using Rhino 3D and Sculptris."
 +++
 
+{{< figure src="/img/portfolio/digitalJewellery/allPieces.jpg" >}}
+
 This piece of assessment was for a digital jewellery class in which we investigated the practicalities of using online 3D printing services and various materials to achieve the desired design.  Items were all created digitally using Rhino and/or Sculptris and verified as printable by [i.Materialize](https://i.materialise.com/en) in the metals shown.  The images below are renders from Keyshot.
 
 

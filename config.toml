@@ -104,13 +104,13 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Wave Light"
-      subtitle = "Light responds to noise through waves on water as a wind chime respond to the breeze."
+      subtitle = "Light responds to noise through waves on water as a wind chime respond to the breeze. Exhibited at Createworld 2018."
       image = "portfolio/wavelight/testRippleThumbnail.jpg"
       url = "portfolio/wavelight"
 
     [[params.tiles.showcase]]
       title = "Solar Desalinator"
-      subtitle = "An origami inspired portable solution for clean water"
+      subtitle = "An origami inspired portable solution for clean water.  Shortlisted for Lexus Design Award 2019."
       image = "portfolio/solarStill/blackAndWhite.jpg"
       url = "portfolio/waterstill"
 

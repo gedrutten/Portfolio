@@ -4,6 +4,7 @@ description = "Lego characters get involved in the circular economy."
 draft = false
 image = "stopmotion/thumbnail.jpg"
 +++
+{{< figure src="/img/portfolio/stopmotion/thumbnail.jpg" >}}
 
 An exercise in photography, image manipulation, and video production, the following video is my response to the brief: "Change in motion".  By depicting the replacement of a MacBook battery undertaken by Lego characters, I attempt to show that the task is relatively simple and by doing so, I am encouraging self-repair, one of many branches of the circular economy.
 

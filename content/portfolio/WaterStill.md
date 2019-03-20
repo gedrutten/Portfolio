@@ -1,11 +1,12 @@
 +++
 title = "Solar Desalinator"
-description = "An origami inspired portable solution for clean water"
+description = "An origami inspired portable solution for clean water.  Shortlisted for 2019 Lexus Design Awards."
 draft = false
 image = "solarStill/blackAndWhite.jpg"
 +++
+{{< figure src="/img/portfolio/solarStill/blackAndWhite.jpg" >}}
+
 ## ★ Shortlisted for 2019 [Lexus Design Awards](https://discoverlexus.com/experiences/lexus-design-award-2019)
-Unfortunately though, not a finalist.
 
 {{< figure src="/img/portfolio/solarStill/sketches.jpg" >}}
 {{< figure src="/img/portfolio/solarStill/assembly.jpg" >}}

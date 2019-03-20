@@ -5,6 +5,8 @@ draft = false
 image = "7Summits/complete_full_width.jpg"
 +++
 
+{{< figure src="/img/portfolio/7Summits/complete_full_width.jpg" >}}
+
 This project brought together both 3D printing and laser cutting in an exercise to design for a specific market through the development of a frangrance bottle and the corresponding visual display stand.  In this case, the target market is the mountaineer with the fragrance titled "7 Summits" taking inspiration from the tallest peaks across the 7 continents:
 
 + **Asia** Mount Everest 8,848 m
