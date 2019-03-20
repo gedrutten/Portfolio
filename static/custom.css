@@ -10,6 +10,11 @@ body {
 footer {
     background-color: #f9f9f9;
 }
+#footer .copyright li {
+    border-left: solid 1px #dddddd;
+    color: #dddddd;
+}
+
 body, input, select, textarea {
     color: #444444;
     font-family: "Lato Light", Helvetica, sans-serif;
@@ -270,6 +275,34 @@ a.icon.alt:hover:before {
 
 a.icon.alt:active:before {
     background-color: #acacac;
+}
+
+/* Input boxes on the Contact form */
+label {
+    color: #444444;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="tel"],
+input[type="search"],
+input[type="url"],
+select,
+textarea {
+    background: rgba(212, 212, 212, 0.5);
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="email"]:focus,
+input[type="tel"]:focus,
+input[type="search"]:focus,
+input[type="url"]:focus,
+select:focus,
+textarea:focus {
+    border-color: #aaaaaa;
+    box-shadow: 0 0 0 2px #aaaaaa;
 }
 
 /*
