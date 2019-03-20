@@ -51,9 +51,9 @@ disqusShortname = ""
       name = "Portfolio"
       url = "portfolio"
 
- #   [[params.navigation.links]]
- #     name = "About Me"
- #     url = "about/about.html"
+    [[params.navigation.links]]
+      name = "About Me"
+      url = "about/about"
 
     [[params.navigation.links]]
       name = "Contact"
@@ -149,8 +149,8 @@ disqusShortname = ""
     enable = true
     title = "About Me"
     subtitle = "I am a student of Product Design, currently studying at Queensland College of Art, Griffith University."
-    buttonText = "Contact Me"
-    url = "contact/contact"
+    buttonText = "Learn More"
+    url = "about/about"
 
 
   # Contact section
