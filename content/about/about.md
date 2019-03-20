@@ -20,6 +20,83 @@ My name is Gerard Rutten.  Contact me [here](/contact/contact)
 
 <br>
 
+### Skills
+<div class="row">
+    <div class="4u 12u$(medium)">
+        3D Modelling Software
+    </div>
+    <div class="8u 12u$(medium)">
+        Solidworks, Fusion 360, Rhino 3D, OpenSCAD </br>
+        Maya, Sculptris, Unity </br>
+        Cura, Slicer </br>
+    </div>
+</div>
+<div class="row">
+    </br>
+</div>
+<div class="row">
+    <div class="4u 12u$(medium)">
+        Design Software
+    </div>
+    <div class="8u 12u$(medium)">
+        Adobe InDesign, Photoshop, Lightroom, After Effects </br>
+        Audacity, Inkscape, Gimp
+    </div>
+</div>
+<div class="row">
+    </br>
+</div>
+<div class="row">
+    <div class="4u 12u$(medium)">
+        Design Concepts
+    </div>
+    <div class="8u 12u$(medium)">
+        Ergonomics, Sustainability, Materiality, Cost Effectiveness, Circular Design </br>
+        Rotomolding, Injection Molding, Design for 3D Printing (FDM, SLS)
+    </div>
+</div>
+<div class="row">
+    </br>
+</div>
+<div class="row">
+    <div class="4u 12u$(medium)">
+        Software Development
+    </div>
+    <div class="8u 12u$(medium)">
+        XCode (Objective-C), Arduino IDE (C++), </br>
+        Some exposure to HTML, CSS, Javascript, PHP, Ruby 
+    </div>
+</div>
+<div class="row">
+    </br>
+</div>
+<div class="row">
+    <div class="4u 12u$(medium)">
+        Fabrication
+    </div>
+    <div class="8u 12u$(medium)">
+        Laser cutting, 3D Printing, Soldering, Electronics </br>
+        General Workshop (handtools, power tools), Sewing, Fine Metalsmithing
+    </div>
+</div>
+<div class="row">
+    </br>
+</div>
+<div class="row">
+    <div class="4u 12u$(medium)">
+        Soft Skills
+    </div>
+    <div class="8u 12u$(medium)">
+        Team Lead, Scrummaster (Agile Development), Project Management </br>
+        Ethnographic Research, Requirements Gathering
+    </div>
+</div>
+<div class="row">
+    </br>
+</div>
+
+</br>
+
 ### Studies
 <div class="row">
     <div class="4u 12u$(medium)">
