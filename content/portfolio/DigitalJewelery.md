@@ -2,6 +2,7 @@
 title = "Digital Jewelery"
 draft = false
 image = "digitalJewellery/allPieces.jpg"
+date = "2018-11-15T12:00:00+10:00"
 description = "3D Digital Modelling using Rhino 3D and Sculptris."
 +++
 

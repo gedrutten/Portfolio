@@ -1,7 +1,7 @@
 ---
 title: "Centrifugal Fan"
 description: "A study in modelling for injection molding and designing around existing components.  This project also allowed me to explore the fundamentals of centrifugal fan design."
-date: 2019-03-21T09:51:04+10:00
+date: "2018-11-30T12:00:00+10:00"
 image: "centrifugalFan/thumbnail.jpg"
 draft: false
 ---

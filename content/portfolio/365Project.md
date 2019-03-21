@@ -2,7 +2,7 @@
 title = "365 Project"
 description = "A project to take a photo every day for a year."
 draft = false
-date = "2016-11-05T18:25:22+05:30"
+date = "2016-07-28T18:25:22+10:00"
 image = "365/titleImage.jpg"
 +++
 

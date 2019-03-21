@@ -29,7 +29,7 @@
                 </section>
 
                 <section id="two" class="spotlights">
-                    {{ range .Pages.ByDate }}
+                    {{ range .Pages.ByDate.Reverse }}
                     <section>
                         <a href="{{ .URL }}" class="image">
 							<img src="{{ .Site.Params.baseURL }}/img/{{ .Section }}/{{ .Params.image }}" alt="" data-position="center center" />

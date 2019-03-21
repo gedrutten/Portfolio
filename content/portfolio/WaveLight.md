@@ -1,6 +1,7 @@
 +++
 title = "Wave Light"
 description = "Light responds to noise through waves on water as a wind chime respond to the breeze.  Exhibited at Createworld 2018."
+date = "2018-12-02T12:00:00+10:00"
 draft = false
 image = "wavelight/GreyscaleRipple.jpg"
 # image = "wavelight/FromBelow.jpg"

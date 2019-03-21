@@ -1,6 +1,7 @@
 +++
 title = "7 Summits"
-description = "A fragrance for the adventurer."
+description = "A Fragrance for the Aspirational Climber.  A 2-part project exploring digital fabrication through 3D printing and laser cutting."
+date = "2018-06-30T18:25:22+10:00"
 draft = false
 image = "7Summits/complete_full_width.jpg"
 +++

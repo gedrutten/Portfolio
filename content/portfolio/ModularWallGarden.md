@@ -2,6 +2,7 @@
 title = "Modular Wall Garden"
 description = "A study in modelling for the rotational molding process."
 draft = false
+date = "2018-11-29T12:00:00+10:00"
 image = "wallgarden/thumbnail.jpg"
 +++
 

@@ -2,6 +2,7 @@
 title = "Change in Motion"
 description = "Lego characters get involved in the circular economy."
 draft = false
+date = "2017-11-28T12:00:00+10:00"
 image = "stopmotion/thumbnail.jpg"
 +++
 {{< figure src="/img/portfolio/stopmotion/thumbnail.jpg" >}}
