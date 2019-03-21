@@ -115,6 +115,18 @@ disqusShortname = ""
       url = "portfolio/waterstill"
 
     [[params.tiles.showcase]]
+      title = "Modular Wall Garden"
+      subtitle = "A study in modelling for the rotational molding process."
+      image = "portfolio/wallgarden/thumbnail.jpg"
+      url = "portfolio/modularwallgarden"
+
+    [[params.tiles.showcase]]
+      title = "Centrifugal Fan"
+      subtitle = "A study in modelling for injection molding and designing around existing components.  This project also allowed me to explore the fundamentals of centrifugal fan design."
+      image = "portfolio/centrifugalFan/thumbnail.jpg"
+      url = "portfolio/centrifugalFan"
+
+    [[params.tiles.showcase]]
       title = "AC2021"
       subtitle = "An exploration into immersive 3D design, modelling and gaming engines."
       image = "portfolio/ac2021/screenshot.png"
@@ -122,7 +134,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "7 Summits"
-      subtitle = "A Fragrance for the Aspirational Climber"
+      subtitle = "A Fragrance for the Aspirational Climber.  A 2-part project exploring digital fabrication through 3D printing and laser cutting."
       image = "portfolio/7Summits/complete_full_width.jpg"
       url = "portfolio/7summits"
 
@@ -134,7 +146,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "Complete Portfolio"
-      subtitle = "Some more of my work"
+      subtitle = "Some more of my work..."
       image = "IMG_2250.jpg"
       url = "portfolio"
 
