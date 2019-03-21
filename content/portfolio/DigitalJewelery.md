@@ -25,6 +25,7 @@ This piece of assessment was for a digital jewellery class in which we investiga
 
 - Rhino
 - Sculptris
+- Keyshot
 - Adobe InDesign
 - i.Materialise platform
 

@@ -14,7 +14,7 @@ Prior to my journey as a product designer, I spent several years in the software
 
 I am a maker, a tinkerer, a coder, a communicator, and a relator.  I can empathise with colleagues, clients and partners and can make a complex system understandable at a level appropriate to the audience.  I can see the big picture while still sweating the details.  The engineer in me is practicality focussed while the designer in me wants to ensure the right solution is created in the right way.
 
-I like to ride, both with a motor and without.  I enjoy spending time around water - kayaking, sailing and kite boarding when the conditions are right.  I also like to climb rocks or the plastic equivalent.
+I like to ride, both pedal powered or with an engine.  I enjoy spending time around water - kayaking, sailing and kite boarding when the conditions are right.  I also like to climb rocks or the plastic equivalent.
 
 My name is Gerard Rutten.  Contact me [here](/contact/contact)
 
@@ -27,7 +27,7 @@ My name is Gerard Rutten.  Contact me [here](/contact/contact)
     </div>
     <div class="8u 12u$(medium)">
         Solidworks, Fusion 360, Rhino 3D, OpenSCAD </br>
-        Maya, Sculptris, Unity </br>
+        Maya, Sculptris, Unity, KeyShot </br>
         Cura, Slicer </br>
     </div>
 </div>
