@@ -49,6 +49,29 @@ Demonstration and close up of operation.
     </div>
 </div>
 
+</br>
+
+<div class="row">
+    <div class="4u 12u$(medium)">
+        {{< figure src="/img/portfolio/7Summits/CloseUp.jpg" >}}
+    </div>
+    <div class="8u 12u$(medium)">
+        {{< figure src="/img/portfolio/7Summits/Underside.jpg" >}}
+    </div>
+</div>
+</br>
+<div class="row">
+    <div class="3u 12u$(medium)">
+        {{< figure src="/img/portfolio/7Summits/Spring2Extended.jpg" >}}
+    </div>
+    <div class="7u 12u$(medium)">
+        {{< figure src="/img/portfolio/7Summits/SpringDesignProgression.jpg" >}}
+    </div>
+    <div class="2u 12u$(medium)">
+        {{< figure src="/img/portfolio/7Summits/SectionView.jpg" >}}
+    </div>
+</div>
+
 </br >
 
 Skills and Technologies
