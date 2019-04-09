@@ -23,8 +23,6 @@ draft: false
 <br>
 
 ### Option 2 - Rotating Moiré Pattern
-{{< youtube yFEeTelsvKQ >}}
-<br>
 {{< youtube 4EljzGGxArE >}}
 
 <br>
@@ -40,7 +38,8 @@ draft: false
 
 
 ### Option 3 - AR Icons
-<br>
+{{< figure src="/img/IMG_1047.jpg" >}}
+
 
 * Digital implementation
 ** Cost effective
