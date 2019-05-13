@@ -4,6 +4,8 @@ image: ""
 date: 2019-03-12T21:46:18+10:00
 draft: false
 ---
+[< Back to Menu](/3580qca/)
+
 {{< figure src="/img/3580qca/Week03.jpg" >}}
 
 ## Theories
@@ -74,6 +76,8 @@ Again, a great tool for understanding the details behind sustainability issues f
 
 ## Key Readings
 ### Impacts of urban living labs on sustainability transitions: mechanisms and strategies for systemic change through experimentation
+
+[link to annotated pdf](/img/3580qca/readings/wk3_Impacts_of_urban_living_labs_on_sustainability_transitions_mechanisms_and_strategies_for_systemic_change_through_experimentation.pdf)
 
 This reading looks at Urban Living Labs (ULL's), their design practices and their ways of effectiveness - do they effect broader system change and how?  This is done through the case study of 4 exisitng ULL's; 2 in Rotterdam, Netherlands and 2 in Malmö, Sweden.
 

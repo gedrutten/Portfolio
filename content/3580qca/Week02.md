@@ -6,6 +6,7 @@ draft: false
 ---
 Cover image of map of Australia by [Joey Csunyo](https://unsplash.com/photos/2EGuIR00UTk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/world?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
+[< Back to Menu](/3580qca/)
 
 {{< figure src="/img/3580qca/Week02.jpg" >}}
 
@@ -64,6 +65,7 @@ An early narrative is also developed in step 5 which gives everybody on the team
 
 ## Key Readings
 #### Roles of design in sustainability transitions projects: A case study of Visions and Pathways 2040 project from Australia.
+[link to annotated pdf](/img/3580qca/readings/wk2_Roles_of_design_in_sustainability_transitions_projects-A_case_study_of_Visions_and_Pathways_2040_project_from_Australia.pdf)
 
 In this reading, the authors observed the process, methods and outcomes from 2 workshops, one in Sydney and one in Melbourne.  The participants of these workshops came from both professional and non-professional design backgrounds.  As Manzini[^Manzini] puts it, as humans, we inherently have the ability to design - he calls this "diffuse design".  In contrast, Manzini calls professional design "expert design".
 
