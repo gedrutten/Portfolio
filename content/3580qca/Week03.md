@@ -2,7 +2,7 @@
 title: "Week 3: Design Labs International"
 image: ""
 date: 2019-03-12T21:46:18+10:00
-draft: true
+draft: false
 ---
 {{< figure src="/img/3580qca/Week03.jpg" >}}
 
