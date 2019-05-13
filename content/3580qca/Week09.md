@@ -5,7 +5,7 @@ date: 2019-04-30T11:27:08+10:00
 draft: false
 ---
 {{< figure src="/img/3580qca/sam-mcghee-281613-unsplash.jpg" >}}
-_Photo by [Sam McGhee](https://unsplash.com/@sammcghee) on [Unsplash](https://unsplash.com/)_
+Photo by [Sam McGhee](https://unsplash.com/@sammcghee) on [Unsplash](https://unsplash.com/)
 
 
 [< Back to Menu](/3580qca/)

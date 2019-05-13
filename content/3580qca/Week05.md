@@ -1,9 +1,12 @@
 ---
 title: "Week 5: Decolonising Design"
-image: ""
+image: "logan-lambert-1133711-unsplash.jpg"
 date: 2019-03-26T21:46:20+10:00
 draft: false
 ---
+{{< figure src="/img/3580qca/logan-lambert-1133711-unsplash.jpg" >}}
+Photo by [Logan Lambert](https://unsplash.com/photos/P3_EwGX7qpM) on [Unsplash](https://unsplash.com/)
+
 [< Back to Menu](/3580qca/)
 
 {{< figure src="/img/3580qca/Week05.jpg" >}}
