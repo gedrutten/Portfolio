@@ -10,11 +10,52 @@ draft: false
 
 ## Theories
 
+### Video 1: Re-imagine the future - Angela Ogantala (TedX Copenhagen)
+
+{{< figure src="/img/3580qca/AngelaOguntala.jpg" >}}
+
+A couple of key points from this video:
+
+**Our imagined future shapes our current actions**  
+
+Angela gave 2 examples of people that have a prediction for a future - her nephew who deosn't want to go to school because he imagines a future in which a machine will instantly teach him everything he knows.  The second, a man who believes that doomsday is coming and has spent millions of dollars preparing himeself for it.  
+
+In both these situations, the behaviours of the people are based upon the "knowledge" of the future they foresee.  Both these examples are a bit extreme, and so it seems that their behaviour is odd.  Who would buy a liftetime supply of toilet paper just in case the world is overthrown by zombies?  The reality is though, that the futures we envision still make us behave in a certain way, even if the futures we se aren't as extreme as these.  Because of that, our vision of the future can be inspirational, but can also be very restrictive.  We need to check in every now and then and make sure we aren't restricting ourselves.
+
+She also makes a point of how the visions represented at the Worlds fair of 1939 helped to define city planning in America.
+
+**There is an amazing variety of worlds and thoughts out there that we don't expose ourselves to**
+
+Science fiction is a commonly used genre for depicting futures, however, we live in a bubble (you might say this is the result of colonialism) that limits what we're ordinarily exposed to.  Angela suggest we look to things like Carribean Science Fiction, or to asking our grandmothers about what they think the future will look like.
+
+
+### Video 2: How might Einstein solve our problems? Backcasting
+
+<div class="row">
+    <div class="5u 12u$(medium)">
+        {{< figure src="/img/3580qca/Einstein.jpg" >}}
+    </div>
+    <div class="7u 12u$(medium)">
+        Forecasting looks to the past to predict the future, but this is flawed as it means we are looking back to move forward.  Backcasting suggests we look to a future point and work back from there - backcast from success to figure out the actions we need to do now. <br><br>
+        We do this every day in our lives - for instance, we look to an assignment brief to figure out what actions we need to take to achieve our vision of completing that brief.  Outside of the classroom, I regularly use this idea when trying to solve a bouldering problem when rock climbing.  By going to the end of the problem and working back, you can sometimes figure out the moves required to get to the end.  Then you can complete the problem from the start.
+    </div>
+</div>
+
+
+### Black Mirror
+
+I find one of the more modern examples of speculative futures design is the Black Mirror Netflix series.  The series looks at alternative presents or near futures that often highlight the unintended implications of our current trajectories.  Being a popular culture medium, it gets the everyday person thinking baout the future we are creating for ourselves - something desperately needed in this current society where technology is so seductive, but carries with it the potential for great harm.
+
+{{< figure src="/img/3580qca/BlackMirror.jpg" >}}
+
 
 ## Practices
 
 
 ## Tools 
+
+
+
 
 
 ## Key Readings
@@ -23,7 +64,12 @@ draft: false
 
 [link to annotated pdf](/img/3580qca/readings/wk6_speculative_critical_design_futures_in_a_post-political_and_post-utopian_era.pdf)
 
-This 
+This paper discusses the previous era's of science fiction in the common vernacular and how we seem to have powerful visual techniques in the current day, but lack the foresight for meaningful narratives.  White postulates that this is a real problem in our current discourse...
+
+> If we value democracy, if we want to live in a world marked by a vibrant public sphere that can generate the possibilities of hope and human betterment, then we need futures. Without futures, and without serious propositional clashes between different materialized futures, we have no politics, and we have no democracy. We merely have millimetric policy disputes that end up as the technocratic attending to marginally different versions of the status quo.
+We can sense these dangers at the moment when we look at the state of our increasingly illiberal democracies. The problems mount: from climate change to spiraling inequality; from crumbling infrastructure to a surveillance state that has no bounds. Yet, our political culture is fixed and frozen. As such, we find ourselves in a culture that can happily spend $250 million dollars per Hollywood movie to create the next sci-fi fantasy but finds it is beyond its imaginative capacities to design superb, sustainable, public housing. We can build fabulously elaborate multiplayer online fantasy games, where gamer avatars can have sex with their elf girlfriends, but providing web platforms that give working people more democratic control over their workplace is a fantasy too far. The potential of self-driving cars or the rise of Artificial Intelligence can be endlessly debated. But the idea that we might be able to regulate our financial institutions is presented as a process as mysterious, dangerous and futile as the attempt to locate Lord Voldermort's horcruxes.
+
+Pretty scathing account of modern society, but when you consider this, it is one we can relate to.
 
 ### Gaming futures literacy - The Thing From The Future [^GamingFuture]
 
