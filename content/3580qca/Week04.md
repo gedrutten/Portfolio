@@ -4,8 +4,8 @@ image: "clint-adair-68588-unsplash.jpg"
 date: 2019-03-19T21:46:20+10:00
 draft: false
 ---
-{{< figure src="/img/3580qca/clint-adair-68588-unsplash.jpg" >}}
-Photo by [Clint Adair](https://unsplash.com/photos/BW0vK-FA3eg) on [Unsplash](https://unsplash.com/)
+
+Cover photo by [Clint Adair](https://unsplash.com/photos/BW0vK-FA3eg) on [Unsplash](https://unsplash.com/)
 
 [< Back to Menu](/3580qca/)
 

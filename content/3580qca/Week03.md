@@ -1,9 +1,11 @@
 ---
 title: "Week 3: Design Labs International"
-image: ""
+image: "kyle-glenn-598701-unsplash.jpg"
 date: 2019-03-12T21:46:18+10:00
 draft: false
 ---
+Cover photo by [Kyle Glenn](https://unsplash.com/photos/nXt5HtLmlgE) on [Unsplash](https://unsplash.com/)
+
 [< Back to Menu](/3580qca/)
 
 {{< figure src="/img/3580qca/Week03.jpg" >}}

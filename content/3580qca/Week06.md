@@ -1,9 +1,11 @@
 ---
 title: "Week 6: Speculative Futures Design"
-image: ""
+image: "tomasz-frankowski-198764-unsplash.jpg"
 date: 2019-04-02T21:46:20+10:00
 draft: false
 ---
+Cover image by [Tomasz Frankowski](https://unsplash.com/photos/kBUfvkbFIoE) on [Unsplash](https://unsplash.com/
+
 [< Back to Menu](/3580qca/)
 
 {{< figure src="/img/3580qca/Week06.jpg" >}}
@@ -51,11 +53,43 @@ I find one of the more modern examples of speculative futures design is the Blac
 
 ## Practices
 
+It makes sense that any future thinking design lab practice would incorporate Speculative Design into their toolkit.  The design lab matrix confirms my assumption with the following labs listed as participating in Speculative Design:
+
+Superflux
+Circular Design
+Near Future
+Relative Creative
+ARUP Drivers of change
+Artefact
+Studio D
+
+The workbook also mentions [Dunne and Raby's](http://www.dunneandraby.co.uk/content/projects) design practice which isn't actually shown on the matrix.  Anthony Dunne and Fiona Raby are the authors of the book, "Speculative Everything: Design, Fiction and Social Dreaming"[^DunneRaby].
+
 
 ## Tools 
 
+We were presented with the The Thing From The Future Printable playing cards came, however our tutorial time was focussed on the upcoming group assessment.  As an experiment, I decided to give this a go anyway.
 
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3580qca/FUTURETHING_A1.jpg" caption="Arcs" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3580qca/FUTURETHING_T1.jpg" caption="Terrains" >}}
+    </div>
+</div>
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3580qca/FUTURETHING_O1.jpg" caption="Objects" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3580qca/FUTURETHING_M1.jpg" caption="Moods" >}}
+    </div>
+</div>
 
+{{< figure src="/img/3580qca/FUTURETHING_Play.jpg" >}}
+
+To do this I randomly selected a card from each of the randomly selected pages shown above.  To be honest, I found the task a little hard.  In particular, I got stuck on the term "Grow" - as in is it a grow like a plant or animal, or is it more a way of saying scale-up?  I can see how the later version of the cards with just 3 suits instead of 4 and with phrasing to help set the scenario might be easier to work with.
 
 
 ## Key Readings
@@ -103,3 +137,4 @@ I think this is a great idea and I can see it being very powerful in a workshop 
 
 [^Utopian]: White, Damian. "Critical Design and the Critical Social Sciences." Critical Design Critical Futures - Homepage. Accessed May 3, 2019. http://www.cd-cf.org/articles/critical-design-and-the-critical-social-sciences/.
 [^GamingFuture]: Candy, Stuart. (2018). Gaming futures literacy: The Thing From The Future. 
+[^DunneRaby]: Dunne, Anthony, and Fiona Raby. _Speculative Everything: Design, Fiction, and Social Dreaming_. Cambridge: MIT Press, 2013.
