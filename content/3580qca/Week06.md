@@ -20,15 +20,15 @@ A couple of key points from this video:
 
 **Our imagined future shapes our current actions**  
 
-Angela gave 2 examples of people that have a prediction for a future - her nephew who deosn't want to go to school because he imagines a future in which a machine will instantly teach him everything he knows.  The second, a man who believes that doomsday is coming and has spent millions of dollars preparing himeself for it.  
+Angela gave 2 examples of people that have a prediction for a future - her nephew who doesn't want to go to school because he imagines a future in which a machine will instantly teach him everything he knows.  The second, a man who believes that doomsday is coming and has spent millions of dollars preparing himself for it.  
 
-In both these situations, the behaviours of the people are based upon the "knowledge" of the future they foresee.  Both these examples are a bit extreme, and so it seems that their behaviour is odd.  Who would buy a liftetime supply of toilet paper just in case the world is overthrown by zombies?  The reality is though, that the futures we envision still make us behave in a certain way, even if the futures we se aren't as extreme as these.  Because of that, our vision of the future can be inspirational, but can also be very restrictive.  We need to check in every now and then and make sure we aren't restricting ourselves.
+In both these situations, the behaviours of the people are based upon the "knowledge" of the future they foresee.  Both these examples are a bit extreme, and so it seems that their behaviour is odd.  Who would buy a lifetime supply of toilet paper just in case the world is overthrown by zombies?  The reality is though, that the futures we envision still make us behave in a certain way, even if the futures we se aren't as extreme as these.  Because of that, our vision of the future can be inspirational, but can also be very restrictive.  We need to check in every now and then and make sure we aren't restricting ourselves.
 
 She also makes a point of how the visions represented at the Worlds fair of 1939 helped to define city planning in America.
 
 **There is an amazing variety of worlds and thoughts out there that we don't expose ourselves to**
 
-Science fiction is a commonly used genre for depicting futures, however, we live in a bubble (you might say this is the result of colonialism) that limits what we're ordinarily exposed to.  Angela suggest we look to things like Carribean Science Fiction, or to asking our grandmothers about what they think the future will look like.
+Science fiction is a commonly used genre for depicting futures, however, we live in a bubble (you might say this is the result of colonialism) that limits what we're ordinarily exposed to.  Angela suggest we look to things like Caribbean Science Fiction, or to asking our grandmothers about what they think the future will look like.
 
 
 ### Video 2: How might Einstein solve our problems? Backcasting
@@ -46,7 +46,7 @@ Science fiction is a commonly used genre for depicting futures, however, we live
 
 ### Black Mirror
 
-I find one of the more modern examples of speculative futures design is the Black Mirror Netflix series.  The series looks at alternative presents or near futures that often highlight the unintended implications of our current trajectories.  Being a popular culture medium, it gets the everyday person thinking baout the future we are creating for ourselves - something desperately needed in this current society where technology is so seductive, but carries with it the potential for great harm.
+I find one of the more modern examples of speculative futures design is the Black Mirror Netflix series.  The series looks at alternative presents or near futures that often highlight the unintended implications of our current trajectories.  Being a popular culture medium, it gets the everyday person thinking about the future we are creating for ourselves - something desperately needed in this current society where technology is so seductive, but carries with it the potential for great harm.
 
 {{< figure src="/img/3580qca/BlackMirror.jpg" >}}
 

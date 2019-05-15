@@ -48,7 +48,7 @@ There are 6 principles to a rhizome:
     When cut or broken, it will continue to grow
 5. Cartography
 6. Decalcomania
-    These 2 points mean that there is no master plan, but the reslt can be mapped.
+    These 2 points mean that there is no master plan, but the result can be mapped.
     
 If you make a comparison of website structure, Wikipedia is a site that allows you to jump from one topic to another through the hyperlinks in a very unstructured way.  Other sites, such as the My Griffith website are built around a central home page which that encourages you to follow a hierarchical path when navigating to the topic you're looking for.  In the latter example, a certain topic must be navigated to in a prescribed way, whereas with the Wikipedia example, you may find a particular topic linked to from an unlikely source.
 
@@ -63,7 +63,7 @@ During class, the video was paused a number of times to allow consideration of a
 _Q. Who is the ‘author’ of your video?_  
 A. We are the creator, but the reality is that (as per Roland Bathes), the viewer will create a story in their head based upon the film we show them - in that case, the viewer is the author of their experience.  This story will be influenced by their background and views - left/right wing, age, etc.
 
-We can influence this by bringing meaning, nto just a narrative.  Establish character - use semiotics, person, place, culture (and subculture) to create the meaning, constantly aware of how the viewer might interpret these meanings that are created.  Establish location through the use of wide/mid/close framing of the shot.  Establish motivation.
+We can influence this by bringing meaning, not just a narrative.  Establish character - use semiotics, person, place, culture (and subculture) to create the meaning, constantly aware of how the viewer might interpret these meanings that are created.  Establish location through the use of wide/mid/close framing of the shot.  Establish motivation.
 
 
 _Q. Who is the character you need to establish in your video?_  
@@ -82,16 +82,16 @@ _Q. What is the right sound for your approach?_
 A. Our video intends to show the negative and move to a positive facilitated by the solution we're providing.  For this reason, we're planning somber music to start with, progressing to happy, motivational vibes once the solution has been presented and the more positive outcome is shown.
 
 _Q. How could your visual ecology as parts/scenes in your video create a whole intention?_  
-A. The Visual Ecology is the colours / composition (symmetrical / asymmetrical - tension) and so on.  For this video, we're likely to reduce the image saturation in the early (negative story) parts of the film with more staurated and vibrant imagery towards the later aspects (positive solution).
+A. The Visual Ecology is the colours / composition (symmetrical / asymmetrical - tension) and so on.  For this video, we're likely to reduce the image saturation in the early (negative story) parts of the film with more saturated and vibrant imagery towards the later aspects (positive solution).
 
 _Q. How does the discussion on rhizomatic thinking in film making fit well with systemic design thinking we have already covered in the class?_  
 A. Rhizomatic thinking is non-structured and doesn't rely on a hierarchical framework.  The problems we're trying to solve in Design Lab are regarded as "Wicked Problems" that are said to be "Messy".  Rhizomatic thinking resonates with this kind of problem.
 
 _Q. What kind of light and shadow is there to consider in your filming?_  
-A. Again, the earlier images will be more dark and moody, and the later iamges bringht and colourful.
+A. Again, the earlier images will be more dark and moody, and the later images bright and colourful.
 
 _Q. How long might each clip in your timelines be (hint 4-6 secs)?_  
-A. 4-6 seconds.  It looks like we will mananage with a lot of found content rather than need to shoot new footage.  Some frames may also be straight text to make a real impact - particularly those that ponder a question.
+A. 4-6 seconds.  It looks like we will manage with a lot of found content rather than need to shoot new footage.  Some frames may also be straight text to make a real impact - particularly those that ponder a question.
 
 _Q. How might you write a synopsis?_  
 A. Why do we continue to destroy lives and destroy the planet to extract resources when we already have them and are simply disposing of them instead of recycling them?
@@ -186,7 +186,7 @@ Some tips given on how to tell a narrative:
 + Ebbs and flows
 + Allow viewer to breath and reflect
     + 5-10 seconds of silence to help
-+ Need a catalayst
++ Need a catalyst
 + Around about the midpoint, provide a call to action (sense of hope)
 + Provide a B-story - how people’s lives are affected
 + Finally, resolve the conflict 
@@ -197,7 +197,7 @@ Some tips given on how to tell a narrative:
 
 There was no specific readings for this week, however I did track down and go through the original english translation of the "Death of the Author" essay.  In many ways, I agree with the outcome of this essay - we all are the product of our experiences, and the way we interpret anything is going to be influenced by those experiences.  It is true that in order to understand a creative work, we often look to the creator to try to understand their motives and background.  In this way we attempt to understand the **intended meaning** of the piece.  This is really a conscious choice on the part of the observer - one can approach a creative piece and choose to understand it in the way it affects them and the way they interpret it, or they can search for the intended meaning of the creator of that piece.
 
-Either way, as creators, we should always consider that what we produce can be consumed by a variety of people and each will apply their own understanding from their own life experiences.  This may result in observers understanding the piece in a different way to how it was intended.  We should ensure that we don't make broad assumptions about our audience and if the understanding of a message is important, we should be explicit in delivering it's meaning.
+Either way, as creators, we should always consider that what we produce can be consumed by a variety of people and each will apply their own understanding from their own life experiences.  This may result in observers understanding the piece in a different way to how it was intended.  We should ensure that we don't make broad assumptions about our audience and if the understanding of a message is important, we should be explicit in delivering its meaning.
 
 The flipside is that we can use the audience's pre-concieved ideas to our advantage by playing on stereotypes and setting scenes that we know will generate a feeling or an understanding.  This of course relies on a general knowledge of the intended audience and that they will pick up on these cues.
 

@@ -11,7 +11,7 @@ draft: false
 
 ## Theories
 #### Introduction Video
-In this video, we learnt a lot about Tristan Scultz and his design practice, [Relative Creative](https://relativecreative.com.au).  This subject _is_ called Design Lab Practice, so perhaps Tristan intends to use his design practice as a case study throughout the course.  Design labs were framed as a key tool in recognising and resolving wicked problems, not necessarilly through fixing the problems themselves, but through providing facilitation and tools that assist with creating effective solutions.
+In this video, we learnt a lot about Tristan Schultz and his design practice, [Relative Creative](https://relativecreative.com.au).  This subject _is_ called Design Lab Practice, so perhaps Tristan intends to use his design practice as a case study throughout the course.  Design labs were framed as a key tool in recognising and resolving wicked problems, not necessarily through fixing the problems themselves, but through providing facilitation and tools that assist with creating effective solutions.
 
 There was also a great video from ARUP that formed part of this introductory video.  ARUP presented a solid case for why we need to think big to solve some of the world's wicked problems.
 
@@ -21,7 +21,7 @@ A couple of quotes from this video that particularly resonated with me:
 
 > "Stop.  And think about the future we're each creating every day through our actions or inaction"
 
-The video outlines the massive changes happening to the planet in terms of population growth and capital growth and the inequity that is happening as a result of the imbalance between these.  It talks of the impacts of what we do on the climate of the planet and ponders the potential for food shortages in the future.  ARUP proposes that technology holds the keys to the solution to these problems, but also the need for humainity to step in and take responsibility.  Our actions today shape the future of tomorrow.
+The video outlines the massive changes happening to the planet in terms of population growth and capital growth and the inequity that is happening as a result of the imbalance between these.  It talks of the impacts of what we do on the climate of the planet and ponders the potential for food shortages in the future.  ARUP proposes that technology holds the keys to the solution to these problems, but also the need for humanity to step in and take responsibility.  Our actions today shape the future of tomorrow.
 
 
 ## Practices
@@ -60,7 +60,7 @@ We created a team consisting of members from different majors:
 + Daniel Wedmaier - Interior Design and Environments
 + Myself - Product and 3D Design
 
-We've all had at least some time between high school and university that has also given us a broader view of life and a varied set of backgrounds.  In chatting, we discovered that we each have strengths that will complement each other and clear roles began to emerge.  Since Griffith has moved to the Microsoft Office platform, we chose to use this as our base for sharing files.  We also chose to use WhatsApp as a messaging platform since it is cross platform and the majority of the team already had accounts with it.
+We've all had at least some time between high school and university that has also given us a broader view of life and a varied set of backgrounds.  In chatting, we discovered that we each have strengths that will complement each other and clear roles began to emerge.  Since Griffith has moved to the Microsoft Office platform, we chose to use this as our base for sharing files.  We also chose to use WhatsApp as a messaging platform since it is cross-platform and the majority of the team already had accounts with it.
 
 Although we haven't figured out what we want to target for our proposal, of the 5 categories, we feel Conscious Consumption is the category we're most passionate about.
 

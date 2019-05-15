@@ -15,18 +15,18 @@ Photo by [Glenn Carstens-Peters](https://unsplash.com/photos/npxXWgQ33ZQ?utm_sou
 ## Creating a presentation package
 
 1. Think about what each page will say - take your audience on a journey
-2. Think about how the work is beig viewed (will it be on a screen?)  
+2. Think about how the work is being viewed (will it be on a screen?)  
 a. Readable fonts and font sizes  
 b. size of images  
 c. quality of images  
-3. Does the presenation look professional?  
+3. Does the presentation look professional?  
 a. Think about hierarchy - what parts are particularly important at a glance  
 b. spell check  
 c. give images and text room to breath  
 d. draw the viewer's eye to important components
 
 
-For our assessment, we've created a basic outline of the overall structure of the final document.  This has allowed each of us to understand what is expected of us and how much.  We're alos in a position to understand the context that our contribution will be placed in making it easier to slot into the narrative that the presentation structure affords.
+For our assessment, we've created a basic outline of the overall structure of the final document.  This has allowed each of us to understand what is expected of us and how much.  We're also in a position to understand the context that our contribution will be placed in making it easier to slot into the narrative that the presentation structure affords.
 
 
 ### Grants writing
@@ -54,7 +54,7 @@ Some things to consider when applying for a grant:
 
 + Look into how the grant fits into the city's idea of the message they want to convey.  Look into the grand plan and how the project fits within this plan.  Check any supporting documentation.  
 + Contact the person administrating the grant to get tips and to find out if there's any point in applying.
-+ Note the project start date - there may be restrictions around how long out the start date is relative to the aplication date.
++ Note the project start date - there may be restrictions around how long out the start date is relative to the application date.
 + Make sure you use language that matches the grants vision.  \
 + Make sure you support any benefits of the project with explanations of why.
 + Make sure you don't include costings for things that the grant doesn't cover - eg.  some grants wont cover renting space.
@@ -72,9 +72,9 @@ It shows that other, industry related, people think that
 
 Often it is worth using this part of grants to show that you have support such as:
 
-+ A letter form anyone letting you use their space or business  
++ A letter from anyone letting you use their space or business  
 + A letter from anyone offering in-kind support of some kind  
-+ A letter form key collaborators that need to be on board for the project.
++ A letter from key collaborators that need to be on board for the project.
 
 
 

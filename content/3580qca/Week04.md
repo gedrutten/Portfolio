@@ -20,12 +20,12 @@ A. Implications are that by observing emergence and self-organisation, we can de
 
 
 _Q. How, in framing design problems within tight contexts, do we ‘deny’ the complexity of the system we are designing in and for?_  
-A. By restriciting design to a tight context, you implicitly ignore something else.  We don't necessarily even know the full extent of the context - it may reveal itself as part of the design process.  If we frame a problem to a specific context, we may rule out, or just not even see a context that may be far more effective at resolving the actual problem.  
+A. By restricting design to a tight context, you implicitly ignore something else.  We don't necessarily even know the full extent of the context - it may reveal itself as part of the design process.  If we frame a problem to a specific context, we may rule out, or just not even see a context that may be far more effective at resolving the actual problem.  
 
 Somebody once said that if Henry Ford made what people wanted, then he would have given them a faster horse.  By restricting the context of road transport to the traditional horse-and-cart solution of the day, the "better" solution of the automobile would never have been discovered (although some might disagree with this given the future that has been created as a result).
 
 _Q. Can you think of ways that the inherent dynamics within complex systems can be leveraged in design solutions?_  
-A. Observe the connectedness - ther relationships.  Since complex systems exist as a set of relationships, these can be focussedo n to provide a solution.  Feedback can also be leveraged by letting the designer know if they are on the right track, or if the inputs they are providing are deviating from the desired course.
+A. Observe the connectedness - their relationships.  Since complex systems exist as a set of relationships, these can be focussed on to provide a solution.  Feedback can also be leveraged by letting the designer know if they are on the right track, or if the inputs they are providing are deviating from the desired course.
 
 
 ## Practices
@@ -66,7 +66,7 @@ A. Observe the connectedness - ther relationships.  Since complex systems exist 
         {{< figure src="/img/3580qca/SDT_Logo.jpg" >}}
     </div>
     <div class="6u 12u$(medium)">
-        A series of designers and systems thinkers have developed a step-by-step approach to systemic design.  Each step corresponds to a new phase in the design process and helps participants consider design with a systems approach through specially designed activites.
+        A series of designers and systems thinkers have developed a step-by-step approach to systemic design.  Each step corresponds to a new phase in the design process and helps participants consider design with a systems approach through specially designed activities.
         </br></br>
         <a href="https://www.systemicdesigntoolkit.org">https://www.systemicdesigntoolkit.org</a>
     </div>
@@ -103,11 +103,11 @@ This journal article looks at the departure of thinking from dualist nature to o
 
 > The entire material world, ultimately, is a network of inseparable patterns of relationships. (p242[^Capra])
 
-> Evolution is no longer seen as a completitive struggle for existence, but rather as a cooperative dance in which cretivity and the constant emergence of novelty are the driving forces. (p243[^Capra])
+> Evolution is no longer seen as a competitive struggle for existence, but rather as a cooperative dance in which creativity and the constant emergence of novelty are the driving forces. (p243[^Capra])
 
-Ultimately, the 3 above quotes from the forst 2 pages of this journal article change the way we think of the world from something of relatively independant beings operating solo to a world of interconnected beings cooperating, not cometing, to eveolve.
+Ultimately, the 3 above quotes from the first 2 pages of this journal article change the way we think of the world from something of relatively independent beings operating solo to a world of interconnected beings cooperating, not something, to evolve.
 
-Later, Capra argues that the cognitive sciences describe a mind that is not a thing, but a process - a network of self-generating and self-organising netowrk of components.  He continues to look at biology to develop the thought of the network.
+Later, Capra argues that the cognitive sciences describe a mind that is not a thing, but a process - a network of self-generating and self-organising network of components.  He continues to look at biology to develop the thought of the network.
 
 In the closing pages of the article, Capra brings the discussion from the (quite interesting) biological context to the social context.
 
@@ -127,20 +127,20 @@ This chart demonstrates and helps us conceptualise the interconnections and syst
 ### Living Systems Principles
 [link to annotated pdf](/img/3580qca/readings/wk4_Living_Systems_Principles.pdf)
 
-This paper outlines the key principles of living systems and how the biological systems apply to design.  It's interesting how so many parallels can be made between actual biological living systmes and that of systemic design practice.  This paper outlines 10 key attributes that apply to both:
+This paper outlines the key principles of living systems and how the biological systems apply to design.  It's interesting how so many parallels can be made between actual biological living systems and that of systemic design practice.  This paper outlines 10 key attributes that apply to both:
 
 1. Organizationally open, self-organizing and ‘autopoetic’  
-    Meaning they self-replicate, self-organise and take inputs form outside their context.  It is obvious that the human body exhibits these attributes - we've all seen the video of a single cell doubling over and over to create a baby.  Nothing external tells the cells to mae the various parts of the body, they just do it all by themselves.  
+    Meaning they self-replicate, self-organise and take inputs from outside their context.  It is obvious that the human body exhibits these attributes - we've all seen the video of a single cell doubling over and over to create a baby.  Nothing external tells the cells to mae the various parts of the body, they just do it all by themselves.  
 2. Operate in a state far from equilibrium  
     A system that is effected by (or requires input from) external influence is inherently unstable. 
 3. Have ‘emergent’ properties  
     Like the walkways example given in class, a system will reveal solutions if you observe the emergent properties.
-4. Their structure is networed, holarchic, and fractal  
-    A system consists of sytems within systems interconnected by relationships.  Each part is a whole in itself, but so is the sum of parts.  Designers need to see the big picture while still sweating the small stuff (and keep an eye on what it is that connects the two).
+4. Their structure is networked, holarchic, and fractal  
+    A system consists of systems within systems interconnected by relationships.  Each part is a whole in itself, but so is the sum of parts.  Designers need to see the big picture while still sweating the small stuff (and keep an eye on what it is that connects the two).
 5. Are sensitive to initial conditions  
     As in climate change - the biosphere that is our earth has shown us the result of what happens when you produce greenhouse gasses en masse.  These are the initial conditions (in this case, they are continuing), and the result may be that we get a runaway rise in temperature.
 6. Are controlled/regulated through feedback  
-    Responding to the effect of our designs.  It makes sense that if we acknowledge that we cannot fully understad these entire problem spheres, then we need to implement ways to respond to unexpected responses (both good and bad).
+    Responding to the effect of our designs.  It makes sense that if we acknowledge that we cannot fully understand these entire problem spheres, then we need to implement ways to respond to unexpected responses (both good and bad).
 7. When healthy, have high degree of diversity  
     We can't assume one-design-fits-all.
 8. Comprised of non-linear relationships  

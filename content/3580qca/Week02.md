@@ -13,14 +13,14 @@ Cover image of map of Australia by [Joey Csunyo](https://unsplash.com/photos/2EG
 
 ## Theories
 
-Design practice has traditionally been associated with the structured approach to creating a tangible outcome, be it a website, marketting material, product or other "thing".  As the world begins to tackle bigger issues, design theories and tools are being leaned on to help solve these issues.  As a result, design as a practice is moving from the design studio to the design lab where design is used for a process rather than a product.
+Design practice has traditionally been associated with the structured approach to creating a tangible outcome, be it a website, marketing material, product or other "thing".  As the world begins to tackle bigger issues, design theories and tools are being leaned on to help solve these issues.  As a result, design as a practice is moving from the design studio to the design lab where design is used for a process rather than a product.
 
 The readings for this week address the need for greater design-for-process education in our institutions to better prepare us for the increase in the need for design labs in the future as we realise that these wicked problems we are tackling are large, messy problems that require more than a quick-fix solution. 
 
 
 ## Practices
 
-Looking at the Australian design labs, a lot of them are looking at isolated scale systemic design at a local level.  Very few, Relative Creative being one of them are in the Culturally Systemic (ie. global), trasitional design paradigm space.  
+Looking at the Australian design labs, a lot of them are looking at isolated scale systemic design at a local level.  Very few, Relative Creative being one of them are in the Culturally Systemic (ie. global), transitional design paradigm space.  
 
 + Paper Giant - strategic design consultancy they help you understand and solve complex problem, offer services, combine research, design and strategy.
 + Inkahoots - Transitional, but are designing in a relatively isolated manner.  Politically driven.
@@ -32,13 +32,13 @@ Looking at the Australian design labs, a lot of them are looking at isolated sca
 + Relative Creative - transitional (at least aspirationally radical solutions)
 
 _Q. How would you characterise the difference between a traditional approach to a design studio and the concept of design labs?_  
-A. A traditional design studio was focussed on deveoping a tangible product or outcome whereas the design lab is more process based - a facilitator of multi-disciplinary contribuotrs to a bigger problem.  There is an increased focus on sustainability and experimentation, participatory approach, ethnographic research.
+A. A traditional design studio was focussed on developing a tangible product or outcome whereas the design lab is more process based - a facilitator of multi-disciplinary contributors to a bigger problem.  There is an increased focus on sustainability and experimentation, participatory approach, ethnographic research.
 
 _Q. How are current, typical ways of being in the world problematic?  Is self-reflection and awareness of your own value set part of your design process?_  
-A. We exist in this western world bubble, many of us with white priviledge.  Have to make sure that we dont allow our inherent bias to effect our design process and that we empathise with the people that will be impacted by our design.  Our values as designers is often in conflict to the values of business (we value sustainability, business values monetary gains).  In terms of the Melbourne City Lab, there is an obvious potential for bias toward the interests of the council that supports them.
+A. We exist in this western world bubble, many of us with white privilege.  Have to make sure that we don't allow our inherent bias to effect our design process and that we empathise with the people that will be impacted by our design.  Our values as designers is often in conflict to the values of business (we value sustainability, business values monetary gains).  In terms of the Melbourne City Lab, there is an obvious potential for bias toward the interests of the council that supports them.
 
 _Q. Debate whether Australian 'design labs' are doing 'enough' to transition to radically new social, economic and political paradigms?_  
-A. According to the matrix curated by Tristan, no, Australian design labs are not doing enough.  Many have been categorised as either operating in a bubble of sorts (non-participatory), are just not thinking big enough (systematic, but not culturally systematic), or are not pushing the bubble in terms of radically new approaches to socio-economic paradigms.  In Tristans matrix, he only identifies his own design lab as aspiring to push the boundaries.
+A. According to the matrix curated by Tristan, no, Australian design labs are not doing enough.  Many have been categorised as either operating in a bubble of sorts (non-participatory), are just not thinking big enough (systematic, but not culturally systematic), or are not pushing the bubble in terms of radically new approaches to socio-economic paradigms.  In Tristan's matrix, he only identifies his own design lab as aspiring to push the boundaries.
 
 
 
@@ -49,7 +49,7 @@ A. According to the matrix curated by Tristan, no, Australian design labs are no
 
 As a group we haven't yet locked down a specific task, so we weren't able to undertake this task.  However, looking at the process, a couple of key things stand out.
 
-The first cople of steps are straightforward; gettingt he group together and clarifying the goal.  In the third step, 4 questions need to be answered:
+The first couple of steps are straightforward; getting the group together and clarifying the goal.  In the third step, 4 questions need to be answered:
 
 + What impact do you hope to have? (set a small and achievable goal)
 + What does success look like? How will you know when you get there?
@@ -58,9 +58,9 @@ The first cople of steps are straightforward; gettingt he group together and cla
 
 These are interesting prompting questions that would hep to ensure that the impact is measurable (what does success look like?).  Interestingly, this aspect of the questioning is different from the "how" - it is the "what" and it separates the outcome from the path to achieving the outcome.  This gives the process room to develop as log as the eventual outcome is still achieved.  The next couple of questions are similar to the kind of questioning you might find in a personality test - strengthen the strengths, identify and deal with the weaknesses.
 
-Step 5 makes sure the next steps are idetified giving the team a way to move forward and a list of people to get in touch with to help achieve the teams goals.  By doing this, it eliminates the potential to be paralysed by indecision since the outcomes of this step would be a clear direction to follow.
+Step 5 makes sure the next steps are identified giving the team a way to move forward and a list of people to get in touch with to help achieve the teams goals.  By doing this, it eliminates the potential to be paralysed by indecision since the outcomes of this step would be a clear direction to follow.
 
-An early narrative is also developed in step 5 which gives everybody on the team a consistent story to tell in conversation.  Its always interesting when you speak to friends about the work you're undertaking.  Quite often a seed of discussion can lead to discovering skillsets, resources or contacts that are already available in your circle of friends.  By having this narrative, these connections can be made.
+An early narrative is also developed in step 5 which gives everybody on the team a consistent story to tell in conversation.  It's always interesting when you speak to friends about the work you're undertaking.  Quite often a seed of discussion can lead to discovering skillsets, resources or contacts that are already available in your circle of friends.  By having this narrative, these connections can be made.
 
 
 ## Key Readings
@@ -71,9 +71,9 @@ In this reading, the authors observed the process, methods and outcomes from 2 w
 
 During the experiment, it was observed that the activities associated with traditional design - ie. generating an output; formed only a small part of the design activities.  A significant element of the design was in the design activities highlighted as those required in the process of Transitional Design
 
-> Only a small portion of the roles that were explicitly observed in this exploration were related to generation of traditional forms of design outputs such as visualisations.  Majority of the roles played by design were related to injuiry and process, in how problems and potential solutions were framed and how knowledge was acquired and synthesized. (1304[^VP2040])
+> Only a small portion of the roles that were explicitly observed in this exploration were related to generation of traditional forms of design outputs such as visualisations.  Majority of the roles played by design were related to injury and process, in how problems and potential solutions were framed and how knowledge was acquired and synthesized. (1304[^VP2040])
 
-The paper goes on to highlight the idea that in the short term, design as a process (as in Transitional Design) will not necessarilly be financially recognised.  It is envisaged that these skills are most likely to be employed in large design consultancies and organisations that might be involved in public policy creation.
+The paper goes on to highlight the idea that in the short term, design as a process (as in Transitional Design) will not necessarily be financially recognised.  It is envisaged that these skills are most likely to be employed in large design consultancies and organisations that might be involved in public policy creation.
 
 They postulate though that as society begins to recognise the role of transition design in bringing multi-disciplinary teams together to tackle larger, wicked design problems, that there will be more demand for this approach to design and that academic institutions will need to adapt to ensure a supply of designers are ready for this type of role.
 
