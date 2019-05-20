@@ -3,6 +3,7 @@ title: "Week 6"
 date: 2019-04-04T12:00:00+10:00
 draft: false
 ---
+[< Back to Menu](/jso/)
 
 So the first critique is complete.  I presented the Bodhi Necklace concept, but now I am thinking of changing my topic.  During the critique, I needed to substantiate my influences for choosing the concept.  At this point I realised that this is not something I feel strongly about and it was simply a creation of things I had heard friends say they wanted.  Although I can substantiate solid foundations for why I came to the concept I did, it doesnt really represent something I am passionate about.
 

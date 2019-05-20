@@ -1,12 +1,13 @@
 ---
 title: "Week07"
 date: 2019-04-11T22:13:12+10:00
-draft: true
+draft: false
 ---
+[< Back to Menu](/jso/)
 
 Looked into kinetic art and kinetic sculpture in the library.  There was 4 physical books, all from the late 20th century, and very worn.  I did come across some good ideas - for instance the Reuleux constand diameter shape - a non-circular form that still tracks a constant width.  Ie. you can use it as a rolling form, but the axis does not remain in the same place.
 
-<< Insert pics of constant diameter shapes fmor library book >>
+<< Insert pics of constant diameter shapes from library book >>
 
 Although this is an interesting concept, I didn't feel it was something I could incorporate into a piece for this subject.
 

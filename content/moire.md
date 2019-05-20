@@ -1,5 +1,5 @@
 ---
-title: "Moire Animation"
+title: "Moiré Animation"
 image: "Pacman-08.png"
 date: 2019-05-16T22:31:39+10:00
 draft: false
