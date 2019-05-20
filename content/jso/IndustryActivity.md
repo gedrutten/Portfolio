@@ -16,6 +16,8 @@ draft: false
 + 7-Mar: Artist space visit and talk to a resident artist - Annerley Rd ([More info](/jso/week02#gallery-opening-jewellery-and-body-space-xiaohui-yang))
 + 8-Mar: Attended Opening - Jewellery and Body Space, Xiaohui Yang ([More info](/jso/week02#artist-space-visit-annerley-rd))
 
+I generally try to get to most of the galleries that are on around campus, however I dont usually take a lot of photos, so I haven't written about them here.
+
 
 ## Extra-Curricular Jewellery Making
 + Attempted to make a spherical pendant using squared wire.  Found the angles and measurements a real challenge!
@@ -30,3 +32,6 @@ draft: false
         {{< figure src="/img/jso/IMG_4262.jpg" >}}
     </div>
 </div>
++ Silver dog-paw earrings.
+        {{< figure src="/img/jso/IMG_4186.jpg" width="50%" >}}
+

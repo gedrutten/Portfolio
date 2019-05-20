@@ -5,7 +5,9 @@ description: "Jump rings"
 date: 2019-03-22T22:47:52+10:00
 draft: false
 ---
-[< Back to Menu](/jso/)
+[< Back to Menu](/jso/)  
+[< Week 3](/jso/week03) | [Week 5 >](/jso/week05)
+
 
 ## Class
 
@@ -50,4 +52,5 @@ I've often found discrete electronic components to be aesthetically under-apprec
 </div>
 
 
-[< Back to Menu](/jso/)
+[< Back to Menu](/jso/)  
+[< Week 3](/jso/week03) | [Week 5 >](/jso/week05)

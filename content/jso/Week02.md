@@ -6,7 +6,8 @@ date: 2019-03-08T22:48:43+10:00
 tags: ["JSO", "Week 2", "2393QCA"]
 draft: false
 ---
-[< Back to Menu](/jso/)
+[< Back to Menu](/jso/)  
+[< Week 1](/jso/week01) | [Week 3 >](/jso/week03)
 
 ## Class
 In class this week, we used the rollers to make impressions on aluminium.  We also used the matrix press to create impressions.  In the image below, I'd used some plastic mesh for the upper left section and some bandage for the effect on the lower right.  The wire in the second image was used in the hydraulic press with urethane spacers to form the bend in the sheet aluminium.
@@ -94,5 +95,6 @@ I attended the opening evening of Jewellery and Body Space by Xiaohui Yang.  Ser
 </div>
 
 
-[< Back to Menu](/jso/)
+[< Back to Menu](/jso/)  
+[< Week 1](/jso/week01) | [Week 3 >](/jso/week03)
 

@@ -30,9 +30,16 @@ I'm inspired by kinetic art, particularly self-powered kinetic art.  I think its
     </div>
 </div>
 
+Howe and Whitaker are particularly relevant to this piece as they both harness the wind to generate their kinetic motion.
+
 I discovered this thermal effect one evening while experimenting.  I was trying to use the heat from a candle to move water up a coil of chenier similar to the way a solar pool heater works.  I wasn't successful at moving water, but I noticed the updraft and tried to move a fan instead.  Using some sheet aluminium, I created something that worked.
 
-<center> {{< figure src="/img/jso/IMG_4050.mp4">}} </center>
+<center> 
+    <video width="406" height="720" controls>
+        <source src="/img/jso/IMG_4050.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+</center>
     
 This lead to the idea of repetitive thoughts and the embedding of the rotating fan inside a head form.  The idea behind a partial representation of a head was inspired by an MC Escher image in which the outer skin of the heads are represented by a ribbon.  The ribbon only partially creates the forms, and the viewer's mind fills the gaps between.  I didn't use ribbon, instead opting to go for key panels - the eyes and the back of the head.  I also created a chin, but it didn't _feel_ the same as the rest of the piece, so it wasn't included.  The chin and mouth form are now conveyed with wire.
 
@@ -52,12 +59,17 @@ To help create the form, I worked with a digital model of a head and editied it 
 The kinetic functionality was added with a tealight holder in the base and a vertical axle in the physical location of the mind.  A single wire ring serves to protect the spinning fan and also to help imply the forehead shape.
 
 
-<center>
-<video width="607" height="1080" controls>
-  <source src="/img/jso/IMG_4275.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</center>
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/jso/IMG_4277.jpg" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        <video width="455" height="610" controls>
+          <source src="/img/jso/IMG_4275.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+        </video>
+    </div>
+</div>
 
 <br>
 

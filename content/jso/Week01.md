@@ -6,7 +6,9 @@ date: 2019-02-25T22:48:43+10:00
 tags: ["JSO", "Week 1", "2393QCA"]
 draft: false
 ---
-[< Back to Menu](/jso/)
+[< Back to Menu](/jso/)  
+[Week 2 >](/jso/week02)
+
 
 A couple of inspirational images I found in "Sustainable Jewellery" by Julia Manheim.[^Manheim]
 
@@ -93,7 +95,9 @@ I have looked at moire effect before, but only in the context of parrallel lines
 
 
 
-[< Back to Menu](/jso/)
+[< Back to Menu](/jso/)  
+[Week 2 >](/jso/week02)
+
 
 [^Manheim]: Manheim, Julia. _Sustainable Jewellery_. London: A&C Black, 2009.
 

@@ -5,7 +5,8 @@ description: "Disc cutters and doming"
 date: 2019-03-15T22:47:47+10:00
 draft: false
 ---
-[< Back to Menu](/jso/)
+[< Back to Menu](/jso/)  
+[< Week 2](/jso/week02) | [Week 4 >](/jso/week04)
 
 ## Class
 
@@ -30,4 +31,5 @@ This week we were introduced to the fly press, the disc cutter and the doming to
 
 
 
-[< Back to Menu](/jso/)
+[< Back to Menu](/jso/)  
+[< Week 2](/jso/week02) | [Week 4 >](/jso/week04)

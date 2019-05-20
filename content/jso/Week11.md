@@ -1,11 +1,13 @@
 ---
-title: "Week11"
+title: "Week 11"
 image: "wk11.jpg"
 description: "Bringing it together"
 date: 2019-05-19T22:48:20+10:00
 draft: false
 ---
-[< Back to Menu](/jso/)
+[< Back to Menu](/jso/)  
+[< Week 10](/jso/week10)
+
 
 In class, I spent the majority of my time finalising the pieces I had so that I could assemble them later in the week.  One issue I had in class was with the chin piece.  It was soldered and three was a small gap between the 2 pieces.  A solution was to fill the gap with a small piece of brass and then later file it off.  Here's is the small piece I inseted.  I later filed it off flush, but the inside portion of the plug was difficult to remove with hand tools perhaps I could have removed it with the hand drills?
 
@@ -43,4 +45,5 @@ Precarious positioning.  Everything gets harder when it's an odd, and large shap
 </div>
 
 
-[< Back to Menu](/jso/)
+[< Back to Menu](/jso/)  
+[< Week 10](/jso/week10)
