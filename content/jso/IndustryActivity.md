@@ -1,6 +1,7 @@
 ---
 title: "Industry Activity Log"
-date: 2019-05-19T22:47:10+10:00
+image: "AT3.jpg"
+date: 2019-05-19T23:47:10+10:00
 draft: false
 ---
 [< Back to Menu](/jso/)
@@ -12,11 +13,11 @@ draft: false
 
 
 ## Gallery Attendances
-+ [7-Mar](/jso/week02): Artist space visit and talk to a resident artist - Annerley Rd
-+ [8-Mar](/jso/week02): Attended Opening - Jewellery and Body Space, Xiaohui Yang
++ 7-Mar: Artist space visit and talk to a resident artist - Annerley Rd ([More info](/jso/week02#gallery-opening-jewellery-and-body-space-xiaohui-yang))
++ 8-Mar: Attended Opening - Jewellery and Body Space, Xiaohui Yang ([More info](/jso/week02#artist-space-visit-annerley-rd))
 
 
-## Extra-curricular jewellery making
+## Extra-Curricular Jewellery Making
 + Attempted to make a spherical pendant using squared wire.  Found the angles and measurements a real challenge!
 + Made a brooch for mum for Mother's Day. 
 <div class="row">

@@ -1,6 +1,7 @@
 ---
 title: "Final Artist Statement"
-date: 2019-05-19T22:49:32+10:00
+image: "AT2.jpg"
+date: 2019-05-20T02:49:32+10:00
 draft: false
 ---
 
@@ -37,7 +38,7 @@ This lead to the idea of repetitive thoughts and the embedding of the rotating f
 
 <center> {{< figure src="/img/jso/Escher.jpg" caption="MC Escher - Bond of union (April 1956)" width="60%" >}} </center>
 
-To help create the form, I worked with a digital model of a head and editied it to create the kind of form I was looking for.  I then ran it through software that sliced it into 4mm slices that could be cut on a laser cutter.  Once the 43 pieces were fixed together, it becoame a reference form to model against.  I used the various steel forms in the workshop together with the nylon hammers to create the shapes I was looking for, annealing regularly.
+To help create the form, I worked with a digital model of a head and editied it to create the kind of form I was looking for.  I then ran it through software that sliced it into 4mm slices that could be cut on a laser cutter.  Once the 43 pieces were fixed together, it became a reference form to model against.  I used the various steel forms in the workshop together with the nylon hammers to create the shapes I was looking for, annealing regularly.
 
 <div class="row">
     <div class="6u 12u$(medium)">
@@ -48,7 +49,7 @@ To help create the form, I worked with a digital model of a head and editied it 
     </div>
 </div>
 
-The kinetic functionality was added with a tealight holder in the base and a vertical axle around the physical location of the mind.  A single wire ring serves to protect the spinning fan and also to help imply the forehead shape.
+The kinetic functionality was added with a tealight holder in the base and a vertical axle in the physical location of the mind.  A single wire ring serves to protect the spinning fan and also to help imply the forehead shape.
 
 <center> {{< figure src="/img/jso/IMG_4275.mp4">}} </center>
 

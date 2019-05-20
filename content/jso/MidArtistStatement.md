@@ -1,6 +1,7 @@
 ---
 title: "Mid-trimester Artist Statement"
-date: 2019-05-19T22:49:38+10:00
+image: "AT1.jpg"
+date: 2019-04-01T22:49:38+10:00
 draft: false
 ---
 [< Back to Menu](/jso/)

@@ -1,6 +1,6 @@
 ---
 title: "Week 2"
-image: "IMG_3720.jpg"
+image: "wk2.jpg"
 description: "Forming impressions, soldering rings and gallery visits."
 date: 2019-03-08T22:48:43+10:00
 tags: ["JSO", "Week 2", "2393QCA"]
@@ -78,7 +78,7 @@ This week, I stopped in at a local shared artist space on Annerley Rd and spoke 
 <br>
 ## Gallery opening - Jewellery and Body Space, Xiaohui Yang
 
-I attended the opening evening of Jewellery and Body Space by Xiaohui Yang.  Seriously impressed by the level of detail.  Is it just my bias, or am I seeing more squared forms?  Many of her pieces aren't made frmo round wire, but flat, or squared forms.  I'm not sure if they're cut from thick plate, drawn through plates or formed using rollers, but that clean, modern look seems to be something I'm noticing.  She also had cage forms that are also reminiscent of the kinetic art piece I found last week.
+I attended the opening evening of Jewellery and Body Space by Xiaohui Yang.  Seriously impressed by the level of detail.  Is it just my bias, or am I seeing more squared forms?  Many of her pieces aren't made from round wire, but flat, or squared forms.  I'm not sure if they're cut from thick plate, drawn through plates or formed using rollers, but that clean, modern look seems to be something I'm noticing.  She also had cage forms that are also reminiscent of the kinetic art piece I found last week.
 
 <div class="row">
     <div class="4u 12u$(medium)">

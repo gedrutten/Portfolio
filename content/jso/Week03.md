@@ -1,6 +1,8 @@
 ---
 title: "Week 3"
-date: 2019-05-19T22:47:47+10:00
+image: "wk3.jpg"
+description: "Disc cutters and doming"
+date: 2019-03-15T22:47:47+10:00
 draft: false
 ---
 [< Back to Menu](/jso/)

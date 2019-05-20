@@ -1,5 +1,7 @@
 ---
-title: "JSOWeek1"
+title: "Week 1"
+image: "wk1.jpg"
+description: "Introduction to JSO, introduction to brief: Repetition"
 date: 2019-02-25T22:48:43+10:00
 tags: ["JSO", "Week 1", "2393QCA"]
 draft: false
