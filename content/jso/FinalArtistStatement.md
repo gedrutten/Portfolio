@@ -51,7 +51,13 @@ To help create the form, I worked with a digital model of a head and editied it 
 
 The kinetic functionality was added with a tealight holder in the base and a vertical axle in the physical location of the mind.  A single wire ring serves to protect the spinning fan and also to help imply the forehead shape.
 
-<center> {{< figure src="/img/jso/IMG_4275.mp4">}} </center>
+
+<center>
+<video width="607" height="1080" controls>
+  <source src="/img/jso/IMG_4275.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</center>
 
 <br>
 
