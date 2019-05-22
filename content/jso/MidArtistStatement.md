@@ -21,7 +21,6 @@ I intend to arrange several leaves in a few rows to form a tapered shape where e
         {{< figure src="/img/jso/MichellePoirier.jpg">}}
         Chainmaille and scalemail combined in this necklace by Michelle Poirier 
 (source:https://www.artfire.com/ext/shop/product_view/eternalelfcreations/5344059/chainmaille_necklace_scale_necklace_scalemail_chainmaille_choker/handmade/jewelry/necklaces/chainmail)
-
     </div>
     <div class="6u 12u$(medium)">
         Michelle Poirier is a Canadian jewellery artist who specialises in hand made chainmaille and scalemail.  One of her designs incorporates the layered and tapered structure similar to what I’m attempting to do.

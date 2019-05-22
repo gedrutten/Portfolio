@@ -89,7 +89,7 @@ In preparation for workshop time, I drew up a shape that represented the bodhi l
         {{< figure src="/img/jso/IMG_4014.jpg">}}
     </div>
     <div class="4u 12u$(medium)">
-        Stage 1 of the press - making an imression with the main spine wire.  I really liked the way the shae came through.  It'd be nice to leave the wire in tehre, actually - I like the contrast.
+        Stage 1 of the press - making an impression with the main spine wire.  I really liked the way the shape came through.  It'd be nice to leave the wire in there, actually - I like the contrast.
     </div>
 </div>
 <br>

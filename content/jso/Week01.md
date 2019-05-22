@@ -63,7 +63,7 @@ The following piece from Viola Halpern is of similar construction
 {{< youtube 2IfYpw84SeA >}}<br />
 
 
-And finally, I love the intracacy of this piece:
+And finally, I love the intricacy of this piece:
 {{< figure src="/img/jso/IMG_0928.PNG" width="45%" >}}
 
 {{< youtube d1c5_Y7WgMs >}}
@@ -78,7 +78,7 @@ Of these works, I particularly like the tulip shaped vertical windmills as the e
 
 
 #### Vincent Leroy
-I have looked at moire effect before, but only in the context of parrallel lines and the flashing nature you get when 2 grids pass by each other.  I'd like to explore fine wire structures that overlap to create moire effect, or an effect similar to these by Vincent Leroy.
+I have looked at moire effect before, but only in the context of parallel lines and the flashing nature you get when 2 grids pass by each other.  I'd like to explore fine wire structures that overlap to create moire effect, or an effect similar to these by Vincent Leroy.
 {{< youtube WXhJ9b5Oa0U >}}
 
 

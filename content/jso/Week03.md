@@ -10,7 +10,7 @@ draft: false
 
 ## Class
 
-This week we were introduced to the fly press, the disc cutter and the doming tools.  I first experimented with different metals, then I experimented with punching a second hole out of the disc prior to forming to see what would happen.  As it turns out, the hole was stretched as teh metal was forced into the dome forming tool.  I wanted to do an experiment with the 2 half-domes I created (in different metals) to solder them together, but now that one was slightly deformed, it would be harder.  I attempted to flatten the deformed piece by rubbing on wet-and-dry sandpaper, then tried soldering.  I hadn't managed to get the 2 halves to solder together before the end of class.
+This week we were introduced to the fly press, the disc cutter and the doming tools.  I first experimented with different metals, then I experimented with punching a second hole out of the disc prior to forming to see what would happen.  As it turns out, the hole was stretched as the metal was forced into the dome forming tool.  I wanted to do an experiment with the 2 half-domes I created (in different metals) to solder them together, but now that one was slightly deformed, it would be harder.  I attempted to flatten the deformed piece by rubbing on wet-and-dry sandpaper, then tried soldering.  I hadn't managed to get the 2 halves to solder together before the end of class.
 
 <div class="row">
     <div class="4u 12u$(medium)">

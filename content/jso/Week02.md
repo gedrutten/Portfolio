@@ -61,7 +61,7 @@ I also started using the rollers to form square wire from round wire.  I was ins
 <br>
 ## Artist Space Visit (Annerley Rd)
 
-This week, I stopped in at a local shared artist space on Annerley Rd and spoke with one of the artists there.  I found an interesting sculptural piece made from nets recovered from the sea.  In the artist statement, "As they are unattended and roaming they fish indiscriminately, not only catching threatened species but undersized and protected fish as well."  I love the fact that they created art form something so destructive and made a statement about it.  The following piece is called Sword Fis by Steven Kepper:
+This week, I stopped in at a local shared artist space on Annerley Rd and spoke with one of the artists there.  I found an interesting sculptural piece made from nets recovered from the sea.  In the artist statement, "As they are unattended and roaming they fish indiscriminately, not only catching threatened species but undersized and protected fish as well."  I love the fact that they created art form something so destructive and made a statement about it.  The following piece is called Sword Fish by Steven Kepper:
 
 <div class="row">
     <div class="4u 12u$(medium)">

@@ -8,11 +8,12 @@ draft: false
 
 ## Volunteered
 
-+ Coordinated booking and participated in collecting and setting up plints for mid-trimester critique
++ Coordinated booking and participated in collecting and setting up plinths for mid-trimester critique
 + Volunteered for pop-up shop on 10th May.  Was briefed on how to lock up, how to use the eftpos, but then the student I was relieving didn't want to leave, so I let her stay and returned to the workshop to continue on my piece.
 
 
 ## Gallery Attendances
++ 26-Feb: Attended artist talk by Emma Montague
 + 7-Mar: Artist space visit and talk to a resident artist - Annerley Rd ([More info](/jso/week02#gallery-opening-jewellery-and-body-space-xiaohui-yang))
 + 8-Mar: Attended Opening - Jewellery and Body Space, Xiaohui Yang ([More info](/jso/week02#artist-space-visit-annerley-rd))
 + 2, 3-Apr: Visited CurioCity - Various interactive sculptures around Brisbane ([More info](/jso/week06#visiting-curiocity))

@@ -40,7 +40,7 @@ When opening a ring, dont stretch it open, twist it so that the circle shape is 
 
 Although not technically jewellery, there is wire structure involved in this birthday card I made this week.  It's meant to look like a cake with flickering candles on it.
 
-I've often found discrete electronic components to be aesthetically under-appreciated. They have form, colour, and circuit designers often lay out components in an structured way that has a certain appeal.  The entire circuit to drive the flashing LED's for this card is displayed in full glory in an attempt to "decorate" the cake.  The battery is hidden behind the cardboard.
+I've often found discrete electronic components to be aesthetically under-appreciated. They have form, colour, and circuit designers often lay out components in a structured way that has a certain appeal.  The entire circuit to drive the flashing LED's for this card is displayed in full glory in an attempt to "decorate" the cake.  The battery is hidden behind the cardboard.
 
 <div class="row">
     <div class="6u 12u$(medium)">

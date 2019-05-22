@@ -9,7 +9,7 @@ draft: false
 [< Week 6](/jso/week06) | [Week 8 >](/jso/week08)
 
 
-Looked into kinetic art and kinetic sculpture in the library.  There was 4 physical books, all from the late 20th century, and very worn.  I did come across some good ideas - for instance the Reuleux constand diameter shape - a non-circular form that still tracks a constant width.  Ie. you can use it as a rolling form, but the axis does not remain in the same place.
+Looked into kinetic art and kinetic sculpture in the library.  There was 4 physical books, all from the late 20th century, and very worn.  I did come across some good ideas - for instance the Reuleux constant diameter shape - a non-circular form that still tracks a constant width.  Ie. you can use it as a rolling form, but the axis does not remain in the same place.
 
 <div class="row">
     <div class="4u 12u$(medium)">
