@@ -22,6 +22,15 @@ I generally try to get to most of the galleries that are on around campus, howev
 
 ## Extra-Curricular Jewellery Making
 + Attempted to make a spherical pendant using squared wire.  Found the angles and measurements a real challenge!
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/jso/cage1.jpg" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/jso/cage2.jpg" >}}
+    </div>
+</div>
+
 + Made a brooch for mum for Mother's Day. 
 <div class="row">
     <div class="6u 12u$(medium)">
@@ -33,9 +42,12 @@ I generally try to get to most of the galleries that are on around campus, howev
         {{< figure src="/img/jso/IMG_4262.jpg" >}}
     </div>
 </div>
+
 + Silver dog-paw earrings for my dog-loving sister.
 {{< figure src="/img/jso/IMG_4186.jpg" width="50%" >}}
-+ Mesh pendant to hold a stone intended for my niece that loves to collect various stones.
+
+
++ Mesh pendant to hold a stone intended for my niece that loves to collect various stones (that's just some plastic off-cuts to represent a stone in these photos).
 <div class="row">
     <div class="4u 12u$(medium)">
         {{< figure src="/img/jso/IMG_1263.JPG" >}}

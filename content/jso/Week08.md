@@ -39,10 +39,19 @@ I have spent a heap of time (and wasted a lot of my laboriously squared out wire
     </div>
 </div>
 
+
+This is where I left it.  The image on the left is the current state of build for the locket, the image on the right has the loose piece resting on the upper dome to give an imression of what it will look like when it's done.  I still have to file down the peak of this loose piece so that it can be soldered onto the main ring.  I also have to make the remaining bars for the lower dome and create the hinge and catch mechanisms.
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/jso/cage1.jpg">}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/jso/cage2.jpg">}}
+    </div>
+</div>
+
 <br>
-
-
-
 
 
 ## Fan Blades for Candle Sculpture
@@ -107,12 +116,9 @@ The other challenge I discovered was one as simple as finding the centre of a ci
     </div>
     <div class="4u 12u$(medium)">
         <strong>Fan Trees</strong>
-        <p>Perhaps I could change the idea so that it's not a fan at the top of a cylinder, but more a series of multiple fans in a tree-like structure.  It would play into the idea of repetition a bit more, and having a multiple of simple things can be really beautiful.</p>
+        <p>After chatting with Lia, I decided to explore the idea of multiple fans in a tree-like structure.  It would play into the idea of repetition a bit more, and having a multiple of simple things can be really beautiful.</p>
     </div>
 </div>
-
----
-
 <div class="row">
     <div class="8u 12u$(medium)">
         {{< figure src="/img/jso/SketchImpellerConcepts.jpg">}}

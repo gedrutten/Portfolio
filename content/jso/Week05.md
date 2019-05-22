@@ -106,8 +106,11 @@ In preparation for workshop time, I drew up a shape that represented the bodhi l
 </div>
 <br>
 Overall, I liked this method of giving the leaves some texture.  I might still work with some roller impressions for a bit more texture yet though as it seems a little bit structured and manufactured at the moment.  Perhaps I could bend the leaves to create a wavy, more natural form.  That might also reduce the manufactured feeling I'm getting from it at the moment.
-        
 
+
+{{< figure src="/img/jso/bodhi3leaves.jpg" caption="The Bodhi Necklace as presented for the mid-trimester critique">}}
+
+<br>
 
 1. Drutt, Helen Williams, and Peter Dormer. 1995. J_ewelry of our time: Art, ornament, and obsession_. London: Thames and Hudson.
 2. Le Van, Marthe. 2006. _500 necklaces: Contemporary interpretations of a timeless form_. 1st ed. New York: Lark Books.
