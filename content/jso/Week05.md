@@ -50,8 +50,17 @@ I looked into some books to seek further inspiration and ideas.
     </div>
 </div>
 
+---
 
-In preparation for workshop time, I drew up a shape that represented the bodhi leaf that I would replicate.  I alsotried to make up some forms that I could use in the matrix press to create impressions on the leaf.  I used 2 different gauges of steel wire to build a vein structure.  I tried to solder these together using a propane torch at home, but without any kind of flux, I was unsuccessful.
+And started to sketch where I wanted to take this idea...
+
+<center>
+    {{< figure src="/img/jso/SketchNecklaceIdea.jpg" width="70%" >}}
+    {{< figure src="/img/jso/SketchNecklaceDimensions.jpg" width="60%" >}}
+    {{< figure src="/img/jso/SketchBodhiLeaf.jpg" width="50%" >}}
+</center>
+
+In preparation for workshop time, I drew up a shape that represented the bodhi leaf that I would replicate.  I also tried to make up some forms that I could use in the matrix press to create impressions on the leaf.  I used 2 different gauges of steel wire to build a vein structure.  I tried to solder these together using a propane torch at home, but without any kind of flux, I was unsuccessful.
 
 <div class="row">
     <div class="6u 12u$(medium)">

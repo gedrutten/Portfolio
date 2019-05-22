@@ -58,7 +58,9 @@ Clamping the resulting would wire in the vice, I cut with a saw, but needed to t
 
 {{< figure src="/img/jso/IMG_4070.jpg">}}
 
-Finding one that was straight enough to create a full ring was a bit of a challenge.  Once I did, I filed the ends to create a matching surface and used steel wire to pull the ends together for soldering.  After soldering though, I noticed the ends had moved slightly and there was a slight shear in the join.  I may have to resolder, or perhaps clean up the joint to be smooth.
+Finding one that was straight enough to create a full ring was a bit of a challenge.  Once I did, I filed the ends to create a matching surface and used steel wire to pull the ends together for soldering.  After soldering though, I noticed the ends had moved slightly and there was a slight shear in the join.  I may have to resolder, or perhaps clean up the joint to be smooth.  This is how I intend to make the locket...
+
+{{< figure src="/img/jso/SketchCagePendant.png">}}
 
 ### More Inspiration Images
 
@@ -73,7 +75,7 @@ Finding one that was straight enough to create a full ring was a bit of a challe
     </div>
 </div>
 
-I spotted these images on posters around the workshop.  They reminded of something I designed in digital jewellery class that was inspired by the architecture of Santiago Calatrava...
+I spotted these images on posters around the workshop.  They reminded of something [I designed in digital jewellery class](/portfolio/digitaljewelery/) that was inspired by the architecture of Santiago Calatrava...
 
 {{< figure src="/img/portfolio/digitalJewellery/Page3.jpg" >}}
 

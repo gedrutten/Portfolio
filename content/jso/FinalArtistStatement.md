@@ -45,6 +45,17 @@ This lead to the idea of repetitive thoughts and the embedding of the rotating f
 
 <center> {{< figure src="/img/jso/Escher.jpg" caption="MC Escher - Bond of union (April 1956)" width="60%" >}} </center>
 
+Working through this idea, I came up with two sketches that I wanted to explore further.  The image on the left works with ribbons like the Escher image, although ribbons in separate rings as opposed to a sinlge long ribbon.  This would be rivetted onto a frams mode from strips of brass.  The second image is more of a patchwork that simply suggests the shape of a head and requires the viewer to imagine the remaining elements.
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/jso/SketchRibbonHead.jpg" width="80%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/jso/SketchSpinningMind.jpg" >}}
+    </div>
+</div>
+
 To help create the form, I worked with a digital model of a head and editied it to create the kind of form I was looking for.  I then ran it through software that sliced it into 4mm slices that could be cut on a laser cutter.  Once the 43 pieces were fixed together, it became a reference form to model against.  I used the various steel forms in the workshop together with the nylon hammers to create the shapes I was looking for, annealing regularly.
 
 <div class="row">

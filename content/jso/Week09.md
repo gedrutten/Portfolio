@@ -11,7 +11,23 @@ draft: false
 
 It's becomming clear that the fan idea wont be powereing anything with any real weight as the brass fans I've been making aren't working even with 3 tealights under them.  I had plans to hang ornaments from rods protruding off the fan blades, but that's not going to be.
 
-What I thought of though is to keep the fan blade idea, maybe even going back to aluminium  as the material, but use it to represent the turning of the mind - so put it inside a sculpture of a head.  Running with this idea, I found a open-source digital 3D model of a head online and manipulated (using meshmixer - had never used it before, but found it pretty good for free software) it to give it the shape I was looking for (removed ears, fixed neck, eyes).  I then passed it through Autodesk's Slicer software to produce a file I could run therough the laser cutter to cut slices of ply that could then be laminated into a head.
+What I thought of though is to keep the fan blade idea, maybe even going back to aluminium  as the material, but use it to represent the turning of the mind - so put it inside a sculpture of a head.  
+
+<div class="row">
+    <div class="4u 12u$(medium)">
+        {{< figure src="/img/jso/SketchRibbonedDomes.jpg" caption="I liked one of Catherine's pieces where she'd domed a disk with a disk cut out of it to form a dome with a gap in it.  Perhaps I could use a similar idea to form outer rings that suggest a head, or maybe it'll just look like some sort of weird UFO?">}}
+    </div>
+    <div class="4u 12u$(medium)">
+        {{< figure src="/img/jso/SketchRibbonHead.jpg"  caption="Or go with ribbons like the MC Escher image?  The ribbons could be rivetted onto a frame.  Frame would need to be flat brass instead of wire for rivets to work." width="80%" >}}
+    </div>
+    <div class="4u 12u$(medium)">
+        {{< figure src="/img/jso/SketchSpinningMind.jpg" caption="Maybe just do a patchwork of pieces so that the key elements of the face and head profile are captured and let the viewer create the rest of the form?">}}
+    </div>
+</div>
+
+
+
+Running with these ideas, I found a open-source digital 3D model of a head online and manipulated (using meshmixer - had never used it before, but found it pretty good, and free) it to give it the shape I was looking for (removed ears, fixed neck, eyes).  I then passed it through Autodesk's Slicer software to produce a file I could run therough the laser cutter to cut slices of ply that could then be laminated into a head.
 
 <div class="row">
     <div class="4u 12u$(medium)">
