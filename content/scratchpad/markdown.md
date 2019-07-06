@@ -56,6 +56,9 @@ Numbered list
     Use 4 spaces to add indented line between points
 3. point 3
 
+To centre text:
+<center>Some centred text (or images and stuff)</center>
+
 
 ## Tables
 Key | Action
@@ -96,6 +99,8 @@ for (i=0; i<10; i++) {
 
 ## Figures
 {{< figure src="/img/portfolio/solarStill/assembly.jpg" >}}
+{{< figure src="/img/portfolio/solarStill/assembly.jpg" link="/img/portfolio/solarStill/assembly.jpg" >}}
+{{< figure src="/img/portfolio/solarStill/assembly.jpg" caption="some caption" width="80%" >}}
 
 
 ## Responsive Columns
