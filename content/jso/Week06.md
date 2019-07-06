@@ -54,7 +54,7 @@ The idea then of a carousel came to mind - if I placed straight wires on the fan
 ### Spherical Cage Locket
 I finally got around to continuing work on the cage locket.  I used a draw plate to sharpen the square form of the brass wire I'd been working with (previously using the rolling mill to begin the squaring of the 3mm wire).  After that, I annealed the wire again and worked it around a cylindrical form in a similar way to creating jump rings by clamping it in a vice and winding it around a hardened steel socket. 
 
-Clamping the resulting would wire in the vice, I cut with a saw, but needed to tighten the vice as I went which misaligned all the rings and jammed the saw.  I had at least marked every coil with the saw, but since I had misaligned the cut, I was forced to remove it from the vice and cut each loop individually.
+Clamping the resulting wound wire in the vice, I cut with a saw.  But as I cut I needed to tighten the vice which misaligned all the rings and jammed the saw.  I had at least marked every coil with the saw, but since I had misaligned the cut, I was forced to remove it from the vice and cut each loop individually.
 
 {{< figure src="/img/jso/IMG_4070.jpg">}}
 
