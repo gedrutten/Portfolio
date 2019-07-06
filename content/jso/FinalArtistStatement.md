@@ -45,7 +45,7 @@ This lead to the idea of repetitive thoughts and the embedding of the rotating f
 
 <center> {{< figure src="/img/jso/Escher.jpg" caption="MC Escher - Bond of union (April 1956)" width="60%" >}} </center>
 
-Working through this idea, I came up with two sketches that I wanted to explore further.  The image on the left works with ribbons like the Escher image, although ribbons in separate rings as opposed to a single long ribbon.  This would be riveted onto a frame mode from strips of brass.  The second image is more of a patchwork that simply suggests the shape of a head and requires the viewer to imagine the remaining elements.
+Working through this idea, I came up with two sketches that I wanted to explore further.  The image on the left works with ribbons like the Escher image, although ribbons in separate rings as opposed to a single long ribbon.  This would be riveted onto a frame made from strips of brass.  The second image is more of a patchwork that simply suggests the shape of a head and requires the viewer to imagine the remaining elements.
 
 <div class="row">
     <div class="6u 12u$(medium)">

@@ -60,7 +60,7 @@ Clamping the resulting would wire in the vice, I cut with a saw, but needed to t
 
 Finding one that was straight enough to create a full ring was a bit of a challenge.  Once I did, I filed the ends to create a matching surface and used steel wire to pull the ends together for soldering.  After soldering though, I noticed the ends had moved slightly and there was a slight shear in the join.  I may have to re-solder, or perhaps clean up the joint to be smooth.  This is how I intend to make the locket...
 
-{{< figure src="/img/jso/SketchCagePendant.png">}}
+{{< figure src="/img/jso/SketchCagePendant.jpg">}}
 
 ### More Inspiration Images
 
