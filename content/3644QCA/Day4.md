@@ -204,7 +204,7 @@ We also finally sorted out the SIM card here.  Fiona took us to a little place i
 ### Fifth Stop, return to the Bund
 
 <video width="100%" controls>
-    <source src="/img/3644QCA/day04/IMG_4550.m4v" type="video/mp4">
+    <source src="/img/3644QCA/day04/IMG_4550.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
@@ -236,7 +236,7 @@ The Bund view of Shanghai City by night.  You can only get a feel for the view w
 
 ... and a full 360 pan across the Bund
 <video width="100%" controls>
-    <source src="/img/3644QCA/day04/IMG_4548.m4v" type="video/mp4">
+    <source src="/img/3644QCA/day04/IMG_4548.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
