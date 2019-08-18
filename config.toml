@@ -162,7 +162,7 @@ disqusShortname = ""
     enable = true
     title = "About Me"
     subtitle = "I am a student of Product Design, currently studying at Queensland College of Art, Griffith University."
-    buttonText = "Learn More"
+    buttonText = "Read More"
     url = "about/about"
 
 
