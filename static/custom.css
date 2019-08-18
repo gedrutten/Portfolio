@@ -35,6 +35,19 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 0 1em 0;
 }
 
+table th {
+    color: #c6c6c6;
+    font-weight: 300;
+}
+
+table thead {
+    border-bottom: solid 2px rgba(198, 198, 198, 0.5);
+}
+
+table tfoot {
+    border-top: solid 2px rgba(198, 198, 198, 0.5);
+}
+
 a:hover {
     border-bottom-color: transparent;
     color: #ababab !important;
