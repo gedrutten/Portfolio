@@ -39,8 +39,6 @@ Our plan for the day was to use the trains as much as possible (We were both sic
     This is the English train map that would stay in my back pocket for the rest of the time in Shanghai.
 </center>
     
-TODO - talk about where we went, add pics of map
-
 <div class="row">
     <div class="6u 12u$(medium)">
         {{< figure src="/img/3644QCA/day05/IMG_4568.jpg" link="/img/3644QCA/day05/IMG_4568.jpg">}}

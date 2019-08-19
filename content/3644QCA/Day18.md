@@ -1,9 +1,9 @@
 ---
 title: "Day 18 - The Journey Home"
 date: 2019-06-21T13:10:55+10:00
-image: ""
+image: "day18/thumbnail.jpg"
 Description: ""
-draft: true
+draft: false
 ---
 
 Thursday, 20th June
@@ -12,23 +12,269 @@ Thursday, 20th June
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Yc4A-KMY_92EcZCb5uttrDf85sUOVuPr" width="100%" height="560"></iframe>
 
-Lots of cloud photos
+Flight # | Location | Departure | Arrival
+---|---|---|--- 
+CZ3712 | Jinan – Guangzhou (TNACAN) | 16:25 | 19:15
+CZ381 | Guangzhou – Brisbane (CANBNE) | 21:30 | 08:25+1
+
+\
+
+We still had a morning to spare, and the lure of the caves at Qianfo Mountain were a bit of a drawcard, so a group of us headed there for some adventures.  For the first time in the park, we had to pay.  I guess every other time I'd been there had been after 5pm, so it must become free after hours.  That would also explain why the tourist attractions seemed quiet when I'd been there previously.
+<center>
+    {{< figure src="/img/3644QCA/day18/JinanPark1.jpg" link="/img/3644QCA/day18/JinanPark1.jpg" width="75%" >}}
+    {{< figure src="/img/3644QCA/day18/JinanPark2.jpg" link="/img/3644QCA/day18/JinanPark2.jpg" width="75%" >}}
+</center>
 
 
-was reading through the in- flight magazine and came across an article about DNA. This is the translation...
-
-cover page
-It is too easy for us to be fascinated by our own destiny: not only pay attention to the whole human being, but also pay more attention to the individual perception of "I".  Although the history books are always writing about the killing of war and the rule of power, our DNA is telling us that the month is seriously gazing at the trajectory of pain and sweet ancestors in our blood, which has created a life-changing day.
-
-page 1
-You follow the town and see that you have a hill-shaped nose like your father. You are more and more like a young mother in the process of adolescence, you know that this is hereditary.  If you want to know more about your life, the mother said that outside the grandmother, when it comes to legends outside the legend, it is already ambiguous.  It is too easy for us to be fascinated by our own destiny, not only focusing on the entire human race, but also paying more attention to the individuality of the "I" individual.  Tarot, 24 constellations, genus, face and word are all trying to connect the past and the future with today's self. Memory and occupation are important parts of our understanding of the world.  "Song of Ice and Fire", the cold arrogant night king does not say a word under the director's lens, he grazing in general, rushing the corpse army to break through the Great Wall, he is looking to kill Bran, Stark.  Bran said that his body hides all human memories because of his memory.  Humans have gained more power beyond nature and become a heterogeneity of this blue planet.  Molecular anthropology and related archaeological advances have opened a tunnel to the ancestors.  No matter how the Night King destroys the human library, as long as our body is there, we can remember the story of the museum's self-enlightenment and self-recognition.  The Y chromosome tells us that all human beings have a common ancestor business and he was born in Africa.  He made us realize that all modern people are sisters and brothers.  mt-DNA is the old mother of storytelling. She has brilliantly described the process of survival and integration in a family's tens of thousands of years of eviction, with beautiful love, family changes, and twists and turns.  You are a northern Han, your chromosome lets you know you
-
-The Tibetans are more close relatives than the Miao people, and you may have the blood of the East, Mongolia, and non-ethnic groups.  The reality sometimes does not please the imagination, the DNA of the Chinese nation, can not find the Yuan class people who lived in the native time in ancient times, the Lantian people Beijingers and other erect people imprint, although the history books are always writing the war to kill, the rule of power desire, we  The DNA is telling us that for ourselves, the most important thing is the walk of love life and life. In our chromosomes, some people first met Neanderthals, and the imagination of non-classes and barbarians did not hinder them.  They met and loved each other. They had mixed-race offspring, and Neanderth Juliet gave her offspring a soft long hair and white skin.  Later, the ancestors combined the Denisova and the Denisova in the cold glaciers, giving us the ability to resist the cold and the faces of Asians now, although tens of thousands of years ago, Neanderthals,  The Denisova people eventually disappeared on earth but archaeology and molecular anthropology made them live in our memory homeland and became part of our day.  If you connect the footprints of tens of thousands of years of ancestors, it is never a fixed map.  From the Middle East in Africa to Siberia, to the Yellow River in the Yellow River today.  Even though agricultural life has created a thousand years of common civilization, our village is still circulating between Hubei, Hunan, and Shandong.  Our homesickness is not a fixed stronghold, but a tradition of wandering the earth in conquering escape, nomadic, and farming.  The ancestors ran wildly in one country after another. Many epics and fairy tales were walking in writing: Odyssey voyages, Kuafu chasing the sun, princes challenging dragons, and the struggle against nature and supernatural forces has never been interrupted.  This is a kind of running >
-
-page 2
-The idea of ​​the township is like a running game.  In the game of the handle, we drive or look at the protagonist called "I" in a third-person perspective, and see "I" explore the head of the benzene batch and watch the head.  Regardless of whether it is a period of Tsaristhan or Sun Shi, pulling up the wooden stick, or AK47-兀 from the forward, the father generally flies toward the light, where some people dry the lake and decline, some people are shot, some people fall  Cliff, but we still walked all the way to today, created the Grand Theater Skyscraper space station, creating a viaduct high-speed rail and faster roads.  This is a running time. Some people are discussing how the Flashman runs through the fast silver. If your speed exceeds the speed of light, the body can walk between the past and the future. This kind of technology choice, let us find between memory and prophecy.  More clues.  After all, you can discover that in the future, you may not be as well-faced as the treatment. In the past, I and the ancestors of the past, regardless of the blood and the blood, the justice, the obedience, the fate of life, as long as there is memory, human beings are growing up.  All the efforts of the ancestors are visible and hopeful. The visible progress of self-construction that is visible and visible is that there are always people who take it.  The person who took the stick is passing on your DNA.  It is a kind of screaming, a continuation of life. In the movement, we will know ourselves more clearly.  The tens of thousands of years of life have made us discover how insignificant the war is compared to the love of the family.  Our sorrow and love, even if it is as short as a finger, has an unpredictable power in a moment, which creates a flourishing day and a reckless attitude.
-
-On the road of chasing tomorrow, we should always give ourselves a time to remember, staring at the blood and the pain and sweetness that we have left.  Not only to wait for the soul but also to recall or think about the essence of life. We can also break through countless genera, let life go in madness with more openness and freedom, and gain greater freedom and boundaries. These are the genes in the genes.  The father is not willing to give up the mystery of the unyielding fate of fate.  One day, we thought that our hometown was lost, and the land where the mother had gone away from the ancestors changed.  But its own history has not been lost. In the archaeological archaeological area, we have dialects, the village’s waste, the writing, the pottery, and the DNA of the body. In our genes, time has never passed, it will be ancestors.  The walking trajectory, habits, love and destiny are brought together into a body epic. The information it contains is more complete and complete than the so-called history. It does not allow tombs and breaks the fog of lies and cognition.  In the genes, the territories have no boundaries and the state has disappeared.  It’s just a smoke and a dinner. The hometown is no longer a village with a national wall. It also includes the history of the struggles of the fathers and ethnic groups, as well as the process of setbacks and difficult learning and restoration.  It also allows us to recognize the life we ​​have had.  It is so free, open, and so independent. Self-confidence is never afraid of the unknown fear and sinister environment. More importantly, in the love of ancestors, there is no racial prejudice and no caste level.  It is far from us today, not perfect, but it belongs to the body itself.  Became the site of the site, although we are still in the construction of the hometown of many ancestral villages, we will also sell the township ideas we have.
 
 
-There seems to be several other articles linked to the idea of DNA following this first introductory article. I'm wondering if this is all about China's foray into DNA editing (e.g.  Crispr) that was widely condemned in the west as they'd completed a human test that ignored the complex ethics around such an experiment. 
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/IMG_5597.jpg" link="/img/3644QCA/day18/IMG_5597.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/IMG_5598.jpg" link="/img/3644QCA/day18/IMG_5598.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/IMG_5599.jpg" link="/img/3644QCA/day18/IMG_5599.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/IMG_5600.jpg" link="/img/3644QCA/day18/IMG_5600.jpg" width="100%" >}}
+    </div>
+</div>
+
+{{< figure src="/img/3644QCA/day18/IMG_5593.jpg" link="/img/3644QCA/day18/IMG_5593.jpg" width="100%" >}}
+The gates to the caves were closed though, and it seemed they were staying that way.  A nearby storeholder told us something along the lines of, "Wont be open today, wont be open tomorrow".  So we explored the rest of the park.
+
+<video width="100%" controls>
+    <source src="/img/3644QCA/day18/BDMV-Clip78.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+{{< figure src="/img/3644QCA/day18/IMG_5589.jpg" link="/img/3644QCA/day18/IMG_5589.jpg" width="100%" >}}
+
+{{< figure src="/img/3644QCA/day18/IMG_5613.jpg" link="/img/3644QCA/day18/IMG_5613.jpg" width="100%" >}}
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/IMG_5621.jpg" link="/img/3644QCA/day18/IMG_5621.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/IMG_5624.jpg" link="/img/3644QCA/day18/IMG_5624.jpg" width="100%" >}}
+    </div>
+</div>
+
+{{< figure src="/img/3644QCA/day18/IMG_5625.jpg" link="/img/3644QCA/day18/IMG_5625.jpg" width="100%" >}}
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/IMG_5627.jpg" link="/img/3644QCA/day18/IMG_5627.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/IMG_5629.jpg" link="/img/3644QCA/day18/IMG_5629.jpg" width="100%" >}}
+    </div>
+</div>
+
+{{< figure src="/img/3644QCA/day18/IMG_5633.jpg" link="/img/3644QCA/day18/IMG_5633.jpg" width="100%" >}}
+{{< figure src="/img/3644QCA/day18/IMG_5636.jpg" link="/img/3644QCA/day18/IMG_5636.jpg" width="100%" >}}
+{{< figure src="/img/3644QCA/day18/IMG_5637.jpg" link="/img/3644QCA/day18/IMG_5637.jpg" width="100%" >}}
+
+<div class="row">
+    <div class="4u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/IMG_5641.jpg" link="/img/3644QCA/day18/IMG_5641.jpg" width="100%" >}}
+    </div>
+    <div class="4u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/IMG_5643.jpg" link="/img/3644QCA/day18/IMG_5643.jpg" width="100%" >}}
+    </div>
+    <div class="4u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/IMG_5644.jpg" link="/img/3644QCA/day18/IMG_5644.jpg" width="100%" >}}
+    </div>
+</div>
+
+### The flight home
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/IMG_5678.jpg" link="/img/3644QCA/day18/IMG_5678.jpg" width="100%" >}}
+        Arriving Guangzhou airport at dusk
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040855.jpg" link="/img/3644QCA/day18/P1040855.jpg" width="100%" >}}
+        Yes, it seems tortoise is in fact an ingredient of the in-flight jelly!
+    </div>
+</div>
+
+{{< figure src="/img/3644QCA/day18/IMG_5684.jpg" link="/img/3644QCA/day18/IMG_5684.jpg" width="100%" >}}
+Guangzhou at night.
+
+{{< figure src="/img/3644QCA/day18/IMG_5702.jpg" link="/img/3644QCA/day18/IMG_5702.jpg" width="100%" >}}
+{{< figure src="/img/3644QCA/day18/IMG_5704.jpg" link="/img/3644QCA/day18/IMG_5704.jpg" width="100%" >}}
+Is that the new bridge to Hong Kong?
+
+\
+
+I had a window seat on both flights, so I took the opportunity to take plenty of cloud photos...  
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+    </div>
+    <div class="6u 12u$(medium)">
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+    </div>
+    <div class="6u 12u$(medium)">
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040851.jpg" link="/img/3644QCA/day18/P1040851.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040859.jpg" link="/img/3644QCA/day18/P1040859.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040861.jpg" link="/img/3644QCA/day18/P1040861.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040862.jpg" link="/img/3644QCA/day18/P1040862.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040864.jpg" link="/img/3644QCA/day18/P1040864.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040866.jpg" link="/img/3644QCA/day18/P1040866.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040868.jpg" link="/img/3644QCA/day18/P1040868.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040873.jpg" link="/img/3644QCA/day18/P1040873.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040876.jpg" link="/img/3644QCA/day18/P1040876.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040883.jpg" link="/img/3644QCA/day18/P1040883.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040885.jpg" link="/img/3644QCA/day18/P1040885.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040888.jpg" link="/img/3644QCA/day18/P1040888.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040897.jpg" link="/img/3644QCA/day18/P1040897.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040904.jpg" link="/img/3644QCA/day18/P1040904.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040912.jpg" link="/img/3644QCA/day18/P1040912.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040919.jpg" link="/img/3644QCA/day18/P1040919.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040921.jpg" link="/img/3644QCA/day18/P1040921.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040925.jpg" link="/img/3644QCA/day18/P1040925.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040926.jpg" link="/img/3644QCA/day18/P1040926.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040932.jpg" link="/img/3644QCA/day18/P1040932.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040939.jpg" link="/img/3644QCA/day18/P1040939.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/IMG_5717.jpg" link="/img/3644QCA/day18/IMG_5717.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040953.jpg" link="/img/3644QCA/day18/P1040953.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040963.jpg" link="/img/3644QCA/day18/P1040963.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040970.jpg" link="/img/3644QCA/day18/P1040970.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040984.jpg" link="/img/3644QCA/day18/P1040984.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040985.jpg" link="/img/3644QCA/day18/P1040985.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1040996.jpg" link="/img/3644QCA/day18/P1040996.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1050001.jpg" link="/img/3644QCA/day18/P1050001.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1050003.jpg" link="/img/3644QCA/day18/P1050003.jpg" width="100%" >}}
+    </div>
+</div>
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1050008.jpg" link="/img/3644QCA/day18/P1050008.jpg" width="100%" >}}
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/day18/P1050020.jpg" link="/img/3644QCA/day18/P1050020.jpg" width="100%" >}}
+    </div>
+</div>
+
+
+
