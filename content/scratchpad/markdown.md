@@ -97,6 +97,12 @@ for (i=0; i<10; i++) {
 {{< youtube unENuDS6_hg >}}
 
 
+## Embeded Video
+<video width="455" height="610" controls>
+    <source src="/img/jso/IMG_4275.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 ## Figures
 {{< figure src="/img/portfolio/solarStill/assembly.jpg" >}}
 {{< figure src="/img/portfolio/solarStill/assembly.jpg" link="/img/portfolio/solarStill/assembly.jpg" >}}

@@ -12,7 +12,7 @@ Monday, 3rd June
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1TGGsqti8XEWzL5n5FbnnLOWrYon8gilt" width="100%" height="560"></iframe>
 
-Flight# | Location | Departure | Arrival
+Flight # | Location | Departure | Arrival
 ---|---|---|--- 
 CZ382 | Brisbane – Guangzhou (BNECAN) | 10:10 | 17:15
 CZ3547 | Guangzhou – Shanghai (CANSHA) | 19:00 | 21:25
