@@ -3,8 +3,12 @@ title: "Day 18 - The Journey Home"
 date: 2019-06-21T13:10:55+10:00
 image: ""
 Description: ""
-draft: false
+draft: true
 ---
+
+Thursday, 20th June
+---
+[< Prev](../day17) | [Home](..) | [Next >](../retrospective)
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Yc4A-KMY_92EcZCb5uttrDf85sUOVuPr" width="100%" height="560"></iframe>
 

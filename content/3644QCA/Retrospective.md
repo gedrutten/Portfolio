@@ -3,8 +3,10 @@ title: "Retrospective"
 date: 2019-06-29T17:32:09+10:00
 image: ""
 Description: ""
-draft: false
+draft: true
 ---
+
+[< Prev](../day18) | [Home](..) | Next >
 
 What did we learn?
 
@@ -13,3 +15,9 @@ Looking back on the academic elements of this trip, we certainly got an exposure
 In Shandong, again, the cultural experience was a strong element of the learning.  Shandong university of art and design went all out on treating us to things like a welcome banquet and providing us a tea ceremony.  The teachers seemed to get more exposure to the culture, having a further tea ceremony and a final dinner which the students were not invited to.  Instead, we were left to have dinner amongst ourselves in the cafeteria as the local students had gone home.  Not the ideal way to end the trip, but just one of the many miscomunications that occurred.  In terms of learning about wearables though, this part of the trip was essentially the same as studying wearables in Australia, just that it was in a different place where we had a multitude of hurdles imposed on us through a lack of common language and difficulties even getting access to technology (both in terms of buying parts to use and in terms of using the facilities on campus).  In retrospect, what we created is pretty amazing considering the circumstances.
 
 
+What words did I learn?
+Nihao - hello
+Sobah - let's go
+Shishe - thank you
+Bo - no
+Shi - yes
