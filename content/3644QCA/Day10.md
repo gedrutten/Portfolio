@@ -72,7 +72,7 @@ This design was our final choice.  We're thinking of integrating lighting to bri
 
 ### Tea Ceremony
 
-{{< figure src="/img/3644QCA/day10/IMG_4898.jpg" link="/img/3644QCA/day10/IMG_4898.jpg" >}}
+{{< figure src="/img/3644QCA/day10/IMG_4893.jpg" link="/img/3644QCA/day10/IMG_4893.jpg" >}}
 
 In the afternoon, our hosts invited us to a tea ceremony back in the conference room. I didn't get many good photos, but I did take these lessons from the experience...
 
