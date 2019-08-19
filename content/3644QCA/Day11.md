@@ -1,7 +1,7 @@
 ---
 title: "Day 11: Fabrication Begins"
 date: 2019-06-13T22:40:38+08:00
-image: ""
+image: "day11/thumbnail.jpg"
 Description: ""
 draft: false
 ---
