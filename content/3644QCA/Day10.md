@@ -40,19 +40,23 @@ This one appealed to us because it was made out of transparent vinyl.  This mean
 \
 
 {{< figure src="/img/3644QCA/day10/IMG_4886.jpg" link="/img/3644QCA/day10/IMG_4886.jpg" >}}
-We liked this design because of all the flowing straps.  We're hoping to create some sort of ribbon twirling feature that can be a discreet ribbon that forms part of the design when not activated, but when activated creates beautiful flowing ribbon patterns.  We're thinking of using fans to activate the ribbons.  
+We liked this design because of all the flowing straps.  We're hoping to create some sort of ribbon twirling feature that can be a discreet ribbon that forms part of the design when not activated, but when activated creates beautiful flowing ribbon patterns.  We're thinking of using fans to activate the ribbons somewhat like the Windform exhibit back at McaM in Shanghai. 
 \
 {{< figure src="/img/3644QCA/day10/IMG_4887.jpg" link="/img/3644QCA/day10/IMG_4887.jpg" >}}
 This design was our final choice.  We're thinking of integrating lighting to bring out the character of the design.  
+\
+
+{{< figure src="/img/3644QCA/day10/20190819_140445.jpg" link="/img/3644QCA/day10/20190819_140445.jpg" >}}
+Some of our ideation sketching
 
 \
 
 <div class="row">
-    <div class="4u 12u$(medium)">
-        I saw this poster in one of the hallways of the building we're working in.  I just thought I'd take a photo of it as it seems to be an example of a product design student's work.
-    </div>
     <div class="8u 12u$(medium)">
         {{< figure src="/img/3644QCA/day10/IMG_4889.jpg" link="/img/3644QCA/day10/IMG_4889.jpg" >}}
+    </div>
+    <div class="4u 12u$(medium)">
+        I saw this poster in one of the hallways of the building we're working in.  I just thought I'd take a photo of it as it seems to be an example of a product design student's work.
     </div>
 </div>
 
@@ -60,11 +64,11 @@ This design was our final choice.  We're thinking of integrating lighting to bri
     
 <div class="row">
     <div class="6u 12u$(medium)">
-        For lunch today, I decided to figure out the payment system.  So the idea is that you find out how much your item is, then you go to a separate counter and buy a receipt for the amount you need.  They you go back to the retailer and get your food.  Local students have a card to buy their food, so it's a bit more streamlined for them.<br><br>
-        I chose the point and pray method of selecting my meal today.  This looked like a delicious pasta, so I happily ordered it.  I didn't notice though that the bowl was set on a bed of chillis in this picture until one of the local students asked me what I'd ordered, then followed up by asking if I like hot food.  She offered to fix my order, but I took a punt on it, and it wasn't too hot, so I dodged a bullet there!
+        {{< figure src="/img/3644QCA/day10/IMG_4890.jpg" link="/img/3644QCA/day10/IMG_4890.jpg" >}}
     </div>
     <div class="6u 12u$(medium)">
-        {{< figure src="/img/3644QCA/day10/IMG_4890.jpg" link="/img/3644QCA/day10/IMG_4890.jpg" >}}
+        For lunch today, I decided to figure out the payment system.  So the idea is that you find out how much your item is, then you go to a separate counter and buy a receipt for the amount you need.  They you go back to the retailer and get your food.  Local students have a card to buy their food, so it's a bit more streamlined for them.<br><br>
+        I chose the point and pray method of selecting my meal today.  This looked like a delicious pasta, so I happily ordered it.  I didn't notice though that the bowl was set on a bed of chillis in this picture until one of the local students asked me what I'd ordered, then followed up by asking if I like hot food.  She offered to fix my order, but I took a punt on it, and it wasn't too hot, so I dodged a bullet there!
     </div>
 </div>
 
