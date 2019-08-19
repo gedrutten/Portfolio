@@ -55,6 +55,8 @@ It was looking like we may have to join the EL wire.  We wanted to have the EL w
 
 I'd seen an instructible some time back on joining EL wire, so I looked it up that evening.  They use copper tape to wrap around the inner insulation and solder the fine chroma wires to.  This protects the fine wires as the physical load goes through the copper tape, not the fragile wires.  We didn't have any copper tape though.  
 
+https://www.instructables.com/id/How-to-use-and-join-EL-wire/
+
 \
 
 ### Random observations
