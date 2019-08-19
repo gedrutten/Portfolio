@@ -1,7 +1,7 @@
 ---
 title: "Umbrella Navigation"
 date: 2019-07-22T22:42:10+10:00
-image: "/img/3644QCA/umbrella/thumbnail.jpg"
+image: "umbrella/thumbnail.jpg"
 Description: "A post-tour collaboration with Vee"
 draft: false
 ---
