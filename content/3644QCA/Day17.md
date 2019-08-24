@@ -1,5 +1,5 @@
 ---
-title: "Day 17 - Prep for the big show"
+title: "Day 17 - The Big Reveal (and the big push to get there)"
 date: 2019-06-19T21:53:12+10:00
 image: "day17/thumbnail.jpg"
 Description: ""

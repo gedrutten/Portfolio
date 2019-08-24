@@ -37,6 +37,7 @@ Mount Tai is one of the 5 sacred mountains of China and has a long cultural hist
 {{< figure src="/img/3644QCA/day12/IMG_5058.jpg" link="/img/3644QCA/day12/IMG_5058.jpg" width="100%" >}}
 {{< figure src="/img/3644QCA/day12/IMG_5075.jpg" link="/img/3644QCA/day12/IMG_5075.jpg" width="100%" >}}
 {{< figure src="/img/3644QCA/day12/P1040756.jpg" link="/img/3644QCA/day12/P1040756.jpg" width="100%" >}}
+{{< figure src="/img/3644QCA/day12/IMG_5094.jpg" link="/img/3644QCA/day12/IMG_5094.jpg" width="100%" >}}
 {{< figure src="/img/3644QCA/day12/IMG_5084.jpg" link="/img/3644QCA/day12/IMG_5084.jpg" width="100%" >}}
 {{< figure src="/img/3644QCA/day12/P1040757.jpg" link="/img/3644QCA/day12/P1040757.jpg" width="100%" >}}
 {{< figure src="/img/3644QCA/day12/P1040758.jpg" link="/img/3644QCA/day12/P1040758.jpg" width="100%" >}}

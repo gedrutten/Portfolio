@@ -1,5 +1,5 @@
 ---
-title: "Day 16 - The final push"
+title: "Day 16 - The Final Stretch"
 date: 2019-06-18T21:53:07+10:00
 image: "day16/thumbnail.jpg"
 Description: ""

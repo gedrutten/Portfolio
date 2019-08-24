@@ -84,3 +84,10 @@ Ricco and myself decided that there wasn't going to be too many more chances to 
 {{< figure src="/img/3644QCA/day15/IMG_5454.jpg" link="/img/3644QCA/day15/IMG_5454.jpg" >}}
 {{< figure src="/img/3644QCA/day15/IMG_5456.jpg" link="/img/3644QCA/day15/IMG_5456.jpg" >}}
 
+While at the top of the mountain, we stopped at a kiosk to get some water.  There was no prices, but the vendor was making a hand gesture that I associate with surfie culture - thumb and pinky out, the rest of the fingers curled into the palm.  As it turns out, this is the symbol for 6 in Chinese culture.  I've also come across a gesture in which both pointer fingers are crossed over each other to form an "X" - this is the symbol for 10, which I associated, probably quite incorrectly with the roman numeral X for 10.  Often though, the calculator on my phone comes out to clarify numbers when I'm struggling to understand.
+
+I found this image online that explains the remaining hand gestures.
+<center>
+    {{< figure src="/img/3644QCA/day15/HandGestures.jpg" link="/img/3644QCA/day15/HandGestures.jpg" width="60%" >}}
+</center>
+
