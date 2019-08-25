@@ -10,7 +10,7 @@ Friday, 14th June
 ---
 [< Prev](../day11) | [Home](..) | [Next >](../day13)
 
-Mount Tai is one of the 5 sacred mountains of China and has a long cultural history.  There is a spiritual significance to walking up the 7000+ stairs to the top, a journey that can take 6 hours.  Because of the time it might have taken, we went up on the gondola.  Apparently in times passed, the emporer used to be carried to the top.  
+Mount Tai is one of the 5 sacred mountains of China and has a long cultural history.  There is a spiritual significance to walking up the 7000+ stairs to the top, a journey that can take 6 hours.  Because of the time it might have taken, we went up on the gondola.  Apparently in times past, the Emporer used to be carried to the top.  
 
 {{< figure src="/img/3644QCA/day12/IMG_4989s.jpg" link="/img/3644QCA/day12/IMG_4989.jpg" width="100%" >}}
 {{< figure src="/img/3644QCA/day12/P1040739.jpg" link="/img/3644QCA/day12/P1040739.jpg" width="100%" >}}

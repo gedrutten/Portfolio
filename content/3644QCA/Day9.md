@@ -34,7 +34,7 @@ The bus trip was about an hour across to the other campus.  Straight line distan
 
 When we arrived at the campus, we were shown to the main conference room - an in-the-round conference room.  Three local classes filed in and filled a quadrant of the room each (we'd already occupied a quadrant).  The basic introductions were done and we were asked about the groups that we'd formed.  We were so happy with the way our group worked from Shanghai that the moment the call went out to choose groups, we elected to stick together.  Each group of 4 from Brisbane would be assigned to a local fashion class to work with since there was 3 classes.  Then within each class, we were to pick a few outfits and work with those specific students to come up with an integrated wearable design.  
 
-We were then let loose to introduce ourselves to our classes and to start discussing ideas.  It went ok.  Some students had pictures of what they were working on and we had a bit of a chance to start discussing ideas.  Language is definately going to be a barrier again, but we'll have to work through it.  A lot of phone translation is happening and a lot of mistakes, but I'm sure we'll figure something out.  
+We were then let loose to introduce ourselves to our classes and to start discussing ideas.  It went ok.  Some students had pictures of what they were working on and we had a bit of a chance to start discussing ideas.  Language is definitely going to be a barrier again, but we'll have to work through it.  A lot of phone translation is happening and a lot of mistakes, but I'm sure we'll figure something out.  
 
 After the introductions, we were shown around the galleries on campus.  
 
@@ -196,7 +196,7 @@ After that we went to the 3-story cafeteria.  Again, the locals were extremely h
 
 #### After lunch wanderings
 
-After lunch, we had some time to ourselves to look around.  I wandered into an area not far from the cafeteria building and came across a few people that had set up a stand that seemed to be promoting a drawing course.  They offered me their pamphlets (which were more like small paperback books) to keep.  They also had some pretty stunning sketches on display as the following images show.
+After lunch, we had some time to ourselves to look around.  I wandered into an area not far from the cafeteria building and came across a few people who had set up a stand that seemed to be promoting a drawing course.  They offered me their pamphlets (which were more like small paperback books) to keep.  They also had some pretty stunning sketches on display as the following images show.
 
 {{< figure src="/img/3644QCA/day09/20190819_094808.jpg" link="/img/3644QCA/day09/20190819_094808.jpg" >}}
 {{< figure src="/img/3644QCA/day09/20190819_094919.jpg" link="/img/3644QCA/day09/20190819_094919.jpg" >}}
@@ -225,14 +225,14 @@ After lunch, we had some time to ourselves to look around.  I wandered into an a
 Lunch wanders - came across a display that seemed to be promoting a sketching course.  
 
 {{< figure src="/img/3644QCA/day09/IMG_4856.jpg" link="/img/3644QCA/day09/IMG_4856.jpg" >}}
-I also came across this outdoor area - I think this is usually a bit busier.  Perhaps it's because we seem to be out-of-term, or perhaps its because its so hot outside.
+I also came across this outdoor area - I think this is usually a bit busier.  Perhaps it's because we seem to be out-of-term, or perhaps its because it's so hot outside.
 
 {{< figure src="/img/3644QCA/day09/IMG_4857.jpg" link="/img/3644QCA/day09/IMG_4857.jpg" >}}
 This has a bit more life to it.  
 
 \
 
-I also discovered what looked like a public sauna - very popular too.  As i was walking away from it, I was told that it was the public showers - they have no shower facilities in their rooms here, so they nood to go and use a shared public shower.  The little toiletry baskets were scattered all over the floor - there was shelves at the wall, but they were full.  Students were tip-toeing through the baskets to get to their own.  
+I also discovered what looked like a public sauna - very popular too.  As I was walking away from it, I was told that it was the public showers - they have no shower facilities in their rooms here, so they need to go and use a shared public shower.  The little toiletry baskets were scattered all over the floor - there was shelves at the wall, but they were full.  Students were tip-toeing through the baskets to get to their own.  
 
 \
 

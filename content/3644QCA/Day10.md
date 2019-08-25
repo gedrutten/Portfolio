@@ -36,11 +36,11 @@ And ended up going with designs 1, 2, and 3.
 
 {{< figure src="/img/3644QCA/day10/IMG_4885.jpg" link="/img/3644QCA/day10/IMG_4885.jpg" >}}
 
-This one appealed to us because it was made out of transparent vinyl.  This means it would easily be supplemented with EL lighting or LED's - the plasticy look and feel, the reflectiveness would complement ligthing effects.  It's likely that we will go with EL wire (I brought a little bit of white EL), and look to highlight the natural curves of the design.  
+This one appealed to us because it was made out of transparent vinyl.  This means it would easily be supplemented with EL lighting or LED's - the plasticy look and feel, the reflectiveness would complement lighting effects.  It's likely that we will go with EL wire (I brought a little bit of white EL), and look to highlight the natural curves of the design.  
 \
 
 {{< figure src="/img/3644QCA/day10/IMG_4886.jpg" link="/img/3644QCA/day10/IMG_4886.jpg" >}}
-We liked this design because of all the flowing straps.  We're hoping to create some sort of ribbon twirling feature that can be a discreet ribbon that forms part of the design when not activated, but when activated creates beautiful flowing ribbon patterns.  We're thinking of using fans to activate the ribbons somewhat like the Windform exhibit back at McaM in Shanghai. 
+We liked this design because of all the flowing straps.  We're hoping to create some sort of ribbon twirling feature that can be a discrete ribbon that forms part of the design when not activated, but when activated creates beautiful flowing ribbon patterns.  We're thinking of using fans to activate the ribbons somewhat like the Windform exhibit back at McaM in Shanghai. 
 \
 {{< figure src="/img/3644QCA/day10/IMG_4887.jpg" link="/img/3644QCA/day10/IMG_4887.jpg" >}}
 This design was our final choice.  We're thinking of integrating lighting to bring out the character of the design.  
@@ -96,7 +96,7 @@ In the afternoon, our hosts invited us to a tea ceremony back in the conference 
 + Tastes better and value higher if it is sun-dried with the natural sunlight
 + Artificial light produces greenish tea, but naturally dried is green-grey
 + In terms of aging:
-    + First year tea is naieve
+    + First year tea is naive
     + After 3 years, becomes medicine - good to drink in summer (good to reduce heat and good for bladder)
     + After 7 years very rare, treasure.  Like wine from 1982.
 + Originally lime green tea, but eventually becomes like black tea
@@ -105,7 +105,7 @@ In the afternoon, our hosts invited us to a tea ceremony back in the conference 
 
 ### Qianfo Mountain
 
-There is a scenic mountain park a few hundred metres from the accommodation, so when we returned home, Ricco and myself decided to take a walk up there and explore a little.  I figure he'd have better pics than me, but there's a few of my pics from this trip below.  We headed for the big golden Buddha on the left of the map.  I'd estimate the Buddha to be around 20m tall.  It was quiet around the Buddha with only 1 store open, but there was evidence that this is a bustling tourist attraction with chidres cars parked up in one area.  After seeing the Buddha we headed pretty much straight up the mountain and found a little pagoda at the top.  A guy was singing his heart out up there and I could hear someone far off in the distance also singing - I guess that's a thing here.  I'm not sure if they were singing to each other, or competing with one another?  We took a random exist from the park on the way back down in an effort to try to find some interesting food (and a bank - I was out of cash again, and a few ATM's I'd visited didn't work with my card).  
+There is a scenic mountain park a few hundred metres from the accommodation, so when we returned home, Ricco and myself decided to take a walk up there and explore a little.  I figure he'd have better pics than me, but there's a few of my pics from this trip below.  We headed for the big golden Buddha on the left of the map.  I'd estimate the Buddha to be around 20m tall.  It was quiet around the Buddha with only 1 store open, but there was evidence that this is a bustling tourist attraction with children's novelty cars parked up in one area.  After seeing the Buddha we headed pretty much straight up the mountain and found a little pagoda at the top.  A guy was singing his heart out up there and I could hear someone far off in the distance also singing - I guess that's a thing here.  I'm not sure if they were singing to each other, or competing with one another?  We took a random exist from the park on the way back down in an effort to try to find some interesting food (and a bank - I was out of cash again, and a few ATM's I'd visited didn't work with my card).  
 
 \
 
@@ -189,6 +189,6 @@ Trees are overtaking this stone work on the path back down.
         {{< figure src="/img/3644QCA/day10/IMG_4940.jpg" link="/img/3644QCA/day10/IMG_4940.jpg" >}}    
     </div>
     <div class="6u 12u$(medium)">
-        Things are done differently here.  In this picture, you can see that there's been a few cables laid after the pavement and manhole were put in place.  In Australia, this wouls need conduit to protect the wires.  Here in China, they've cut a groove in the pavement and placed the wires under a bed of concrete which, as can be seen here, falls apart over time.
+        Things are done differently here.  In this picture, you can see that there's been a few cables laid after the pavement and manhole were put in place.  In Australia, this would need conduit to protect the wires.  Here in China, they've cut a groove in the pavement and placed the wires under a bed of concrete which, as can be seen here, falls apart over time.
     </div>
 </div>

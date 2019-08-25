@@ -39,19 +39,19 @@ One idea I had with the fans was to build a trapezoidal base that could be mount
 
 
 {{< figure src="/img/3644QCA/day11/IMG_4947.jpg" link="/img/3644QCA/day11/IMG_4947.jpg" >}}
-Serious work being done here!  Fans on the other side of the table, One of the cardboard test grills for the fan design next to the green bottle, Arduino and a Neopixel strip for the skull pendant, smaller motors near the blue and gold ribbons.  Its all going on!  
+Serious work being done here!  Fans on the other side of the table, One of the cardboard test grills for the fan design next to the green bottle, Arduino and a Neopixel strip for the skull pendant, smaller motors near the blue and gold ribbons.   It's all going on!  
 
-After trying the fans, we decidede that plan wasn't going to work.  
+After trying the fans, we decided that plan wasn't going to work.  
 
-I'd seen an exhibit at the Asia Pacific Triennial last year where they had small vibration motors hanging on long vertical wires and resting on bells and glass electrical insulators - basically anything that'd make a noise when you tap it.  When the vibration motors were turned on, they would bounce uncontrollably and tap on whatever it was they were leaning on.  It seemed like a good use of a tiny motr to achieve an interesting effect.  I wondered if we could do someting similar.  I'd brought a pack of 10 tiny 3V vibration motors, so we glued one to the end of the ribbon and fired it up.  It didn't really work either.  
+I'd seen an exhibit at the Asia Pacific Triennial last year where they had small vibration motors hanging on long vertical wires and resting on bells and glass electrical insulators - basically anything that'd make a noise when you tap it.  When the vibration motors were turned on, they would bounce uncontrollably and tap on whatever it was they were leaning on.  It seemed like a good use of a tiny motor to achieve an interesting effect.  I wondered if we could do something similar.  I'd brought a pack of 10 tiny 3V vibration motors, so we glued one to the end of the ribbon and fired it up.  It didn't really work either.  
 
-The we started thinking about putting a transversse shaft on the end of an electric motor and tieing the ribbon on to the outboard end of that.  The hot glue came out again and we got some great effects.  Glueing a ribbon onto a stick of cardboard which is then glued to the end of a vibration motor wasn't the most sturdy design though, but it was a good idea in principal.  
+The we started thinking about putting a transverse shaft on the end of an electric motor and tieing the ribbon on to the outboard end of that.  The hot glue came out again and we got some great effects.  Glueing a ribbon onto a stick of cardboard which is then glued to the end of a vibration motor wasn't the most sturdy design though, but it was a good idea in principle.  
 \
 
 {{< figure src="/img/3644QCA/day11/IMG_4948.jpg" link="/img/3644QCA/day11/IMG_4948.jpg" >}}
 And on this table, we had the EL wire running through a dummy piece of card to represent what we're planning to achieve.  
 
-It was looking like we may have to join the EL wire.  We wanted to have the EL wire go around the neckline and around the top and bottom lines of the armbands.  So we needed the EL to have gaps in it.  There's 2 ways to do this; 1. cover the bits you don't want to see with heatshrink, or 2. Cut and connect the EL wire.  The first option is the easiest and most reliable.  We have plenty of heatshrink to do it too.  The problem is that we don't have enough length of EL wire to sacrifice the secitons that don't need to be seen.  The second option is way more risky as the chroma wires in EL are extremely fine and delicate, but if we can't get any more EL wire in Jinan, then option 2 would be our only option.
+It was looking like we may have to join the EL wire.  We wanted to have the EL wire go around the neckline and around the top and bottom lines of the armbands.  So we needed the EL to have gaps in it.  There's 2 ways to do this; 1. cover the bits you don't want to see with heatshrink, or 2. Cut and connect the EL wire.  The first option is the easiest and most reliable.  We have plenty of heatshrink to do it too.  The problem is that we don't have enough length of EL wire to sacrifice the sections that don't need to be seen.  The second option is way more risky as the chroma wires in EL are extremely fine and delicate, but if we can't get any more EL wire in Jinan, then option 2 would be our only option.
 
 I'd seen an instructible some time back on joining EL wire, so I looked it up that evening.  They use copper tape to wrap around the inner insulation and solder the fine chroma wires to.  This protects the fine wires as the physical load goes through the copper tape, not the fragile wires.  We didn't have any copper tape though.  
 
@@ -66,7 +66,7 @@ https://www.instructables.com/id/How-to-use-and-join-EL-wire/
         {{< figure src="/img/3644QCA/day11/P1040697.jpg" link="/img/3644QCA/day11/P1040697.jpg" >}}
     </div>
     <div class="6u 12u$(medium)">
-        This seems to be a fancy construction facade on this building.  It's certainly nicer than shadecloth.
+        This seems to be a fancy construction facade on this building.  It's certainly nicer than shade cloth.
     </div>
 </div>
 
@@ -75,7 +75,7 @@ https://www.instructables.com/id/How-to-use-and-join-EL-wire/
         {{< figure src="/img/3644QCA/day11/IMG_4945.jpg" link="/img/3644QCA/day11/IMG_4945.jpg" >}}
     </div>
     <div class="6u 12u$(medium)">
-        Inside that frame that looks like a gas tank frame, theres a temple by the looks of it.
+        Inside that frame that looks like a gas tank frame, there's a temple by the looks of it.
     </div>
 </div>
 
@@ -84,7 +84,7 @@ https://www.instructables.com/id/How-to-use-and-join-EL-wire/
         {{< figure src="/img/3644QCA/day11/IMG_4946.jpg" link="/img/3644QCA/day11/IMG_4946.jpg" >}}
     </div>
     <div class="6u 12u$(medium)">
-        Some graffiti on campus.  It seems the security cameras dont cover the stairwells, so that's where the creatives seem to get out their pens and make their mark.
+        Some graffiti on campus.  It seems the security cameras don't cover the stairwells, so that's where the creatives seem to get out their pens and make their mark.
     </div>
 </div>
 

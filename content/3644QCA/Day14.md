@@ -28,7 +28,7 @@ This article goes on to support the idea of America's trade war, or at least the
 
 ### Touristing
 
-On a lighter note, Today I was shown around by my friend, Eugene and his family.  It was raining in the morning, so at least it was a bit cooler.  I was a little concerned about Bronwyn and Ricco heading out to The Great Wall, but apprently they had a great time - in fact, the rain and fog added to the experience.
+On a lighter note, Today I was shown around by my friend, Eugene and his family.  It was raining in the morning, so at least it was a bit cooler.  I was a little concerned about Bronwyn and Ricco heading out to The Great Wall, but apparently they had a great time - in fact, the rain and fog added to the experience.
 
 We first headed to Yum Cha at a place just off Wangfujing Street - the main upmarket shopping mall in Beijing.  As it turns out, We were only 2 blocks from Wangfujing Street the day before when we were tired and hungry and looking for something familiar to eat.  If we had've known, we might not have caught a cab to a shopping centre where we had Subway in the food court!
 
@@ -86,9 +86,9 @@ Some remnants from renovations on display - note the copper "nails" used to secu
 
 {{< figure src="/img/3644QCA/day14/IMG_5379.jpg" link="/img/3644QCA/day14/IMG_5379.jpg" width="100%" >}}
 
-View from the southern exit of the Temple of Heaven.  There was a single paved path down the centre that was apparently reserved for the emporer to walk along in the past.  
+View from the southern exit of the Temple of Heaven.  There was a single paved path down the centre that was apparently reserved for the Emporer to walk along in the past.  
 
-After this, I headed back to the train station for my return journey.  Since my frind was a local, he was able to order a DiDi for me - similar to an Uber back home.  Unfortunately, like a lot of things, these aren't accessible as a foreigner which makes travel quite difficult.  
+After this, I headed back to the train station for my return journey.  Since my friend was a local, he was able to order a DiDi for me - similar to an Uber back home.  Unfortunately, like a lot of things, these aren't accessible as a foreigner which makes travel quite difficult.  
 
 
 {{< figure src="/img/3644QCA/day14/IMG_5387.jpg" link="/img/3644QCA/day14/IMG_5387.jpg" width="100%" >}}
@@ -111,7 +111,7 @@ Leaving Beijing Station.
     </div>
 </div>
 
-Examples of the magnitude of things seen in the landscape during the journey back to Jinan.  On the left, an example of the magnitude of electricity being transported in this coutry, on the right, a city in the distance and a greenhouse in the foreground, both huge.  
+Examples of the magnitude of things seen in the landscape during the journey back to Jinan.  On the left, an example of the magnitude of electricity being delivered in this country, on the right, a city in the distance and a greenhouse in the foreground, both huge.  
 
 
 <video width="100%" controls>

@@ -84,7 +84,7 @@ Scaffolding in place for repairs?
     </div>
 </div>
 
-What looks liek agreen field project.  This area appeared to be getting rejuvenated into s manicured area ready for development to arrive.  Large freeways and waterways are getting built along with mass plantings.  There were people among the trees apparently maintaining them.  
+What looks like a green field project.  This area appeared to be getting rejuvenated into s manicured area ready for development to arrive.  Large freeways and waterways are getting built along with mass plantings.  There were people among the trees apparently maintaining them.  
 
 \
 
@@ -111,7 +111,7 @@ School students on parade.
 Not a great photo, but a quick glimpse of the maglev train as it approaches Pudong airport, Shanghai.
 
 {{< figure src="/img/3644QCA/day08/IMG_4730.jpg" link="/img/3644QCA/day08/IMG_4730.jpg" >}}
-The airport terminal has an innovative roof structure similar to a wing.  It's wrapped around a set of almost-vertical compression beams, making the roof and the wire underneath be tension elements, thereby reducing hte weight of those components and allowing for the larger spans of roofline.  The roof inside the building was the same structure, although, possibly an even wider span.
+The airport terminal has an innovative roof structure similar to a wing.  It's wrapped around a set of almost-vertical compression beams, making the roof and the wire underneath be tension elements, thereby reducing the weight of those components and allowing for the larger spans of roofline.  The roof inside the building was the same structure, although, possibly an even wider span.
 
 <div class="row">
     <div class="6u 12u$(medium)">
@@ -194,12 +194,12 @@ I also noticed that they use what looks like an IV drip on their plants??
 {{< figure src="/img/3644QCA/day08/IMG_4746.jpg" link="/img/3644QCA/day08/IMG_4746.jpg" >}}
 \
 
-We were treated to a massive lunch and again a massive dinner today.  We were also introduced to the key staff at the University that we'd be working with during our stay.  During the afternoon presentation, it was meantioned that they want to teach us Chinese culture through their food.  
+We were treated to a massive lunch and again a massive dinner today.  We were also introduced to the key staff at the University that we'd be working with during our stay.  During the afternoon presentation, it was mentioned that they want to teach us Chinese culture through their food.  
 
 A few facts about the university:
 
 + They only accept 1600 students from 70,000 applicants
-+ They were the only university to run a pavillion at the Shanghai Expo
++ They were the only university to run a pavilion at the Shanghai Expo
 + Teachers are encouraged to integrate traditional and modern
 + Expectations for this trip:
     + Wearable design with traditional elements

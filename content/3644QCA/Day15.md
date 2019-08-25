@@ -27,13 +27,15 @@ We ended up going a little more low-tech and using a zip tie around the vibratio
 
 ### Evening walks up Qianfo Mountain
 
-Ricco and myself decided that there wasn't going to be too many more chances to get to the top of Qianfo Mountain, so we decided tonights the night.  This time instead of meandering around the lowere peaks, we were going to get to the top for sunset nad get some pictures of the city by night.  
+Ricco and myself decided that there wasn't going to be too many more chances to get to the top of Qianfo Mountain, so we decided tonight's the night.  This time instead of meandering around the lower peaks, we were going to get to the top for sunset nad get some pictures of the city by night.  
 
 {{< figure src="/img/3644QCA/day15/P1040772.jpg" link="/img/3644QCA/day15/P1040772.jpg" >}}
 <video width="100%" controls>
     <source src="/img/3644QCA/day15/BDMV-Clip72.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+We stopped to take so many photos these guys kept catching up to us!
+
 <div class="row">
     <div class="4u 12u$(medium)">
         {{< figure src="/img/3644QCA/day15/P1040779.jpg" link="/img/3644QCA/day15/P1040779.jpg" >}}

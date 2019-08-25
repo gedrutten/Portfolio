@@ -11,9 +11,9 @@ Saturday, 15th June
 [< Prev](../day12) | [Home](..) | [Next >](../day14)
 
 
-Cabs are easier to get in Jinan than in Shanghai - we walked down to a main street and simply hailed them.  Admittedly, some do drive off when they relise we dont speak Mandarin, but we figured out how to get around that - you sit in the car first, then you ask about the destination.  It's harder for them to drive off that way.  Perhaps our problems in Shanghai was more about where we were staying, although again, I think we're not in the heart of the city in Jinan either - it feels like we're in the old part of the city.  
+Cabs are easier to get in Jinan than in Shanghai - we walked down to a main street and simply hailed them.  Admittedly, some do drive off when they realise we don't speak Mandarin, but we figured out how to get around that - you sit in the car first, then you ask about the destination.  It's harder for them to drive off that way.  Perhaps our problems in Shanghai was more about where we were staying, although again, I think we're not in the heart of the city in Jinan either - it feels like we're in the old part of the city.  
 
-Five of us decided to go into Beijing, 3 of us had planned to stay a night there and return on Sunday, the other 2 returned the same day.  I have an old training buddy from 15-odd years ago that now lives in Beijing and I thought it would be good to visit him and his family since we are not that far away in Jinan.  The plan was to catch a fast train to Beijing fairly early, see the Forbidden City (the Palace Museum) and Tianamen Square and then whatever else our time and energy would allow.  In the afternoon, I would catch up with my mate and head my own direction.  Of the 4 others on this weekend away, 2 would go back to Jinan in the evening, the other 2 had booked a Great Wall trip for the following day, so would stay a night in Beijing.
+Five of us decided to go into Beijing, 3 of us had planned to stay a night there and return on Sunday, the other 2 returned the same day.  I have an old training buddy from 15-odd years ago that now lives in Beijing and I thought it would be good to visit him and his family since we are not that far away in Jinan.  The plan was to catch a fast train to Beijing fairly early, see the Forbidden City (the Palace Museum) and Tiananmen Square and then whatever else our time and energy would allow.  In the afternoon, I would catch up with my mate and head my own direction.  Of the 4 others on this weekend away, 2 would go back to Jinan in the evening, the other 2 had booked a Great Wall trip for the following day, so would stay a night in Beijing.
 
 
 <center>
@@ -22,7 +22,7 @@ Five of us decided to go into Beijing, 3 of us had planned to stay a night there
 
 The fast train is amazing - 305kph and super smooth - I had a coffee on my table and it barely showed even a ripple.  And I realised on the trip that it only cost as much as an Uber fare from the city to the airport back home in Brisbane.  Crazy.  500-odd km for the price of 15!
 
-The next 2 videos were taken on the journey to give some idea of the speed.  The refresh rate of the camera sensor couldn't keep up with the speed, hence the angled fence posts and other features in teh foreground.
+The next 2 videos were taken on the journey to give some idea of the speed.  The refresh rate of the camera sensor couldn't keep up with the speed, hence the angled fence posts and other features in the foreground.
 
 <video width="100%" controls>
     <source src="/img/3644QCA/day13/IMG_5105.mp4" type="video/mp4">
@@ -40,7 +40,7 @@ The display on the ceiling of the carriage indicating the speed - 304km/h.
 
 {{< figure src="/img/3644QCA/day13/IMG_5131.jpg" link="/img/3644QCA/day13/IMG_5131.jpg" width="100%" >}}
 
-We took a photo of the train map at the station when we arrived, but here's a better one.  We had to get a local train from the Beijing high-speed rail station to Tianamen.  We arrived at Beijing South (Line 4) and took the local train to Tianamen Wedt (Line 1).
+We took a photo of the train map at the station when we arrived, but here's a better one.  We had to get a local train from the Beijing high-speed rail station to Tiananmen.  We arrived at Beijing South (Line 4) and took the local train to Tiananmen West (Line 1).
 
 {{< figure src="/img/3644QCA/day13/IMG_5130.jpg" link="/img/3644QCA/day13/IMG_5130.jpg" width="100%" >}}
 
@@ -56,7 +56,7 @@ We didn't all manage to squeeze in to the local train.  Two of us got left behin
     </div>
 </div>
 
-When we surfaced from the local train, this was our view - the Palace Museum on the left, Tianamen Square on the right.  Lots of crowds in between.  We chose to go to the Palace Museum first.
+When we surfaced from the local train, this was our view - the Palace Museum on the left, Tiananmen Square on the right.  Lots of crowds in between.  We chose to go to the Palace Museum first.
 
 {{< figure src="/img/3644QCA/day13/IMG_5134.jpg" link="/img/3644QCA/day13/IMG_5134.jpg" width="100%" >}}
 {{< figure src="/img/3644QCA/day13/IMG_5137.jpg" link="/img/3644QCA/day13/IMG_5137.jpg" width="100%" >}}
@@ -154,7 +154,7 @@ Repairs being carried out on the pavers within the complex.
 
 #### Clock Museum
 
-Within the walls of the Palace was a separately ticketted clock museum (that was airconditioned!).  In it was several clocks that had been gifted to the various dynasties of China over time.  My favourite clock was the one shown below - one that stood about 150cm high which also depicted the movements of the planets.  It was gifted to China from Britain in the 18th century.
+Within the walls of the Palace was a separately ticketed clock museum (that was air-conditioned!).  In it was several clocks that had been gifted to the various dynasties of China over time.  My favourite clock was the one shown below - one that stood about 150cm high which also depicted the movements of the planets.  It was gifted to China from Britain in the 18th century.
 
 {{< figure src="/img/3644QCA/day13/IMG_5182.jpg" link="/img/3644QCA/day13/IMG_5182.jpg" width="100%" >}}
 
@@ -173,7 +173,7 @@ Within the walls of the Palace was a separately ticketted clock museum (that was
     </div>
 </div>
 
-Armatures extend outside of the footprint of the clock to represent planets further away, each with teir own moons orbiting them.
+Armatures extend outside of the footprint of the clock to represent planets further away, each with their own moons orbiting them.
 
 
 <div class="row">
@@ -205,7 +205,7 @@ The last chamber of the Palace contained several retailers, each specialising in
 
 
 {{< figure src="/img/3644QCA/day13/IMG_5234.jpg" link="/img/3644QCA/day13/IMG_5234.jpg" width="100%" >}}
-Almost out.  The building on the hill was part of Jingshan Park - we didn't go there.  By this stage, we were hot, exhausted, hungry and over crowds.  We decided to walk east then south along the border wall trying to look for some place nice to eat.  When we got back to the southern wall without having found any place to eat, we decided that we should just go see Tianamen square since we were practically there.
+Almost out.  The building on the hill was part of Jingshan Park - we didn't go there.  By this stage, we were hot, exhausted, hungry and over crowds.  We decided to walk east then south along the border wall trying to look for some place nice to eat.  When we got back to the southern wall without having found any place to eat, we decided that we should just go see Tiananmen square since we were practically there.
 
 <div class="row">
     <div class="6u 12u$(medium)">
@@ -214,7 +214,7 @@ Almost out.  The building on the hill was part of Jingshan Park - we didn't go t
     </div>
     <div class="6u 12u$(medium)">
         {{< figure src="/img/3644QCA/day13/IMG_5245.jpg" link="/img/3644QCA/day13/IMG_5245.jpg" width="100%" >}}
-        Approaching Tianamen Square, we passed this police vehicle.  There was a definite feeling of high security in the area.  We also had to go through checkpoints as we got closer to Tianamen.
+        Approaching Tiananmen Square, we passed this police vehicle.  There was a definite feeling of high security in the area.  We also had to go through checkpoints as we got closer to Tiananmen.
     </div>
 </div>
 
@@ -222,11 +222,11 @@ Almost out.  The building on the hill was part of Jingshan Park - we didn't go t
 
 {{< figure src="/img/3644QCA/day13/IMG_5255.jpg" link="/img/3644QCA/day13/IMG_5255.jpg" width="100%" >}}
 
-Tianamen Square.
+Tiananmen Square.
 
 ### Heading Different Directions
 
-After Tianamen Square, we got in a taxi and headed for the nearest shopping mall where we found some western food - Subway.  It was almost 4pm, so it made sense that we were all pretty exhausted and hungry.  Oddly enough, we ate at the side of an ice-skating rink at the bottom of this particular shopping mall.  
+After Tiananmen Square, we got in a taxi and headed for the nearest shopping mall where we found some western food - Subway.  It was almost 4pm, so it made sense that we were all pretty exhausted and hungry.  Oddly enough, we ate at the side of an ice-skating rink at the bottom of this particular shopping mall.  
 
 After lunch, I split from the group to meet my mate, Eugene.  He cycled over to meet me, then he hired a mo-bike dockless rental bike for me to ride so that we could go on a quick pushbike tour of the city.  We covered about 15-20km in less than an hour, went through the Forbidden City after hours - there was a path inside the border walls, along the canal and through the first courtyard which now only had a handful of people - a stark contrast to the crowds earlier in the day.  It was so much more efficient seeing the city this way, and cycling on Beijing roads felt safer than cycling on Australian roads.  People actually give way to you and allow you to go where you want to go without cutting you off or squeezing you to the kerb.  Everybody just works together.  It's a pity we don't have access to the rental bikes as a foreigner.  It would make exploring the areas that we're staying so much easier and more enjoyable.
 

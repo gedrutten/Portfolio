@@ -71,7 +71,7 @@ Those power lines look pretty significant too!
 </div>  
 
 
-Above: A couple of images of an interesting piece that explores the brushstroke.  I found this particularly interesting since it's quite a simple thing, the brushstroke, but also incredible complex concept.  The separate image to the right just caught my attention.
+Above: A couple of images of an interesting piece that explores the brush stroke.  I found this particularly interesting since it's quite a simple thing, the brush stroke, but also incredible complex concept.  The separate image to the right just caught my attention.
 
 Below is a couple of examples of sculpture work also being exhibited at the graduate show.  The item on the left stood about 1.5m tall.  
 
@@ -126,7 +126,7 @@ And some more sculpture.
     </div>
 </div>
 
-This glass work was amazing - although the images are poor, the glasswork itself was very geometric and looked to consist of some very accurate cutting / grinding such that the pieces fit together perfectly.
+This glass work was amazing - although the images are poor, the glass work itself was very geometric and looked to consist of some very accurate cutting / grinding such that the pieces fit together perfectly.
 
 <br> 
 
@@ -149,7 +149,7 @@ This glass work was amazing - although the images are poor, the glasswork itself
     </div>
 </div>
 
-The jewellery workshops were not too dissimilar to those back home... albeit a lot busier - it seems a student gets their own desk here that they can call home.  They seem to use a bucket of rock-like balls instead of firebricks too.  And that orange thing - that's an induction powered furnace.  Good kit!  
+The jewellery workshops were not too dissimilar to those back home... albeit a lot busier - it seems a student gets their own desk here that they can call home.  They seem to use a bucket of rock-like balls instead of fire bricks too.  And that orange thing - that's an induction powered furnace.  Good kit!  
 
 The rest of these images are mostly of posters on the walls.  I took these as they show a number of the works that have been created in these studios in a condensed form.  I feel like I could look at them several times and discover something new each time.  
 
@@ -202,7 +202,7 @@ After the tour of the university, we were taken to Gucun Park, a surprisingly sp
 </div>  
 
 
-After lunch, we were briefed on the plan for the next couple of days and were introduced to Yanxi Shen, an Intangible Cultural Heritage representative of the Yao people.  She presented a series of embroidered works and explained the significance of embroidery to the women of her culture.  It is their form of communication as they Yao people have no written communication.  As such, they tell their stories through their embroidery, mostly in black and white.  The vibrantly coloured garments are also hand embroidered, but it is the black and white garmets, usually worn as an underskirt that tell their stories.
+After lunch, we were briefed on the plan for the next couple of days and were introduced to Yanxi Shen, an Intangible Cultural Heritage representative of the Yao people.  She presented a series of embroidered works and explained the significance of embroidery to the women of her culture.  It is their form of communication as they Yao people have no written communication.  As such, they tell their stories through their embroidery, mostly in black and white.  The vibrantly coloured garments are also hand embroidered, but it is the black and white garments, usually worn as an underskirt that tell their stories.
 
 When the Yao women are bored or lonely, they would sing while they embroidered, attracting company to visit.  And once they have children of their own, they begin to embroider for those children - for their daughters, and for their future daughter-in-laws.  Yanxi gave us the pleasure of singing a traditional song as she embroidered which you can see below...  
 
@@ -213,7 +213,7 @@ When the Yao women are bored or lonely, they would sing while they embroidered, 
 </video>
 </br>
 
-I reflected a little on the fact that the message was in black and white and related it to our own written language.  We write in black and white, or at least traditionally we did, and even today it is advised to use contrasting colours for text.  It is interesting that the Yao women also used black and white - it is simple and gets the message across without distraction. Could you imagine how difficult it would be to read multi-couloured text.  I think, by reducing the palette to 2 colours, they tell a clearer story.  And by making their outer garmets so vibrantly colourful, they emphasise the monochrome message.
+I reflected a little on the fact that the message was in black and white and related it to our own written language.  We write in black and white, or at least traditionally we did, and even today it is advised to use contrasting colours for text.  It is interesting that the Yao women also used black and white - it is simple and gets the message across without distraction. Could you imagine how difficult it would be to read multi-couloured text.  I think, by reducing the palette to 2 colours, they tell a clearer story.  And by making their outer garments so vibrantly colourful, they emphasise the monochrome message.
 
 
 ### Close up images of embroidery
@@ -265,7 +265,7 @@ Evening Meanderings
 A group of us walked to a nearby (still took at least 40 minutes to walk there) shopping mall to get some dinner.  
 
 
-I took these pics on teh way.  The wavy lights were simply the decoration on what looked like an office building.  They were actually just single lights at the bottom of vertically aligned wing-shaped aluminium uprights that provided the reflection, and much of the lighting effect.  The was also a couple of police officers in the grounds of the buildings that had little LED red-and-blue flashing lights on their shoulders - there's a wearable!  I didn't take a photo... didn't think that would be a good idea.  I have noticed actually that it's common for a police vehicle to have their lights flashing for no apparent reason.  I guess they're not used in the same way here as back home.
+I took these pics on the way.  The wavy lights were simply the decoration on what looked like an office building.  They were actually just single lights at the bottom of vertically aligned wing-shaped aluminium uprights that provided the reflection, and much of the lighting effect.  The was also a couple of police officers in the grounds of the buildings that had little LED red-and-blue flashing lights on their shoulders - there's a wearable!  I didn't take a photo... didn't think that would be a good idea.  I have noticed actually that it's common for a police vehicle to have their lights flashing for no apparent reason.  I guess they're not used in the same way here as back home.
 
 The box of white lights was actually a hanging display inside the shopping centre.  Each box was only about 40cm wide and the small white dots are LED's.
 
@@ -299,4 +299,4 @@ Dinner was a mission.  We were a large group, so it was difficult to get a conse
 
 We tried to tip them when we paid the bill, but they wouldn't take it.  The tip ended up paying for our cab rides home.
 
-Apparently the KFC was delicious too - they give you some sort of portugese tart with your meal.
+Apparently the KFC was delicious too - they give you some sort of Portugese tart with your meal.

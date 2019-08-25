@@ -16,7 +16,7 @@ As a brief aside, I came across this article in the morning and it became a bit 
 Orwell’s 1984 was nothing like actual 1984. But it’s exactly like 2019  
 https://www.digitaltrends.com/features/1984-orwell-trump-2019/  
 \
-Existing inside China's surveilance society, it's hard not to think about the fact that you're constantly monitored.  Why did they need our passport and photo to register a SIM card?  What tracking does my phone have now that I've installed and am using WeChat.  Do they know every time I'm on the VPN, and have they implanted cookies that track me even when I'm on that VPN?  What level of monitoring will continue after I return home?  The ability to deliver propaganda that is so well informed to specific targets is quite a powerful tool.  It is a worrying trend, and it seems China is leading the way.
+Existing inside China's surveillance society, it's hard not to think about the fact that you're constantly monitored.  Why did they need our passport and photo to register a SIM card?  What tracking does my phone have now that I've installed and am using WeChat.  Do they know every time I'm on the VPN, and have they implanted cookies that track me even when I'm on that VPN?  What level of monitoring will continue after I return home?  The ability to deliver propaganda that is so well informed to specific targets is quite a powerful tool.  It is a worrying trend, and it seems China is leading the way.
 
 
 On a lighter note, today we ventured out to visit the McaM - The Ming Contemporary Art Museum.  KJ, Danny, Paul and myself took off on foot thinking we were only a block or 2 from the museum, and by walking we'd see so much more along the journey than if we just jumped in a cab and went directly there.  We seemed to have the address wrong though and we walked a lot longer than expected.  True to form though, we did experience a whole lot more than we would have in a taxi.  Here's just some of it...
@@ -62,7 +62,7 @@ There's a lot of plant life in the water channels.  A lot of them seem to be int
     </div>
 </div>
 
-These little scooters looked really fun (not the little fold-up one Paul is playing with).  Brand new, they start at 3999CNY and go up to 7298CNY.  That's about $800AUD up to about $1500AUD for a brand new electric motocycle capable of travelling at 100km/h.  You're hard pressed to buy an electric assist pushbike for that money in Australia.  
+These little scooters looked really fun (not the little fold-up one Paul is playing with).  Brand new, they start at 3999CNY and go up to 7298CNY.  That's about $800AUD up to about $1500AUD for a brand new electric motorcycle capable of travelling at 100km/h.  You're hard pressed to buy an electric assist pushbike for that money in Australia.  
 
 <br>
 
@@ -149,7 +149,7 @@ These little scooters looked really fun (not the little fold-up one Paul is play
 
 ### Back on the road
 
-We decided to get a taxi this time to find our way to a shopping mall - one that has a Xaoimi shop.
+We decided to get a taxi this time to find our way to a shopping mall - one that has a Xiaomi shop.
 
 <div class="row">
     <div class="4u 12u$(medium)">

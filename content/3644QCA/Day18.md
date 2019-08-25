@@ -8,7 +8,7 @@ draft: false
 
 Thursday, 20th June
 ---
-[< Prev](../day17) | [Home](..) | [Next >](../retrospective)
+[< Prev](../day17) | [Home](..) 
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Yc4A-KMY_92EcZCb5uttrDf85sUOVuPr" width="100%" height="560"></iframe>
 

@@ -41,13 +41,13 @@ Some notes I took:
 + There was a 6-part documentary created about UAP called Big Art.  UAP actually has a link to the documentary on their website: https://www.uapcompany.com/news/big-art-series.  
 + There is a second series called "Making Marvels".  I found the first episode of this series on UAP's Vimeo site: https://vimeo.com/245849515 
 + The definition of _interactive_ in China means something different to what we're used to in Australia.  In China, something that can be sat on can be considered interactive.  Traditionally, wood or stone is used as these materials represent something "outside of yourself"
-+ Feng Shui is very important in Chinese culture.  UAP had a project in which they created a large dragon sculpture.  Once it was commissionied, they had a request from an office block a significant distance away that claimed the dragon was looking at them.  UAP had to get Feng Shui experts in to solve the problem.  They now consult Feng Shui experts regularly.
-+ Dynamic or strong lines may not work in China as this would violoate Feng Shui.
-+ We discussed the facade on Brisbane airport parking - the sqaure leaves that respond to the breeze.  The discussion centred around the investment that UAP put into R&D and some of the itnricate testing that was done for that job around such things as the hinging mechanism  There was also a great deal of effort involved in achieving the required airflow specifications for a carpark without increasing the gap between panels.  
++ Feng Shui is very important in Chinese culture.  UAP had a project in which they created a large dragon sculpture.  Once it was commissioned, they had a request from an office block a significant distance away that claimed the dragon was looking at them.  UAP had to get Feng Shui experts in to solve the problem.  They now consult Feng Shui experts regularly.
++ Dynamic or strong lines may not work in China as this would violate Feng Shui.
++ We discussed the facade on Brisbane airport parking - the sqaure leaves that respond to the breeze.  The discussion centred around the investment that UAP put into R&D and some of the intricate testing that was done for that job around such things as the hinging mechanism  There was also a great deal of effort involved in achieving the required airflow specifications for a carpark without increasing the gap between panels.  
 + The kinetic designer responsible for Brisbane Airport was Ned Kahn.  I've since looked into his work and there's some really remarkable and diverse works (http://nedkahn.com/).
 + A recent project Daniel discussed was ["The Cloud" by Charles Pétillon] (https://www.uapcompany.com/studio/charles-petillon-the-cloud-beijing-public-art).  The artist's use of white balloons is the fact that they are filled with your breath - the very essence of who you are.
 + Art has to tell you something - it has to develop a relationship with you.
-+ Public art is a dance onthe line between the public and the artistic / academic.  This is moreso the case in China.
++ Public art is a dance on the line between the public and the artistic / academic.  This is more so the case in China.
 + Daniel also suggested going to TeamLabs while in Shanghai.  He described it as "like a fine arts theme park"
 
 > "Nothing so difficult as simplicity" - Daniel Clifford.
@@ -106,7 +106,7 @@ We also had a chance to experience a recent VR project they'd implemented to sel
     </div>
 </div>
 
-Exampes of some of the creations on display in the lab.  
+Examples of some of the creations on display in the lab.  
 
 <div class="row">
     <div class="6u 12u$(medium)">
@@ -131,7 +131,7 @@ And some of the 3D printing
     </div>
 </div>
 
-To give some idea of the ongoing activities taking place, here is a few of the postes seen around the lab.  The one on the far left opens with...  
+To give some idea of the ongoing activities taking place, here is a few of the posters seen around the lab.  The one on the far left opens with...  
 
 >"2019 The 4th Cross-Strait Youth Maker Competition and the first Shanghai-Hong Kong University Alliance Maker Competition will set up an adult group (high school and above), and a youth group (third grade to third grade), continuing to be "the future of the public"  "The theme is to fully reflect the characteristics of cross-strait humanities and scientific and technological exchanges, focusing on hot topics such as Chinese culture, education, environment, health, urban future and sustainable development. Combining innovative design and cutting-edge technology, it reflects human art and creates social effects.  Products of a certain commercial value."  
 (Translated with Google image translation)
@@ -159,9 +159,9 @@ We were then shown through the facility - there was everything from furniture to
 
 ### Third stop, The Bund
 
-Probably the main tourist drawcard of Shanghai, The Bund is a walkway along the riverside opposite the CBD.  From here, you can see all the light shows on display on both sides of the river.  There is a stark contrast though as you turn back to look at the buildings behind you (on the same side of the river), to see historical European-style buildings that seem to be from another time and place.  Fortunately, these historic buildings haven't been treated to the same gaudy lighting as the city around it.  We visited The Bund just prior to sunset, so got to see the low light reflecting on th ebuildings.  In hindsight, it probably would have been even better to stay another 30 minutes and witness the "golden hour".  The group split when we went to Tongji and talking to Ricco afterwards (he was in the group that didn't go to Tongji), they were there a little after us and got to see the better light.  
+Probably the main tourist drawcard of Shanghai, The Bund is a walkway along the riverside opposite the CBD.  From here, you can see all the light shows on display on both sides of the river.  There is a stark contrast though as you turn back to look at the buildings behind you (on the same side of the river), to see historical European-style buildings that seem to be from another time and place.  Fortunately, these historic buildings haven't been treated to the same gaudy lighting as the city around it.  We visited The Bund just prior to sunset, so got to see the low light reflecting on the buildings.  In hindsight, it probably would have been even better to stay another 30 minutes and witness the "golden hour".  The group split when we went to Tongji and talking to Ricco afterwards (he was in the group that didn't go to Tongji), they were there a little after us and got to see the better light.  
 
-Even though I criticise the coloured lighting, it is an example of how far you can go with tech.  Perhaps this kind of treatment on cities is somthing that will become more prominant in the future.  I guess, hre in China the technology is relatively cheap and the cost of adorning your building with co-ordinated lighting is not excessive.  Certainly here in Shanghai city, it seems to be almost expected.  It does create a very impressive effect - I think personally though, I tend to go more for simplicity than extravagance.
+Even though I criticise the coloured lighting, it is an example of how far you can go with tech.  Perhaps this kind of treatment on cities is something that will become more wide spread in the future.  I guess, here in China the technology is relatively cheap and the cost of adorning your building with co-ordinated lighting is not excessive.  Certainly here in Shanghai city, it seems to be almost expected.  It does create a very impressive effect - I think personally though, I tend to go more for simplicity than extravagance.
 
 {{< figure src="/img/3644QCA/day04/P1040403.jpg" link="/img/3644QCA/day04/P1040403.jpg" >}}
 
@@ -172,7 +172,7 @@ Even though I criticise the coloured lighting, it is an example of how far you c
     </div>
     <div class="6u 12u$(medium)">
         {{< figure src="/img/3644QCA/day04/P1040386.jpg" link="/img/3644QCA/day04/P1040386.jpg" >}}
-        Two interesting things in this image - 1. the lightshow on the building in front, and 2. the fact that this is a working river and even though it's a tourist hot spot, there is constant shipping traffic.  
+        Two interesting things in this image - 1. the light show on the building in front, and 2. the fact that this is a working river and even though it's a tourist hot spot, there is constant shipping traffic.  
     </div>
 </div>
 
@@ -194,9 +194,9 @@ Paul pointed out that even though this seems like a significantly sized river, i
     </div>
 </div>
 
-East Ninjang Road is Queen Stree Mall on steroids... lots of steroids.  Actually, its pretty hard to even compare the 2... essentially, the only similarity is that they were once a road and are now a shopping mall.  East Nanjing Road is significantly longer, busier and the calibre of international brands is way higher.
+East Ninjang Road is Queen Street Mall on steroids... lots of steroids.  Actually, its pretty hard to even compare the 2... essentially, the only similarity is that they were once a road and are now a shopping mall.  East Nanjing Road is significantly longer, busier and the calibre of international brands is way higher.
 
-Notice in the panoramic photo above that Samsung has placed a massive billboard directly opposite the Apple shop.  I don't think that's purely conincidence!
+Notice in the panoramic photo above that Samsung has placed a massive billboard directly opposite the Apple shop.  I don't think that's purely coincidence!
 
 We also finally sorted out the SIM card here.  Fiona took us to a little place in a back street where we each bought a SIM card with plenty of data.  We then had to go register it at another little place upstairs from a phone shop back on the mall where they'd take our passport details and activate the card.  It took about 20 minutes each to get set up, so it took a while.
 </br>
@@ -244,7 +244,7 @@ The Bund view of Shanghai City by night.  You can only get a feel for the view w
 
 ### Street pics from throughout the day
 {{< figure src="/img/3644QCA/day04/P1040353.jpg" link="/img/3644QCA/day04/P1040353.jpg" >}}
-This is the intersection outside UAP.  We're less than 5km from teh city centre, yet the streets are relatively quiet.  The number of electric vehicles (and the number of which are bikes) contributes to the lack of noise. 
+This is the intersection outside UAP.  We're less than 5km from the city centre, yet the streets are relatively quiet.  The number of electric vehicles (and the number of which are bikes) contributes to the lack of noise. 
 
 <div class="row">
     <div class="6u 12u$(medium)">

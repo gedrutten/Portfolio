@@ -122,10 +122,10 @@ Later, we did eventually find our way to the Old Town, and our guide was right -
         {{< figure src="/img/3644QCA/day05/IMG_4619.jpg" link="/img/3644QCA/day05/IMG_4619.jpg">}}
     </div>
     <div class="8u 12u$(medium)">
-        So, Old Town is essentially a collection of older (I'm not sure if they're actually original building or recreations) that are set up as a series of restaraunts ond markets.  At the heart is an indoor market of several rows.  This building to the left is one of the buildings at what feels like the main intersection. 
+        So, Old Town is essentially a collection of older (I'm not sure if they're actually original building or recreations) that are set up as a series of restaurants and markets.  At the heart is an indoor market of several rows.  This building to the left is one of the buildings at what feels like the main intersection. 
         </br> 
         </br> 
-        What I did find interesting was in the market there was several stalls that had people actually making things right there in front of you.  Selling had become a performance and it seemed to promote the legitimacy of the handmade in these cases.  There's a couple examples of the handmade below.  The guys on the left were making jewellery, the guy on the right was making some sort of noodle, I thinkk.
+        What I did find interesting was in the market there was several stalls that had people actually making things right there in front of you.  Selling had become a performance and it seemed to promote the legitimacy of the handmade in these cases.  There's a couple examples of the handmade below.  The guys on the left were making jewellery, the guy on the right was making some sort of noodle, I think.
     </div>
 </div>
 
@@ -155,9 +155,9 @@ Later, we did eventually find our way to the Old Town, and our guide was right -
     </div>
 </div>
 
-This is one thing that was quite amazing on the trains - the billboards in the tunnels were electronic.  But rather than display a static image, the images kept up with the train so you saw a "static" advertising animation on the wall even though you were moving.  There must be some sort of speed sensors in place to figure out how fast to scroll the LED's since the wall that the LED's are on and the train with the people that will see the ad are different physical entities.  Thats some pretty wild tech!  
+This is one thing that was quite amazing on the trains - the billboards in the tunnels were electronic.  But rather than display a static image, the images kept up with the train so you saw a "static" advertising animation on the wall even though you were moving.  There must be some sort of speed sensors in place to figure out how fast to scroll the LED's since the wall that the LED's are on and the train with the people that will see the ad are different physical entities.  That's some pretty wild tech!  
 
-The picture on the right is what seems to be an electronic umbrella rental machine.  You can see the hooked handles protruding from most all but one of the bays.
+The picture on the right is what seems to be an electronic umbrella rental machine.  You can see the hooked handles protruding from all but one of the bays.
 
 Later in the evening, I tried to Google the significance of beards in Chinese culture to try to figure out why it was so interesting to them - I didn't really get an answer.
 
