@@ -73,6 +73,7 @@ Our group with one of our designs.
     <br>
     Another of our designs (ribbons) with a few more of the people involved (taken with the 360 camera).
 </center>
+360 Panoramic image viewer source: https://github.com/mpetroff/pannellum
 
 {{< figure src="/img/3644QCA/day17/IMG_5570.jpg" link="/img/3644QCA/day17/IMG_5570.jpg" width="100%" >}}
 There was an eery quiet once we were done.  The local students had gone home and our teachers had gone to a dinner.  We considered catching taxi's back into the city for dinner since our bus back to the accommodation wasn't going to come until after the teachers were done with their closing dinner, but for some reason, I felt nostalgic and wanted to eat at the cafeteria.  There had been so many hurdles to overcome and moments of frustration, but also so many achievements.  We had done it.  We had managed to work with the local students and work through all the language barriers and confusion and unfamiliar circumstances to get all 3 pieces across the line.  
