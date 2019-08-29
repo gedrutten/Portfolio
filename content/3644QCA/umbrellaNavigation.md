@@ -43,12 +43,16 @@ Having recieved the triacs and triac-optocouplers, we bredboarded up the example
     Your browser does not support the video tag.
 </video>
 
-{{< figure src="/img/3644QCA/umbrella/FT3L0TPNJBEP27XYUI.LARGE.jpg" link="/img/3644QCA/umbrella/FT3L0TPNJBEP27XYUI.LARGE.jpg" width="100%" >}}
-The circuit from the artice: https://www.instructables.com/id/EL-wire-eye-candy/#step9
-
-{{< figure src="/img/3644QCA/umbrella/ELSwitchCircuitSimplified.jpg" link="/img/3644QCA/umbrella/ELSwitchCircuitSimplified.jpg" width="100%" >}}
-This is a simplified version of the above circuit for a single EL wire channel.  It would need to be replicated for each channel.
-
+<center>
+    {{< figure src="/img/3644QCA/umbrella/FT3L0TPNJBEP27XYUI.LARGE.jpg" link="/img/3644QCA/umbrella/FT3L0TPNJBEP27XYUI.LARGE.jpg" width="80%" >}}
+    The circuit from the artice: https://www.instructables.com/id/EL-wire-eye-candy/#step9
+</center>
+    
+<center>
+    {{< figure src="/img/3644QCA/umbrella/ELSwitchCircuitSimplified.jpg" link="/img/3644QCA/umbrella/ELSwitchCircuitSimplified.jpg" width="80%" >}}
+    This is a simplified version of the above circuit for a single EL wire channel.  It would need to be replicated for each channel.
+</center>
+    
 <div class="row">
     <div class="6u 12u$(medium)">
         {{< figure src="/img/3644QCA/umbrella/moc3031_1.png" link="/img/3644QCA/umbrella/moc3031_1.png" width="100%" >}}
@@ -58,9 +62,11 @@ This is a simplified version of the above circuit for a single EL wire channel. 
     </div>
 </div>
 
-
-{{< figure src="/img/3644QCA/umbrella/ELSwitchCircuitSimplified.jpg" link="/img/3644QCA/umbrella/ELSwitchCircuitSimplified.jpg" width="100%" >}}
-This is how we wired it up on the bredboard.
+<center>
+    {{< figure src="/img/3644QCA/umbrella/ELSwitchCircuitBredboard.jpg" link="/img/3644QCA/umbrella/ELSwitchCircuitBredboard.jpg" width="80%" >}}
+    This is how we wired it up on the bredboard.
+</center>
+    
 
 \
 
@@ -136,3 +142,5 @@ The code snippet from within the ESP code results in the following web page on t
         {{< figure src="/img/3644QCA/umbrella/directionTerminal.jpg" link="/img/3644QCA/umbrella/directionTerminal.jpg" width="100%" >}}
     </div>
 </div>
+
+It'd be nice to create a prettier website, and possibly a better web-based communication system than the href system used above.  Even better if it could be consumed by another device, that way, if we have time to make a dedicated controller, we can.
