@@ -144,3 +144,57 @@ The code snippet from within the ESP code results in the following web page on t
 </div>
 
 It'd be nice to create a prettier website, and possibly a better web-based communication system than the href system used above.  Even better if it could be consumed by another device, that way, if we have time to make a dedicated controller, we can.
+
+### Building the optoisolator board
+
+The circuit diagram above specified 330 Ohm resistors, and looking at the spec sheets for the MOC3031, it required 15mA to switch.  Given that the circuit was using a Basic Stamp II, it would have a logic level of 5v, which would make sense - 5v/330Ω = 0.01515mA.  Translating that to 3.3V logic level of the ESP family results in 3.3v/0.015mA = 220Ω resistors.  Tested that out - worked.  I did see some odd behavious that got me researching the actual specs of an ESP8266.  Turns out they're only rated for 12mA per IO pin, but it seems to be working, so I'm going with it!  The ESP32 is rated higher, so worst case, I find an ESP32 module - they're a little bit bigger, but we'd get Bluetooth back then too.
+
+I managed to figure out a way to reduce the pcb footprint of the EL wire circuits even more - to the point that they only use 3 tracks on a bredboard - 11x3 grid spaces.  This means we can either create 9 very narrow switch circuits, or we can create 3 x 3-channel switch circuits that shouldn't take up much space at all.  
+
+<center>
+    {{< figure src="/img/3644QCA/umbrella/20190901_192839.jpg" link="/img/3644QCA/umbrella/20190901_192839.jpg" width="80%" >}}
+    This is the circuit for 3 EL Wire switching channels.
+</center>
+
+We're hoping to use an ESP-12E module rather than the development module we've been using so far.  This is about the same size as the compass module, so combining this with the small footprint of the switches and we should be able to mount everything except the battery at the top of the umbrella.  This would mean we don't need to squeeze 18 EL wire cables up the centre shaft of the umbrella.  In fact, we should be able to reduce it to just the 2 wires required to deliver 5v to both the microprocessor and the EL inverter.
+
+### Creating an app
+
+I spoke to Paul about optimising the web page, and he suggested I look into MIT App Inventor.  App Inventor produces Android APK applications that can be run natively on Android.  So I tried it out.  Here's 2 out of the 3 app pages I've created so far...
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        <center>
+            {{< figure src="/img/3644QCA/umbrella/Screenshot_20190901-220644.jpg" link="/img/3644QCA/umbrella/Screenshot_20190901-220644.jpg" width="80%" >}}
+            Compass view - this sends through changes to the heading so that the umbrella can light up the segment corresponding to the direction the phone is pointed.
+        </center>
+    </div>
+    <div class="6u 12u$(medium)">
+        <center>
+            {{< figure src="/img/3644QCA/umbrella/Screenshot_20190901-220655.jpg" link="/img/3644QCA/umbrella/Screenshot_20190901-220655.jpg" width="80%" >}}
+            Direction view - this allows the user to select which direction to send the umbrella holder.  It also make avaailable the party mode (random strobing) and the spin mode (lighting the segments in sequence).
+        </center>
+    </div>
+</div>
+
+\
+
+I intend to also do a map view so that you can tap anywhere and the umbrella will respond by pointing in that direction - as the crow flies.
+
+App Inventor uses a block-based programming language which I found pretty clunky.  Things like being able to share common communication code wasn't possible - both screens set up the same code to talk to the web server.  I couldn't get a tab-bar style navigation controller to happen either, but that could be just that I'm coming from iOS development and I'm looking for structures that don't exist in Android.  I think, perhaps I should have created a main page which offers the various sub-pages, then the user can navigate back to the home page to change function.
+
+Creating an app and getting it installed on the phone (and having the phone connected to the dev environment live) is seamless and super easy to use.  Here is the code so far...
+
+<center>
+    {{< figure src="/img/3644QCA/umbrella/blocks_compass.png" link="/img/3644QCA/umbrella/blocks_compass.png" width="80%" >}}
+    Source code for the compass view.
+</center>
+
+<center>
+    {{< figure src="/img/3644QCA/umbrella/blocks_location.png" link="/img/3644QCA/umbrella/blocks_location.png" width="80%" >}}
+    Source code for the direction view.
+</center>
+
+
+
+
