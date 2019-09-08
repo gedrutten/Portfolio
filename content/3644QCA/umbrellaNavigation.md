@@ -195,6 +195,57 @@ Creating an app and getting it installed on the phone (and having the phone conn
     Source code for the direction view.
 </center>
 
+\
+\
+
+### Programming an ESP-12E Standalone Module
+
+In order to make the smallest footprint possible, it would be ideal to use an ESP-12E module without the development circuits attached.  To do this though, I needed to figure out how to program the module using an external programmer.  I built a circuit according to this screenshot captured from the video: 3 Simple ways of programming an ESP-12 Module (https://youtu.be/37KlzYhJaQs)
+
+<center>
+    {{< figure src="/img/3644QCA/umbrella/esp_programmer_youtube.png" link="/img/3644QCA/umbrella/esp_programmer_youtube.png" width="80%" >}}
+    Wiring diagram for ESP-12E module programmer
+</center>
+
+After building it, I plugged it into a serial programmer, but was unsuccessful at establishing a connection.  I tried with another programmer (specifically designed for an ESP-01) which didn't work either.  So finally, I tried with an Arduino Mega, configuring the Arduino software to use "Arduino as ISP" programmer.  This worked, but as soon as I disconnected and powered the module up from a different supply, it didn't work again.  I noticed that the Mega was getting quite hot, and had read somewhere that many serial programmers can't supply the current required for the ESP-12E.  So I wired up a separate 3.3v power supply to the ESP-Module, connecting the GND of the hom-made programmer to the GND of the external supply, and success - the programmer worked and the software survived once disconnected from the laptop (the separate power supply was just left in place).
+
+<center>
+    {{< figure src="/img/3644QCA/umbrella/working_external_programmer.jpg" link="/img/3644QCA/umbrella/working_external_programmer.jpg" width="80%" >}}
+    Successful programming of an ESP-12E module
+</center>
+
+If I removed the programmer though, the module stopped working again (the access point I'd programmed it with didn't appear).  Something in the programmer curcuit must be necessary to get the module to boot.  By disconnecting pins and restarting I reduced the necessary pins to Vcc and GND (obviously), EN, RST and GPIO15.
+
+* RST - Pulled high with 10k resistor (Edit: not actually required)
+* EN  - Pulled high with 10k resistor
+* GPIO15 - Pulled low with 10k resistor
+
+I guess these connections may be necessary for the module to start properly.  EN and RST connections aren't a problem, but we need every GPIO avaialble, so we might need to come up with a way of getting around the need for GPIO15 to be pulled to GND.
+
+Actually, retesting with the modular riser and a simple blink test program, I was able to get it to function without RST connected, so only EN and GPIO15 need to be connected.
+
+Running up another test in which I was blinking 3 LEDs connected to GPIO0, GPIO4 and GPIO15 (with GPIO15 still also being pulled low with a 10k resistor) confirmed that we can still use GPIO15 as an output pin to drive the EL wire.  This means we still have enough GPIO pins to run the 9 EL wires and the SDA, SCL pins of the compass.
+
+<center>
+    {{< figure src="/img/3644QCA/umbrella/confirmed_use_of_gpio15.jpg" link="/img/3644QCA/umbrella/confirmed_use_of_gpio15.jpg" width="80%" >}}
+    Confirmed use of GPIO15 as a digital output pin even with it being pulled low by a 10k resistor.
+</center>
+
+According to the video above (that led to the programmer wiring), in order to reprogram an ESP-12E module in circuit, you just need to break out:
+
+* VCC (+3.3v)
+* GND
+* Tx (Transmit)
+* Rx (Receive)
+* GPIO0
+* EN
+
+So we can start hardwiring the module to the EL Wire switching circuits once we've verified the compass.  We will still be able to reprogram the ESP as long as those 6 pins are exposed.
+
+
+
+
+
 
 
 
