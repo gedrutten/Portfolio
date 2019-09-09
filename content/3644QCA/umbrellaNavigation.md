@@ -211,6 +211,7 @@ After building it, I plugged it into a serial programmer, but was unsuccessful a
 
 <center>
     {{< figure src="/img/3644QCA/umbrella/working_external_programmer.jpg" link="/img/3644QCA/umbrella/working_external_programmer.jpg" width="80%" >}}
+    {{< figure src="/img/3644QCA/umbrella/12E_Module_Programming_schem.png" link="/img/3644QCA/umbrella/12E_Module_Programming_schem.png" width="80%" >}}
     Successful programming of an ESP-12E module
 </center>
 
