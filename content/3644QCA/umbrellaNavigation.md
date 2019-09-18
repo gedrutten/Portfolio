@@ -243,9 +243,83 @@ According to the video above (that led to the programmer wiring), in order to re
 
 So we can start hardwiring the module to the EL Wire switching circuits once we've verified the compass.  We will still be able to reprogram the ESP as long as those 6 pins are exposed.
 
+### Week 9 Progress
+
+I completed the build of the 9 separate EL driver circuits arranged in 3 sets of 3.  Arranged in a triangle formation, this should bridge the stem on the top of the umbrella.  On top of that, we should be able to put the ESP and the magnetometer.  That's the plan, anyway.
+<center>
+    {{< figure src="/img/3644QCA/umbrella/20190918_155420.jpg" link="/img/3644QCA/umbrella/20190918_155420.jpg" width="80%">}}
+    {{< figure src="/img/3644QCA/umbrella/20190918_155432.jpg" link="/img/3644QCA/umbrella/20190918_155432.jpg" width="80%">}}
+    {{< figure src="/img/3644QCA/umbrella/20190918_155450.jpg" link="/img/3644QCA/umbrella/20190918_155450.jpg" width="80%">}}
+</center>
+
+I received a couple of Wemos D1mini's this week, and they're not that much larger than the ESP itself, so maybe it's worth using them instead of the module itself - that way we wont need the dedicated programmer anymore - much easier to update.  Essentially, the Wemos is the same module, but with the support components to allow for easy development - including a USB port.
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        <center>
+            {{< figure src="/img/3644QCA/umbrella/20190918_155655.jpg" link="/img/3644QCA/umbrella/20190918_155655.jpg" >}}
+            The complete stack using a raw ESP-12E
+        </center>
+    </div>
+    <div class="6u 12u$(medium)">
+        <center>
+            {{< figure src="/img/3644QCA/umbrella/20190918_155731.jpg" link="/img/3644QCA/umbrella/20190918_155731.jpg" >}}
+            The completed stack using a Wemos module - not much bigger, but much easier to work with!
+        </center>
+    </div>
+</div>
 
 
+\
 
+Looking at the pinouts though, it seems that some of the GPIO aren't connected - the ones on the end of the module - opposite the antenna.  We need those IO pins in order to get our full complement of 11 GPIO, so I needed to test that they were still accessible.  I just hooked up a multimeter and ran a modified version of the blink.ino example code to test that these pins could be written to.  It will mean though that we'll have to solder directly to the module to access them as they haven't been broken out as part of the Wemos module.
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        <center>
+            {{< figure src="/img/3644QCA/umbrella/ESP8266-ESP-12E-chip-pinout-gpio-pin.png" link="/img/3644QCA/umbrella/ESP8266-ESP-12E-chip-pinout-gpio-pin.png" >}}
+            Basic ESP-12E module pinouts. Image: <a href="https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/">Random Nerd Tutorials</a>.
+        </center>
+    </div>
+    <div class="6u 12u$(medium)">
+        <center>
+            {{< figure src="/img/3644QCA/umbrella/ESP8266-WeMos-D1-Mini-pinout-gpio-pin.png" link="/img/3644QCA/umbrella/ESP8266-WeMos-D1-Mini-pinout-gpio-pin.png" >}}
+            Wemos pinouts - notice that GPIO6 - GPIO11 aren't available on the standard pins. Image: <a href="https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/">Random Nerd Tutorials</a>.
+        </center>
+    </div>
+</div>
+
+
+### Week 10 progress
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        <center>
+            {{< figure src="/img/3644QCA/umbrella/20190918_155749.jpg" link="/img/3644QCA/umbrella/20190918_155749.jpg" >}}
+            MPU-9250 Magnetometer / Accelerometer / Gyroscope module.
+        </center>
+    </div>
+    <div class="6u 12u$(medium)">
+        <center>
+            {{< figure src="/img/3644QCA/umbrella/20190918_155824.jpg" link="/img/3644QCA/umbrella/20190918_155824.jpg" >}}
+            MAG3110 Magnetometer module.
+        </center>
+    </div>
+</div>
+
+\
+
+These magnetometers are causing me grief!  After first finding that the module I had didn't actually have a compass (magnetometer), I ordered another, an MPU-9250 based device which has a magnetometer as well as an accelerometer and a gyroscope.  Eventually I found the right libraries and got it talking to the ESP, however the numbers didn't seem right, and after testing several different codebases, some including calibration procedures, I still wasn't getting numbers that consistently responded to points of a compass.
+
+So I tried the compass that Vee bought from Jaycar - this module was purely a magnetometer and as such was significantly smaller.  Somewhere along my research, I thought I didscovered that it only worked when horizontal, so I'd dismissed this module, but looking at the specs again now, I can see that it is a 3 axis magnetometer and the libraries seem to be able to give you a relative heading that incorporates all 3 axis.  Hooking it up to the ESP though still produced odd figures.
+
+Looking again at the spec sheets (Jaycar is woefully deficient in this regard, especially considering they're a retailer - a lot of googling was needed), I discovered that this module has all the components for voltage and signal level conversion for an Arduino.  So this module is really set up to run, and communicate at 5 volts, not 3.3 that the ESP family use even though the MAG3110 chip that it uses is designed for 3.3v operation.  SO I tried the module on a standard Arduino Uno and got reasonably consistent values that seemed to correspond to degrees from North.
+
+I then tried the MPU9250 module on the Arduino too, but that one still didn't make any sense.
+
+Perhaps we could use the 5v power rail to power the magnetometer, but that would also result in signals of 5v on the STL and SDA I2C bus, which might toast the Wemos.  
+
+Not sure what to do from here, but the Micro:bit is looking mighty appealing again!
 
 
 
