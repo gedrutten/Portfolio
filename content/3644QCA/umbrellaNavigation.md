@@ -247,9 +247,9 @@ So we can start hardwiring the module to the EL Wire switching circuits once we'
 
 I completed the build of the 9 separate EL driver circuits arranged in 3 sets of 3.  Arranged in a triangle formation, this should bridge the stem on the top of the umbrella.  On top of that, we should be able to put the ESP and the magnetometer.  That's the plan, anyway.
 <center>
-    {{< figure src="/img/3644QCA/umbrella/20190918_155420.jpg" link="/img/3644QCA/umbrella/20190918_155420.jpg" width="80%">}}
-    {{< figure src="/img/3644QCA/umbrella/20190918_155432.jpg" link="/img/3644QCA/umbrella/20190918_155432.jpg" width="80%">}}
-    {{< figure src="/img/3644QCA/umbrella/20190918_155450.jpg" link="/img/3644QCA/umbrella/20190918_155450.jpg" width="80%">}}
+    {{< figure src="/img/3644QCA/umbrella/20190918_155420.jpg" link="/img/3644QCA/umbrella/20190918_155420.jpg" width="65%">}}
+    {{< figure src="/img/3644QCA/umbrella/20190918_155432.jpg" link="/img/3644QCA/umbrella/20190918_155432.jpg" width="65%">}}
+    {{< figure src="/img/3644QCA/umbrella/20190918_155450.jpg" link="/img/3644QCA/umbrella/20190918_155450.jpg" width="65%">}}
 </center>
 
 I received a couple of Wemos D1mini's this week, and they're not that much larger than the ESP itself, so maybe it's worth using them instead of the module itself - that way we wont need the dedicated programmer anymore - much easier to update.  Essentially, the Wemos is the same module, but with the support components to allow for easy development - including a USB port.
@@ -322,5 +322,93 @@ Perhaps we could use the 5v power rail to power the magnetometer, but that would
 Not sure what to do from here, but the Micro:bit is looking mighty appealing again!
 
 
+### Exploring Micro:bit again
+
+One of the biggest issues I have with the micro:bit is the fact that the only way to access more than 3 IO ports is by using a large edge connector and adapter board.  I woke one morning with a revelation... make my own connector!
+
+Versions 1 and 2 had a couple of design features:
+
+* A leverage lip on the bottom to lock the board in place and form a point of leverage for the screws to work against allowing the pins to make good contact.
+* A channel for a length of insulation (stripped from wire) to form a sprint to ensure good contact between the pins and the board.
+* A central locator pin
+* 2 holes for screws that align with the outer holes on the micro:bit
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/umbrella/MicroBitEdgeConnectorV1.png" link="/img/3644QCA/umbrella/MicroBitEdgeConnectorV1.png" >}}
+        Version 1:  Didn't print well since all the holes merged in with one another, so none would allow a wire through them.  Also didn't allow enough room for the board to get in under the leverage lip once the insulation and wires had been inserted.
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/umbrella/MicroBitEdgeConnectorV2.png" link="/img/3644QCA/umbrella/MicroBitEdgeConnectorV2.png" >}}
+        Version 2: Reduced the number of holes and increased the size of the holes to accommodate the inaccuracy of my printer. Increased the gap under the leverage lip.  The pins that were chosen provide access to a majority of GPIO pins.
+    </div>
+</div>
+
+\
+
+Version 2 was successful and once wired up connected nicely to the micro:bit.  I then ran up a couple of tests, but nothing seemed to give the results I was expecting.  I started to test for continuity between the wires and the topside of each pin - the only ones that were connected wer the through-hole pins that accommodate the bolts.  I removed the micro:bit again and discovered that in fact, the pins on the top are not connected to the opposing pins on the bottom.
+
+<center>
+{{< figure src="/img/3644QCA/umbrella/20190921_211319.jpg" link="/img/3644QCA/umbrella/20190921_211319.jpg" width="65%" >}}
+</center>
+
+Back to the drawing board - reverse the selected pins and make a few more modifications.  I also removed the leverage lip as it seemed superfluous and necessitated support structures which just complicated things.  I also moved one set of holes to the end of the connector so that you could insert the pin of a dupont wire straight into the connector rather than wire it all up.
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/umbrella/MicroBitEdgeConnectorV3.png" link="/img/3644QCA/umbrella/MicroBitEdgeConnectorV3.png" >}}
+        Version 3:  Decided to replace the length of insulation with a lip.
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/umbrella/MicroBitEdgeConnectorV4.png" link="/img/3644QCA/umbrella/MicroBitEdgeConnectorV4.png" >}}
+        Version 4: Brought the insulation length back as the hard ridge didn't work - some wires were loose and didn't make a good connection.  Replaced the single locator pin with 2 adjacent to the centre hole.  Added an extra hole to allow the board to be tightened down if conact still proved unreliable.
+    </div>
+</div>
+
+\
+
+Before discovering that the wires weren't making the best connection to the pins on the micro:bit, I was quite confident that version 3 would be successful, so I soldered it onto the EL drivers.  This is when I discovered that the connections weren't that great.  I did confirm though that the circuits that did make contact did work correctly, lighting the EL wires in turn.
+
+Once I'd built version 4, I decided to test with the multimedia before taking it to the next stage.  Still running the code I created earlier that would scroll through each chosen IO pin and set it high for a few seconds, I went through each pin and confirmed that it would go high in turn.
+
+<center>
+{{< figure src="/img/3644QCA/umbrella/20190922_001912.jpg" link="/img/3644QCA/umbrella/20190922_001912.jpg" width="65%" >}}
+</center>
+
+One thing that came up during development of this connector was that only the pins not linked to the internal LED display would behave as directed in the code.  It wasn't until I discovered that the pins shared with the display will only work if <code>led.enable(false)</code> is called that I started having some success with the majority of the IO.
+
+#### Time to look into the compass
+
+Given that I've now verified that the pins work and can drive the EL circuits, it was time to test the compass.  I'd tried briefly earlier, when testing the earlier iterations of the connector, but testing the compass quickly got pushed aside to get testing of the IO pins sorted.  Initially I tried to get some sort of serial connection going with the micro:bit so that the actual heading value in degrees could be streamed back to the computer or iPad.  That proved to be a distraction, so I went with a super-basic test using the internal display.  Every time I restarted though, a heap of letters were being displayed, then the screen would do random stuff.  Eventually I had the patience to read the message being displayed: "TILT TO FILL SCREEN".  Had no idea what that meant, but I discovered that by tilting, the screen would light corresponding LED's according to the tilt motion.  Once the entire screen was navigated to, the program started to work.  I'd discovered the compass calibration process!  
+
+This presents a bit of a problem though.  We need to disable the LED screen in order to use the linked IO pins, but the display seems to be required to calibrate the compass.  I tried creating some code that didn't disable the screen until the "forever" loop started (as opposed to in the "on start" block).  This didn't work - the code never really started to respond the way I had hoped, even if I tried to manually tilt the screen enough that it might calibrate without the visual feedback.
+
+
+#### Options
+
+So again, the compass has proved to be a show stopper!  What to do now?  Thinking broadly, here are some ideas...
+
+* I do have an I2C IO Extender that can provide 16 IO using just 2 pins (SDA, SCL).  The only problem with this is that the 2 pins used for I2C on the micro:bit lie right next to each other, so 3D printing a connector that can access these 2 pins might prove difficult.  Often microcontrollers allow you to reconfigure the pins used for I2C, so this may be an option depending on research.  Of course, it would also require adding another module to the stack as well (albeit quite small).
+* Switch to a 5V microcontroller - say an Arduino Mini or similar so that we can use the magnetometer module that behaved as expected on a 5V supply.  We could then add an ESP-01 module to regain the wireless functionality.  Might also still need a voltage level shifter to run the ESP.  So that's, maybe 4 modules although probably still a smaller footprint than a micro:bit which could also physically wrap around the stem of the umbrella.
+* Change the design to just display N, S, E and W rather than all 8 points (N, NE, E, SE, S, SW, W, NW).  By reducing the number of directions being displayed, we can avoid using the lines that are shared with the internal LED display and hence allow the compass calibration to work again.  I'm kinda turned around on the micro:bit if we can get 2 of them since we can use the second one to provide a remote direction controller - the umbrella will respond to the orientation of the remote micro:bit.  Easy and interactively intuitive.  
+
+#### Post note (solution)
+
+I realised that the calibration test only runs at the first access of the compass, not upon launch of the code.  Previously, I'd moved the disabling of the LED display into a simple run-once block at the start of the "forever" loop, but since I hadn't yet accessed the compass, the calibration hadn't yet been invoked.
+
+<div class="row">
+    <div class="4u 12u$(medium)">
+        {{< figure src="/img/3644QCA/umbrella/CompassCode1.png" link="/img/3644QCA/umbrella/CompassCode1.png" >}}
+        Initial code to disable the display in the run loop instead of the initialisation.  Didn't work.
+    </div>
+    <div class="4u 12u$(medium)">
+        {{< figure src="/img/3644QCA/umbrella/CompassCode2.png" link="/img/3644QCA/umbrella/CompassCode2.png" >}}
+        Relised that calibration wont occur until the compass is accessed, so read the compass value before disabling the LED Display.  Worked!  Yey!
+    </div>
+    <div class="4u 12u$(medium)">
+        {{< figure src="/img/3644QCA/umbrella/CompassCode3.png" link="/img/3644QCA/umbrella/CompassCode3.png" >}}
+        Cleaner solution.  Moved calibration back into the initialisation block.
+    </div>
+</div>
 
 
