@@ -411,4 +411,178 @@ I realised that the calibration test only runs at the first access of the compas
     </div>
 </div>
 
+#### Standalone Test Code
+
+This code sets up the micro:bit to operate in one of 3 different modes: Spin, Flicker and Follow North.  Pressing button B advances to the next mode, button A goes back to the previous mode.  _Spin_ lights up each EL in sequence, skipping EL#9 since it is the ring (stop) line, so that would disrupt the flow of the spin effect. _Flicker_ flashes any one of the EL lines up at random, including the stop ring. _Follow North_ lights up the EL that should point North, testing for 22.5 degrees either side of each compass point.
+
+{{< figure src="/img/3644QCA/umbrella/spinFlickerNorth.png" link="/img/3644QCA/umbrella/spinFlickerNorth.png" >}}
+
+\
+
+{{< highlight python >}}
+function SpinMode (rate: number) {
+    turnOnExclusively(0)
+    basic.pause(rate)
+    turnOnExclusively(1)
+    basic.pause(rate)
+    turnOnExclusively(2)
+    basic.pause(rate)
+    turnOnExclusively(3)
+    basic.pause(rate)
+    turnOnExclusively(4)
+    basic.pause(rate)
+    turnOnExclusively(5)
+    basic.pause(rate)
+    turnOnExclusively(6)
+    basic.pause(rate)
+    turnOnExclusively(7)
+    basic.pause(rate)
+}
+function flicker (rate: number) {
+    turnOnExclusively(Math.randomRange(0, 8))
+    basic.pause(rate)
+}
+function followNorth () {
+    heading = input.compassHeading()
+    if (heading >= 338 || heading <= 22) {
+        turnOnExclusively(0)
+    } else if (heading <= 67) {
+        turnOnExclusively(1)
+    } else if (heading <= 112) {
+        turnOnExclusively(2)
+    } else if (heading <= 157) {
+        turnOnExclusively(3)
+    } else if (heading <= 202) {
+        turnOnExclusively(4)
+    } else if (heading <= 247) {
+        turnOnExclusively(5)
+    } else if (heading <= 292) {
+        turnOnExclusively(6)
+    } else if (heading <= 337) {
+        turnOnExclusively(7)
+    }
+}
+function turnOnExclusively (pinIndex: number) {
+    if (pinIndex == 0) {
+        pins.digitalWritePin(DigitalPin.P3, 1)
+    } else if (pinIndex == 1) {
+        pins.digitalWritePin(DigitalPin.P0, 1)
+    } else if (pinIndex == 2) {
+        pins.digitalWritePin(DigitalPin.P4, 1)
+    } else if (pinIndex == 3) {
+        pins.digitalWritePin(DigitalPin.P6, 1)
+    } else if (pinIndex == 4) {
+        pins.digitalWritePin(DigitalPin.P1, 1)
+    } else if (pinIndex == 5) {
+        pins.digitalWritePin(DigitalPin.P8, 1)
+    } else if (pinIndex == 6) {
+        pins.digitalWritePin(DigitalPin.P10, 1)
+    } else if (pinIndex == 7) {
+        pins.digitalWritePin(DigitalPin.P2, 1)
+    } else if (pinIndex == 8) {
+        pins.digitalWritePin(DigitalPin.P14, 1)
+    }
+    // Now turn off all those that arent the one to turn
+    // on
+    if (pinIndex != 0) {
+        pins.digitalWritePin(DigitalPin.P3, 0)
+    }
+    if (pinIndex != 1) {
+        pins.digitalWritePin(DigitalPin.P0, 0)
+    }
+    if (pinIndex != 2) {
+        pins.digitalWritePin(DigitalPin.P4, 0)
+    }
+    if (pinIndex != 3) {
+        pins.digitalWritePin(DigitalPin.P6, 0)
+    }
+    if (pinIndex != 4) {
+        pins.digitalWritePin(DigitalPin.P1, 0)
+    }
+    if (pinIndex != 5) {
+        pins.digitalWritePin(DigitalPin.P8, 0)
+    }
+    if (pinIndex != 6) {
+        pins.digitalWritePin(DigitalPin.P10, 0)
+    }
+    if (pinIndex != 7) {
+        pins.digitalWritePin(DigitalPin.P2, 0)
+    }
+    if (pinIndex != 8) {
+        pins.digitalWritePin(DigitalPin.P14, 0)
+    }
+}
+input.onButtonPressed(Button.A, function () {
+    CurrentPattern = CurrentPattern - 1
+    if (CurrentPattern < 0) {
+        CurrentPattern = maxPatterns
+    }
+})
+input.onButtonPressed(Button.B, function () {
+    CurrentPattern = CurrentPattern + 1
+    if (CurrentPattern > maxPatterns) {
+        CurrentPattern = 0
+    }
+})
+let CurrentPattern = 0
+let heading = 0
+let maxPatterns = 0
+let currentCircuit = 0
+maxPatterns = 2
+if (input.compassHeading() < 500) {
+    led.enable(false)
+}
+basic.forever(function () {
+    if (CurrentPattern == 0) {
+        SpinMode(100)
+    } else if (CurrentPattern == 1) {
+        flicker(50)
+    } else {
+        followNorth()
+    }
+})
+{{< /highlight >}}
+
+
+### A Day of Bringing it All Together
+
+Vee came and joined me today so that we could bring it all together and put the electronics into the umbrella with the final EL Wire.  We decided to put the battery and inverter in the handle and put the micro:bit and the EL switching circuits at the top of the umbrella.  We've still got to design a UFO-shaped enclosure to hide the electronics at the top and a new handle to hold the battery and inverter.
+
+At the end of the day, we had everything connected at least.  We still ahve to figure out how to attach the green wires to the individual segments.  We tried double-sided tape and hot glue (sort of).  I think ultimately we'll end up using hot glue - it didn't seem to damage the umbrella vinyl.
+
+Here's the current build status for each function...
+
+<center>
+    <video width="65%" controls>
+        <source src="/img/3644QCA/umbrella/20190923_014815.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</center>
+<center>
+    Spin test - EL lights come on in sequence.
+</center>
+
+\
+
+<center>
+    <video width="65%" controls>
+        <source src="/img/3644QCA/umbrella/20190923_014848.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</center>
+<center>
+    Flicker test - EL lights come on for a 50ms duration at random (includes red EL)
+</center>
+
+\
+
+<center>
+    <video width="65%" controls>
+        <source src="/img/3644QCA/umbrella/20190923_015404.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</center>
+<center>
+    Compass - Doesn't seem to be working?? Perhaps there's a way to recalibrate the compass?
+</center>
 
