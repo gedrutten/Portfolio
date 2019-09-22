@@ -346,7 +346,7 @@ Versions 1 and 2 had a couple of design features:
 
 \
 
-Version 2 was successful and once wired up connected nicely to the micro:bit.  I then ran up a couple of tests, but nothing seemed to give the results I was expecting.  I started to test for continuity between the wires and the topside of each pin - the only ones that were connected wer the through-hole pins that accommodate the bolts.  I removed the micro:bit again and discovered that in fact, the pins on the top are not connected to the opposing pins on the bottom.
+Version 2 was successful and once wired up connected nicely to the micro:bit.  I then ran up a couple of tests, but nothing seemed to give the results I was expecting.  I started to test for continuity between the wires and the topside of each pin - the only ones that were connected were the through-hole pins that accommodate the bolts.  I removed the micro:bit again and discovered that in fact, the pins on the top are not connected to the opposing pins on the bottom.
 
 <center>
 {{< figure src="/img/3644QCA/umbrella/20190921_211319.jpg" link="/img/3644QCA/umbrella/20190921_211319.jpg" width="65%" >}}
@@ -375,11 +375,11 @@ Once I'd built version 4, I decided to test with the multimedia before taking it
 {{< figure src="/img/3644QCA/umbrella/20190922_001912.jpg" link="/img/3644QCA/umbrella/20190922_001912.jpg" width="65%" >}}
 </center>
 
-One thing that came up during development of this connector was that only the pins not linked to the internal LED display would behave as directed in the code.  It wasn't until I discovered that the pins shared with the display will only work if <code>led.enable(false)</code> is called that I started having some success with the majority of the IO.
+One thing that came up during development of this connector was that only the pins not linked to the internal LED display would behave as directed in the code.  It wasn't until I discovered that the pins shared with the display will only work if <code>led.enable(false)</code> is called that I started having some success with all of the IO.
 
 #### Time to look into the compass
 
-Given that I've now verified that the pins work and can drive the EL circuits, it was time to test the compass.  I'd tried briefly earlier, when testing the earlier iterations of the connector, but testing the compass quickly got pushed aside to get testing of the IO pins sorted.  Initially I tried to get some sort of serial connection going with the micro:bit so that the actual heading value in degrees could be streamed back to the computer or iPad.  That proved to be a distraction, so I went with a super-basic test using the internal display.  Every time I restarted though, a heap of letters were being displayed, then the screen would do random stuff.  Eventually I had the patience to read the message being displayed: "TILT TO FILL SCREEN".  Had no idea what that meant, but I discovered that by tilting, the screen would light corresponding LED's according to the tilt motion.  Once the entire screen was navigated to, the program started to work.  I'd discovered the compass calibration process!  
+Given that I've now verified that the pins work and can drive the EL circuits, it was time to test the compass.  I'd tried briefly earlier, when testing the earlier iterations of the connector, but testing the compass quickly got pushed aside to get testing of the IO pins sorted.  Initially I tried to get some sort of serial connection going with the micro:bit so that the actual heading value in degrees could be streamed back to the computer or iPad.  That proved to be a distraction, so I went with a super-basic test using the internal display.  Every time I restarted though, a heap of letters were being displayed, then the screen would do random stuff.  Eventually I had the patience to read the message being displayed: "TILT TO FILL SCREEN".  Had no idea what that meant, but I discovered that by tilting, the screen would light corresponding LED's according to the tilt motion - it wasn't doing random stuff at all!  Once the entire screen was navigated to, the program started to work.  I'd discovered the compass calibration process!  
 
 This presents a bit of a problem though.  We need to disable the LED screen in order to use the linked IO pins, but the display seems to be required to calibrate the compass.  I tried creating some code that didn't disable the screen until the "forever" loop started (as opposed to in the "on start" block).  This didn't work - the code never really started to respond the way I had hoped, even if I tried to manually tilt the screen enough that it might calibrate without the visual feedback.
 
@@ -390,7 +390,9 @@ So again, the compass has proved to be a show stopper!  What to do now?  Thinkin
 
 * I do have an I2C IO Extender that can provide 16 IO using just 2 pins (SDA, SCL).  The only problem with this is that the 2 pins used for I2C on the micro:bit lie right next to each other, so 3D printing a connector that can access these 2 pins might prove difficult.  Often microcontrollers allow you to reconfigure the pins used for I2C, so this may be an option depending on research.  Of course, it would also require adding another module to the stack as well (albeit quite small).
 * Switch to a 5V microcontroller - say an Arduino Mini or similar so that we can use the magnetometer module that behaved as expected on a 5V supply.  We could then add an ESP-01 module to regain the wireless functionality.  Might also still need a voltage level shifter to run the ESP.  So that's, maybe 4 modules although probably still a smaller footprint than a micro:bit which could also physically wrap around the stem of the umbrella.
-* Change the design to just display N, S, E and W rather than all 8 points (N, NE, E, SE, S, SW, W, NW).  By reducing the number of directions being displayed, we can avoid using the lines that are shared with the internal LED display and hence allow the compass calibration to work again.  I'm kinda turned around on the micro:bit if we can get 2 of them since we can use the second one to provide a remote direction controller - the umbrella will respond to the orientation of the remote micro:bit.  Easy and interactively intuitive.  
+* Change the design to just display N, S, E and W rather than all 8 points (N, NE, E, SE, S, SW, W, NW).  By reducing the number of directions being displayed, we can avoid using the lines that are shared with the internal LED display and hence allow the compass calibration to work again.  
+
+I'm kinda turned around on the micro:bit (now that I have a connector mechanism, maybe?).  If we can get 2 of them we can use the second one to provide a remote direction controller - the umbrella will respond to the orientation of the remote micro:bit.  Easy and interactively intuitive.  
 
 #### Post note (solution)
 
@@ -546,9 +548,11 @@ basic.forever(function () {
 
 ### A Day of Bringing it All Together
 
-Vee came and joined me today so that we could bring it all together and put the electronics into the umbrella with the final EL Wire.  We decided to put the battery and inverter in the handle and put the micro:bit and the EL switching circuits at the top of the umbrella.  We've still got to design a UFO-shaped enclosure to hide the electronics at the top and a new handle to hold the battery and inverter.
+Vee came and joined me today so that we could bring it all together and put the electronics into the umbrella with the final EL Wire.  We decided to put the battery and inverter in the handle and put the micro:bit and the EL switching circuits at the top of the umbrella.  We've still got to design a UFO-shaped enclosure to hide the electronics at the top and a new handle to hold the battery and inverter.  
 
-At the end of the day, we had everything connected at least.  We still ahve to figure out how to attach the green wires to the individual segments.  We tried double-sided tape and hot glue (sort of).  I think ultimately we'll end up using hot glue - it didn't seem to damage the umbrella vinyl.
+At the end of the day, we had everything connected at least.  We still have to figure out how to attach the green wires to the individual segments.  We tried double-sided tape and hot glue (sort of).  I think ultimately we'll end up using hot glue - it didn't seem to damage the umbrella vinyl and made a decent enough connection, and it's what was used on the EL-wire dress back in China.  
+
+The compass function didn't work as expected though.  I've discovered that the calibration only occurs on the first run after the code is uploaded, so perhaps it just needs to be recalibrated?  Perhaps some of the lines got out of order during install, although the spin function lights the EL sequentially, so this is unlikely.  
 
 Here's the current build status for each function...
 
