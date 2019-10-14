@@ -590,3 +590,380 @@ Here's the current build status for each function...
     Compass - Doesn't seem to be working?? Perhaps there's a way to recalibrate the compass?
 </center>
 
+
+### Creating a Remote
+
+I made a last minute decision to experiment with micro:bit radio communications to test the viability of creating a remote for the umbrella.  The main reason was that we have no way of defining the direction that the umbrella will point.  Changing the mode is pretty difficult too given that we're creating a case for all the electronics at the top of the umbrella.
+
+So I borrowed another 2 micro:bit's and got to work.  I was surprised that radio communications was a breeze - you just choose a channel, set both devices to the same channel and start sending/recieving messages.  There is hooks in the code templates to respond to recieved messages, so it's as easy as responding to a button press.
+
+I modified the code to respond to remote control and created a debug routine that used the led display matrix as oppposed to the EL lights since I didn't have access to the actual umbrella (and all the associated switch circuits) for now.  The code for the slave (umbrella) follows.  In particular, notice the method `radio.onReceivedValue` which takes a key-value pair, allowing me to send either a mode change or a direction change with the key defining which is being sent.  The corresponding value then holds the new information.  Also note `turnOnExclusivelyDebug` which replaced `turnOnExclusively` for testing without the EL circuitry.
+
+{{< highlight python >}}
+function turnOnExclusively(pinIndex: number) {
+    if (pinIndex == 0) {
+        pins.digitalWritePin(DigitalPin.P3, 1)
+    } else if (pinIndex == 1) {
+        pins.digitalWritePin(DigitalPin.P0, 1)
+    } else if (pinIndex == 2) {
+        pins.digitalWritePin(DigitalPin.P4, 1)
+    } else if (pinIndex == 3) {
+        pins.digitalWritePin(DigitalPin.P6, 1)
+    } else if (pinIndex == 4) {
+        pins.digitalWritePin(DigitalPin.P1, 1)
+    } else if (pinIndex == 5) {
+        pins.digitalWritePin(DigitalPin.P8, 1)
+    } else if (pinIndex == 6) {
+        pins.digitalWritePin(DigitalPin.P10, 1)
+    } else if (pinIndex == 7) {
+        pins.digitalWritePin(DigitalPin.P2, 1)
+    } else if (pinIndex == 8) {
+        pins.digitalWritePin(DigitalPin.P14, 1)
+    }
+    // Now turn off all those that arent the one to turn
+    // on
+    if (pinIndex != 0) {
+        pins.digitalWritePin(DigitalPin.P3, 0)
+    }
+    if (pinIndex != 1) {
+        pins.digitalWritePin(DigitalPin.P0, 0)
+    }
+    if (pinIndex != 2) {
+        pins.digitalWritePin(DigitalPin.P4, 0)
+    }
+    if (pinIndex != 3) {
+        pins.digitalWritePin(DigitalPin.P6, 0)
+    }
+    if (pinIndex != 4) {
+        pins.digitalWritePin(DigitalPin.P1, 0)
+    }
+    if (pinIndex != 5) {
+        pins.digitalWritePin(DigitalPin.P8, 0)
+    }
+    if (pinIndex != 6) {
+        pins.digitalWritePin(DigitalPin.P10, 0)
+    }
+    if (pinIndex != 7) {
+        pins.digitalWritePin(DigitalPin.P2, 0)
+    }
+    if (pinIndex != 8) {
+        pins.digitalWritePin(DigitalPin.P14, 0)
+    }
+}
+radio.onReceivedValue(function (name, value) {
+    if (name.compare("mode") == 0) {
+        mode = value
+    }
+    if (name.compare("heading") == 0) {
+        desiredHeading = value
+    }
+})
+function SpinMode(rate: number) {
+    turnOnExclusively(0)
+    basic.pause(rate)
+    turnOnExclusively(1)
+    basic.pause(rate)
+    turnOnExclusively(2)
+    basic.pause(rate)
+    turnOnExclusively(3)
+    basic.pause(rate)
+    turnOnExclusively(4)
+    basic.pause(rate)
+    turnOnExclusively(5)
+    basic.pause(rate)
+    turnOnExclusively(6)
+    basic.pause(rate)
+    turnOnExclusively(7)
+    basic.pause(rate)
+}
+function flicker(rate: number) {
+    turnOnExclusively(Math.randomRange(0, 8))
+    basic.pause(rate)
+}
+function followNorth() {
+    heading = input.compassHeading()
+    if (heading >= 338 || heading <= 22) {
+        actualHeading = 0
+    } else if (heading <= 67) {
+        actualHeading = 1
+    } else if (heading <= 112) {
+        actualHeading = 2
+    } else if (heading <= 157) {
+        actualHeading = 3
+    } else if (heading <= 202) {
+        actualHeading = 4
+    } else if (heading <= 247) {
+        actualHeading = 5
+    } else if (heading <= 292) {
+        actualHeading = 6
+    } else if (heading <= 337) {
+        actualHeading = 7
+    }
+    displayHeading = desiredHeading - actualHeading
+    if (displayHeading < 0) {
+        displayHeading = 8 + displayHeading
+    }
+    turnOnExclusively(displayHeading)
+}
+function turnOnExclusivelyDebug(pinIndex: number) {
+    if (pinIndex == 0) {
+        basic.showLeds(`
+            . . # . .
+            . . . . .
+            . . . . .
+            . . . . .
+            . . . . .
+            `)
+    } else if (pinIndex == 1) {
+        basic.showLeds(`
+            . . . . .
+            . . . # .
+            . . . . .
+            . . . . .
+            . . . . .
+            `)
+    } else if (pinIndex == 2) {
+        basic.showLeds(`
+            . . . . .
+            . . . . .
+            . . . . #
+            . . . . .
+            . . . . .
+            `)
+    } else if (pinIndex == 3) {
+        basic.showLeds(`
+            . . . . .
+            . . . . .
+            . . . . .
+            . . . # .
+            . . . . .
+            `)
+    } else if (pinIndex == 4) {
+        basic.showLeds(`
+            . . . . .
+            . . . . .
+            . . . . .
+            . . . . .
+            . . # . .
+            `)
+    } else if (pinIndex == 5) {
+        basic.showLeds(`
+            . . . . .
+            . . . . .
+            . . . . .
+            . # . . .
+            . . . . .
+            `)
+    } else if (pinIndex == 6) {
+        basic.showLeds(`
+            . . . . .
+            . . . . .
+            # . . . .
+            . . . . .
+            . . . . .
+            `)
+    } else if (pinIndex == 7) {
+        basic.showLeds(`
+            . . . . .
+            . # . . .
+            . . . . .
+            . . . . .
+            . . . . .
+            `)
+    } else if (pinIndex == 8) {
+        basic.showLeds(`
+            . . . . .
+            . . . . .
+            . . # . .
+            . . . . .
+            . . . . .
+            `)
+    }
+}
+let displayHeading = 0
+let actualHeading = 0
+let heading = 0
+let desiredHeading = 0
+let mode = 0
+let currentCircuit = 0
+let maxMode = 2
+mode = 2
+radio.setGroup(12)
+if (input.compassHeading() < 500) {
+    led.enable(false)
+}
+basic.forever(function () {
+    if (mode == 0) {
+        SpinMode(100)
+    } else if (mode == 1) {
+        flicker(50)
+    } else {
+        followNorth()
+    }
+})
+{{< /highlight >}}
+
+And the corresponding remote code follows.  This code simply lets the slave (umbrella) know what mode to be in, and sends the current direction that the remote is being held so that the umbrella can respond by pointing in the same direction.  It also updates the LED display on the remote to indicate the current mode; an arrow for follow-mode, a spinning circle for spin mode, and random led's for party-mode.  Follow-me mode is selected by pressing button A, spin mode is selected by pressing button B and random mode by shaking the remote.  In follow-me mode, rotating the remote defines which direction the umbrella will display.
+
+{{< highlight python >}}
+input.onButtonPressed(Button.A, function () {
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        `)
+    mode = 0
+    radio.sendValue("mode", mode)
+})
+function SpinMode (rate: number) {
+    led.plot(2, 0)
+    led.unplot(1, 1)
+    basic.pause(rate)
+    led.plot(3, 1)
+    led.unplot(2, 0)
+    basic.pause(rate)
+    led.plot(4, 2)
+    led.unplot(3, 1)
+    basic.pause(rate)
+    led.plot(3, 3)
+    led.unplot(4, 2)
+    basic.pause(rate)
+    led.plot(2, 4)
+    led.unplot(3, 3)
+    basic.pause(rate)
+    led.plot(1, 3)
+    led.unplot(2, 4)
+    basic.pause(rate)
+    led.plot(0, 2)
+    led.unplot(1, 3)
+    basic.pause(rate)
+    led.plot(1, 1)
+    led.unplot(0, 2)
+    basic.pause(rate)
+}
+function flicker (rate: number) {
+    x = Math.randomRange(0, 4)
+    y = Math.randomRange(0, 4)
+    led.plot(x, y)
+    basic.pause(rate)
+    led.unplot(x, y)
+}
+function followNorth () {
+    basic.showLeds(`
+        . # # # .
+        # . # . #
+        . . # . .
+        . . # . .
+        . . # . .
+        `)
+    heading = input.compassHeading()
+    if (heading >= 338 || heading <= 22) {
+        radio.sendValue("heading", 0)
+    } else if (heading <= 67) {
+        radio.sendValue("heading", 1)
+    } else if (heading <= 112) {
+        radio.sendValue("heading", 2)
+    } else if (heading <= 157) {
+        radio.sendValue("heading", 2)
+    } else if (heading <= 202) {
+        radio.sendValue("heading", 2)
+    } else if (heading <= 247) {
+        radio.sendValue("heading", 2)
+    } else if (heading <= 292) {
+        radio.sendValue("heading", 6)
+    } else if (heading <= 337) {
+        radio.sendValue("heading", 7)
+    }
+}
+input.onGesture(Gesture.Shake, function () {
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        `)
+    mode = 1
+    radio.sendValue("mode", mode)
+})
+input.onButtonPressed(Button.B, function () {
+    basic.showLeds(`
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        `)
+    mode = 2
+    radio.sendValue("mode", mode)
+})
+let heading = 0
+let y = 0
+let x = 0
+let mode = 0
+let currentCircuit = 0
+mode = 2
+radio.setGroup(12)
+let maxMode = 2
+// if (input.compassHeading() < 500) {
+// led.enable(false) }
+basic.forever(function () {
+    if (mode == 0) {
+        SpinMode(100)
+    } else if (mode == 1) {
+        flicker(50)
+    } else {
+        followNorth()
+    }
+})
+{{< /highlight >}}
+
+The remote now needed a casing.  I initially thought of making a big arrow, but I wanted it to feel good in the hand, so I settled with a pebble shaped design with an arrow embossed on it.  The LED's of the micro:bit would sit below the arrow, and help to emphasise the arrow direction.  I designed the case to use the battery pack of the micro:bit as the main spine of the case, using the battery pack as a way to secure the back panel of the remote.
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/umbrella/ArrowRemoteCase.png" link="/img/3644QCA/umbrella/ArrowRemoteCase.png" >}}
+        Arrow remote case thoughts
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/umbrella/RoundRemoteCase.png" link="/img/3644QCA/umbrella/RoundRemoteCase.png" >}}
+        Pebble-shaped remote case thoughts.
+    </div>
+</div>
+        
+\
+
+The final model was designed around using the battery pack as a way to secure the rear cover.  The following image reflects the complete final printed product.  It is also available interactively at https://a360.co/2oHYvwH using the pasword "gedrocks".
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/umbrella/UmbrellaRemote.png" link="/img/3644QCA/umbrella/UmbrellaRemote.png" >}}
+        Final 3D model, ready for print.
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/umbrella/20191006_104622.jpg" link="/img/3644QCA/umbrella/20191006_104622.jpg" >}}
+        As printed ready for the exhibition.  Printed in clear, the led's can be seen through the casing.
+    </div>
+</div>
+
+\
+
+And finally, a couple of images from the actual exhibition.
+
+<div class="row">
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/umbrella/IMG_9122.jpg" link="/img/3644QCA/umbrella/IMG_9122.jpg" >}}
+        Umbrella display.
+    </div>
+    <div class="6u 12u$(medium)">
+        {{< figure src="/img/3644QCA/umbrella/IMG_9118.jpg" link="/img/3644QCA/umbrella/IMG_9118.jpg" >}}
+        Demonstrating the follow mode showing the directional indicator on the umbrella in response to the direction of the remote on the podium.
+    </div>
+</div>
+        
+
+
+
+
