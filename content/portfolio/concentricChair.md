@@ -1,6 +1,6 @@
 ---
 title: "Concentric Chair"
-date: 2019-10-26T15:31:18+10:00
+date: 2019-10-10T15:31:18+10:00
 image: "concentricChair/thumbnail.jpg"
 Description: "Creating sculptural shapes with flat forms while maximising material efficiency."
 draft: false
