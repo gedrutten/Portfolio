@@ -103,6 +103,18 @@ disqusShortname = ""
    #   url = "portfolio/"
 
     [[params.tiles.showcase]]
+      title = "Concetric Chair"
+      subtitle = "Creating sculptural shapes with flat forms while maximising material efficiency."
+      image = "portfolio/concentricChair/thumbnail.jpg"
+      url = "portfolio/concentricchair"
+
+    [[params.tiles.showcase]]
+      title = "Reed Lights"
+      subtitle = "Lighting piece inspired by water reeds."
+      image = "portfolio/reedLight/thumbnail.jpg"
+      url = "portfolio/reedlight"
+
+    [[params.tiles.showcase]]
       title = "Wave Light"
       subtitle = "Light responds to noise through waves on water as a wind chime respond to the breeze. Exhibited at Createworld 2018."
       image = "portfolio/wavelight/testRippleThumbnail.jpg"
@@ -114,11 +126,11 @@ disqusShortname = ""
       image = "portfolio/solarStill/blackAndWhite.jpg"
       url = "portfolio/waterstill"
 
-    [[params.tiles.showcase]]
-      title = "Modular Wall Garden"
-      subtitle = "A study in modelling for the rotational molding process."
-      image = "portfolio/wallgarden/thumbnail.jpg"
-      url = "portfolio/modularwallgarden"
+   # [[params.tiles.showcase]]
+   #   title = "Modular Wall Garden"
+   #   subtitle = "A study in modelling for the rotational molding process."
+   #   image = "portfolio/wallgarden/thumbnail.jpg"
+   #   url = "portfolio/modularwallgarden"
 
     [[params.tiles.showcase]]
       title = "Centrifugal Fan"
@@ -126,11 +138,11 @@ disqusShortname = ""
       image = "portfolio/centrifugalFan/thumbnail.jpg"
       url = "portfolio/centrifugalFan"
 
-    [[params.tiles.showcase]]
-      title = "AC2021"
-      subtitle = "An exploration into immersive 3D design, modelling and gaming engines."
-      image = "portfolio/ac2021/screenshot.png"
-      url = "portfolio/ac2021"
+  #  [[params.tiles.showcase]]
+  #    title = "AC2021"
+  #    subtitle = "An exploration into immersive 3D design, modelling and gaming engines."
+  #    image = "portfolio/ac2021/screenshot.png"
+  #    url = "portfolio/ac2021"
 
     [[params.tiles.showcase]]
       title = "7 Summits"
