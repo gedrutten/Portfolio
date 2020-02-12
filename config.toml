@@ -249,3 +249,6 @@ disqusShortname = ""
       text = "Design: "
       url= "https://www.html5up.net"
       alt = "HTML5 UP"
+
+[markup.goldmark.renderer]
+      unsafe = true
