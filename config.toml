@@ -20,8 +20,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Gerard Rutten"
-  description = "Student of Product Design"
+  name = "Gerard Rutten Design"
+  description = "Product Designer"
 
   # Link custom assets relative to /static
   custom_css = ["custom.css"]
@@ -39,7 +39,7 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Gerard Rutten"
-    subtitle = " Product Design"
+    subtitle = "Product Design"
     menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
@@ -51,6 +51,10 @@ disqusShortname = ""
     [[params.navigation.links]]
       name = "Portfolio"
       url = "portfolio"
+
+    [[params.navigation.links]]
+      name = "Exhibitions"
+      url = "exhibitions"
 
     [[params.navigation.links]]
       name = "About Me"
@@ -86,8 +90,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Gerard"
-    subtitle = "A student of product design."
+    title = "Gerard Rutten Design"
+    subtitle = "Product designer."
     buttonText = "See My Work"
 
 
@@ -173,7 +177,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "About Me"
-    subtitle = "I am a student of Product Design, currently studying at Queensland College of Art, Griffith University."
+    subtitle = "I am a Product Design graduate, currently a sessional instructor at Queensland College of Art, Griffith University."
     buttonText = "Read More"
     url = "about/about"
 

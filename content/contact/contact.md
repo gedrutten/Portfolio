@@ -4,4 +4,4 @@ date: 2019-03-13T15:43:03+10:00
 draft: false
 ---
 
-I am currently studying, but will be available to get involved in exciting projects as of the end of 2019.  Get in touch if you'd like to know more.
+I am currently sharing my knowledge as a sessional instructor at Griffith University, but am always keen to get involved in other exciting projects.  Get in touch if you'd like to chat.

@@ -8,7 +8,7 @@ draft: false
 
 Having completed a Bachelor of Engineering and spent several years developing databases, software and iPhone apps, I felt the itch to create something more tangible.  This led me to enrol in 3D and Product Design at Queensland College of Art, Griffith University.  My goal is to integrate my technical competencies with those of modern design practices and aesthetics to create beautiful, functional and useful products.
 
-My name is Gerard Rutten, A student of Product Design.
+My name is Gerard Rutten, Product Designer.
 
 Prior to my journey as a product designer, I spent several years in the software development space.  During this time, I built an understanding of how to be effective in many environments.  My roles have varied from junior level to managing teams; from solo projects to multi-discipline project management; from minor changes to greenfield solutions. 
 
@@ -75,7 +75,7 @@ My name is Gerard Rutten.  Contact me [here](/contact/contact)
         Fabrication
     </div>
     <div class="8u 12u$(medium)">
-        Laser cutting, 3D Printing, Soldering, Electronics </br>
+        Laser cutting, 3D Printing, CNC Milling, Soldering, Electronics </br>
         General Workshop (handtools, power tools), Sewing, Fine Metalsmithing
     </div>
 </div>
@@ -100,11 +100,10 @@ My name is Gerard Rutten.  Contact me [here](/contact/contact)
 ### Studies
 <div class="row">
     <div class="4u 12u$(medium)">
-        Current </br>
-        (expected completion late 2019)
+        2019
     </div>
     <div class="8u 12u$(medium)">
-        Griffith University </br>
+        Queensland College of Art, Griffith University </br>
         Bachelor of Design - 3D and Product Design
     </div>
 </div>
@@ -118,6 +117,19 @@ My name is Gerard Rutten.  Contact me [here](/contact/contact)
     <div class="8u 12u$(medium)">
         Queensland University of Technology </br>
         Bachelor of Engineering - Electrical and Computer Systems Engineering
+    </div>
+</div>
+
+</br>
+
+### Current Employment
+<div class="row">
+    <div class="4u 12u$(medium)">
+        Griffith University
+    </div>
+    <div class="8u 12u$(medium)">
+        Sessional Instructor </br>
+        2020 - current
     </div>
 </div>
 
