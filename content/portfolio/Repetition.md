@@ -1,12 +1,23 @@
 ---
-title: "Kinetic Sculpture - Repetition"
-description: "Creating kinetic art with jewelery making techniques."
+title: "Kinetic Sculpture - Ruminate"
+description: "Creating kinetic art with jewellery making techniques."
 image: "repetition/thumbnail.jpg"
 date: 2018-11-20T00:00:00+10:00
 draft: false
 ---
 
-This piece addresses the term, _Repetition_ by symbolising the tendancy of us as humans to ruminate over thoughts, having the same thought repeat over and over again as we revisit the past or grow anxious about the future.  It serves as a reminder to focus on the present and not waste our energy thinking repetitive thoughts.
+<div class="row">
+    <div class="5u 12u$(medium)">
+        {{< figure src="/img/jso/IMG_4277.jpg" >}}
+    </div>
+    <div class="7u 12u$(medium)">
+        {{< figure src="/img/portfolio/repetition/ruminate.gif" width="84%" >}}
+    </div>
+</div>
+
+<br>
+
+This piece addresses the term, _Repetition_ by symbolising the tendancy of us as humans to ruminate over thoughts, having the same thought repeat over and over again, spinning around in circles as we revisit the past or grow anxious about the future.  It serves as a reminder to focus on the present and not waste our energy thinking unproductive repetitive thoughts.
 
 I'm inspired by kinetic art, particularly self-powered kinetic art.  I think its amazing when wind, sun or in this case, heat interact with a piece to bring it to life.  For this piece, I began exploring the updraft of hot air created by a burning candle.  Using some sheet aluminium, I created my first prototype.
 
@@ -40,20 +51,5 @@ To help create the form, I worked with a digital model of a head and edited it t
 </div>
 
 The kinetic functionality was added with a tealight holder in the base and a vertical axle in the physical location of the mind.  A single wire ring serves to protect the spinning fan and also to help imply the forehead shape.
-
-
-<div class="row">
-    <div class="6u 12u$(medium)">
-        {{< figure src="/img/jso/IMG_4277.jpg" >}}
-    </div>
-    <div class="6u 12u$(medium)">
-        <video width="455" height="610" controls>
-          <source src="/img/jso/IMG_4275.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-        </video>
-    </div>
-</div>
-
-<br>
 
 This was an exercise in physical creation more than in using technology.  It was part of an elective in Jewelery and Small Objects that I undertook to strengthen my abilities and appreciation for the handmade.  To create this piece, I utilised various fine metalsmithing techniques including soldering and metal forming.  I did actually use some software though to create the laser-cut form to use as a guide.  This included Autodesk's Meshmixer and Slicer software packages.
