@@ -107,7 +107,7 @@ disqusShortname = ""
    #   url = "portfolio/"
 
     [[params.tiles.showcase]]
-      title = "Concetric Chair"
+      title = "Concentric Chair"
       subtitle = "Creating sculptural shapes with flat forms while maximising material efficiency."
       image = "portfolio/concentricChair/thumbnail.jpg"
       url = "portfolio/concentricchair"
