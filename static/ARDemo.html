@@ -1,0 +1,14 @@
+<!doctype HTML>
+<html>
+<!-- See https://aframe.io/docs/0.9.0/introduction/ for documentation -->
+<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+<body style='margin : 0px; overflow: hidden;'>
+	<a-scene>
+      <a-assets>
+        <a-asset-item id="tree-obj" src="./ARTest/bangle.obj"></a-asset-item>
+      </a-assets>
+
+      <a-entity obj-model="obj: #tree-obj" position="0 1.5 -20" scale="0.1 0.1 0.1" rotation="0 30 0" ></a-entity>
+    </a-scene>
+</body>
+</html>
