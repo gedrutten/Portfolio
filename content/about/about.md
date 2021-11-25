@@ -6,15 +6,15 @@ draft: false
 
 ## About Me
 
-Having completed a Bachelor of Engineering and spent several years developing databases, software and iPhone apps, I felt the itch to create something more tangible.  This led me to enrol in 3D and Product Design at Queensland College of Art, Griffith University.  My goal is to integrate my technical competencies with those of modern design practices and aesthetics to create beautiful, functional and useful products.
+Having completed a Bachelor of Engineering and spent several years in software development roles, I felt the itch to create something more tangible.  This led me to enrol in 3D and Product Design at Queensland College of Art, Griffith University. With this combination, I'm able to integrate my technical competencies with those of modern design practices and aesthetics to create beautiful, functional and useful products.
 
 My name is Gerard Rutten, Product Designer.
 
-Prior to my journey as a product designer, I spent several years in the software development space.  During this time, I built an understanding of how to be effective in many environments.  My roles have varied from junior level to managing teams; from solo projects to multi-discipline project management; from minor changes to greenfield solutions. 
+Prior to my journey as a product designer, I spent several years in the software development space.  During this time, I built an understanding of how to be effective in many environments.  My roles have varied from junior level to managing teams; from solo projects to multi-discipline project management; from minor changes to greenfield solutions. In recent years, I've continued my connection with Griffith University, instructing and convening several design subjects.
 
 I am a maker, a tinkerer, a coder, a communicator, and a relator.  I can empathise with colleagues, clients and partners and can make a complex system understandable at a level appropriate to the audience.  I can see the big picture while still sweating the details.  The engineer in me is practicality focussed while the designer in me wants to ensure the right solution is created in the right way.
 
-I like to ride, both pedal powered or with an engine.  I enjoy spending time around water - kayaking, sailing and kite boarding when the conditions are right.  I also like to climb rocks or the plastic equivalent.
+I like to ride on two wheels, both pedal powered or with an engine.  I enjoy spending time around water - kayaking, sailing and kite boarding when the conditions are right.  I also like to climb rocks or the indoor equivalent.
 
 My name is Gerard Rutten.  Contact me [here](/contact/contact)
 
