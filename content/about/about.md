@@ -142,7 +142,7 @@ My name is Gerard Rutten.  Contact me [here](/contact/contact)
     </div>
     <div class="8u 12u$(medium)">
         Sessional Instructor </br>
-        2020 - 2022
+        3 years
     </div>
 </div>
 <div class="row">
