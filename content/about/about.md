@@ -146,6 +146,9 @@ My name is Gerard Rutten.  Contact me [here](/contact/contact)
     </div>
 </div>
 <div class="row">
+    </br>
+</div>
+<div class="row">
     <div class="4u 12u$(medium)">
         Speedwell
     </div>
