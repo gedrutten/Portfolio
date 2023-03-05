@@ -6,7 +6,7 @@ draft: false
 
 ## About Me
 
-Having completed a Bachelor of Engineering and spent several years in software development roles, I felt the itch to create something more tangible.  This led me to enrol in 3D and Product Design at Queensland College of Art, Griffith University. With this combination, I'm able to integrate my technical competencies with those of modern design practices and aesthetics to create beautiful, functional and useful products.
+Having completed a Bachelor of Engineering and spent several years in software development roles, I felt the itch to create something more tangible.  This led me to complete a degree in 3D and Product Design at Queensland College of Art, Griffith University. With this combination, I'm able to integrate my technical competencies with those of modern design practices and aesthetics to create beautiful, functional and useful products.
 
 My name is Gerard Rutten, Product Designer.
 
@@ -26,7 +26,7 @@ My name is Gerard Rutten.  Contact me [here](/contact/contact)
         3D Modelling Software
     </div>
     <div class="8u 12u$(medium)">
-        Solidworks, Fusion 360, Rhino 3D, OpenSCAD </br>
+        Fusion 360, Rhino 3D, Solidworks, OpenSCAD </br>
         Maya, Sculptris, Unity, KeyShot </br>
         Cura, Slicer </br>
     </div>
@@ -64,7 +64,7 @@ My name is Gerard Rutten.  Contact me [here](/contact/contact)
     </div>
     <div class="8u 12u$(medium)">
         XCode (Objective-C), Arduino IDE (C++), </br>
-        Some exposure to HTML, CSS, Javascript, PHP, Ruby 
+        Some exposure to HTML, CSS, Javascript, Python, PHP, Ruby 
     </div>
 </div>
 <div class="row">
@@ -125,17 +125,26 @@ My name is Gerard Rutten.  Contact me [here](/contact/contact)
 ### Current Employment
 <div class="row">
     <div class="4u 12u$(medium)">
-        Griffith University
+        FabDock - Inflatable dry docking systems
     </div>
     <div class="8u 12u$(medium)">
-        Sessional Instructor </br>
-        2020 - current
+        Industrial Designer </br>
+        July 2022 - current
     </div>
 </div>
 
 </br>
 
 ### Previous Employment
+<div class="row">
+    <div class="4u 12u$(medium)">
+        Griffith University
+    </div>
+    <div class="8u 12u$(medium)">
+        Sessional Instructor </br>
+        2020 - 2022
+    </div>
+</div>
 <div class="row">
     <div class="4u 12u$(medium)">
         Speedwell

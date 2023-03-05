@@ -177,7 +177,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "About Me"
-    subtitle = "I am a Product Design graduate, currently a sessional instructor at Queensland College of Art, Griffith University."
+    subtitle = "I am a Product / Industrial Designer, currently designing and helping create inflatable dry docking systems with FabDock Australia."
     buttonText = "Read More"
     url = "about/about"
 
