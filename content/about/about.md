@@ -26,7 +26,7 @@ My name is Gerard Rutten.  Contact me [here](/contact/contact)
         3D Modelling Software
     </div>
     <div class="8u 12u$(medium)">
-        Fusion 360, Rhino 3D, Solidworks, OpenSCAD </br>
+        Fusion 360, Rhino 3D, Grasshopper, Solidworks, OpenSCAD </br>
         Maya, Sculptris, Unity, KeyShot </br>
         Cura, Slicer </br>
     </div>
@@ -75,7 +75,7 @@ My name is Gerard Rutten.  Contact me [here](/contact/contact)
         Fabrication
     </div>
     <div class="8u 12u$(medium)">
-        Laser cutting, 3D Printing, CNC Milling, Soldering, Electronics </br>
+        Laser cutting, 3D Printing, CNC Milling, CNC Cutting, Soldering, Electronics </br>
         General Workshop (handtools, power tools), Sewing, Fine Metalsmithing
     </div>
 </div>
@@ -94,8 +94,6 @@ My name is Gerard Rutten.  Contact me [here](/contact/contact)
 <div class="row">
     </br>
 </div>
-
-</br>
 
 ### Studies
 <div class="row">
@@ -122,20 +120,19 @@ My name is Gerard Rutten.  Contact me [here](/contact/contact)
 
 </br>
 
-### Current Employment
+### Employment
 <div class="row">
     <div class="4u 12u$(medium)">
         FabDock - Inflatable dry docking systems
     </div>
     <div class="8u 12u$(medium)">
         Industrial Designer </br>
-        July 2022 - current
+        1 year
     </div>
 </div>
-
-</br>
-
-### Previous Employment
+<div class="row">
+    </br>
+</div>
 <div class="row">
     <div class="4u 12u$(medium)">
         Griffith University
