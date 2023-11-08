@@ -177,7 +177,7 @@ disqusShortname = ""
   [params.two]
     enable = true
     title = "About Me"
-    subtitle = "I am a Product / Industrial Designer, currently designing and helping create inflatable dry docking systems with FabDock Australia."
+    subtitle = "I am a Product / Industrial Designer, currently open to freelancing opportunities."
     buttonText = "Read More"
     url = "about/about"
 
