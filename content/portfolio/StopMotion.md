@@ -9,7 +9,7 @@ image = "stopmotion/thumbnail.jpg"
 
 An exercise in photography, image manipulation, and video production, the following video is my response to the brief: "Change in motion".  By depicting the replacement of a MacBook battery undertaken by Lego characters, I attempt to show that the task is relatively simple and by doing so, I am encouraging self-repair, one of many branches of the circular economy.
 
-{{< youtube inrntvUPxcg >}}
+{{< youtube VFWUNPabmWM >}}
 
 </br >
 
