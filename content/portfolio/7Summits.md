@@ -22,7 +22,7 @@ These are depicted as edge-lit laser cut acrylic forms on the display stand.
 
 
 <!-- Demonstration and close up of operation -->
-{{< youtube XHtPV6r3cLs >}}
+{{< youtube qinlfUNA7uE >}}
 Demonstration and close up of operation.
 
 <!-- longer demonstration: https://youtu.be/oKwocXtZ9mg -->
@@ -34,17 +34,17 @@ Demonstration and close up of operation.
 <div class="row">
     <div class="4u 12u$(medium)">
         <!-- 3d printing -->
-        {{< youtube QshlfrVvhTQ >}}
+        {{< youtube Cs7LHpsAkdM >}}
         3D Printing the prototype fragrance bottle with the dual head printer and soluble support material.
     </div>
     <div class="4u 12u$(medium)">
         <!-- Laser cutting -->
-        {{< youtube W183VhePavM >}}
+        {{< youtube V2aasEMStFk >}}
         Laser etching and cutting the clear acrylic for the display stand.
     </div>
     <div class="4u 12u$(medium)">
         <!-- Nozzle operation video -->
-        {{< youtube o654jJvO48Q >}}
+        {{< youtube XspmPWtqqwM >}}
         Demonstration of the fragrance delivery mechanism.
     </div>
 </div>
