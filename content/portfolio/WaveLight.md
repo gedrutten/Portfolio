@@ -11,7 +11,7 @@ I wanted this light to create an ambience, but also to react to the environment.
 
 Through the play of light and shadows, the response from the light piece makes it more human as it responds and interacts with the participants below.
 
-{{< youtube z-yOyLubiys >}}
+{{< youtube d5hnIl9CfdQ >}}
 
 
 <br>
@@ -61,5 +61,5 @@ Building the wavelight
 https://youtu.be/oHkeu0EX96U
 -->
 
-{{< youtube oHkeu0EX96U >}}
+{{< youtube yJYKbYU33h8 >}}
 
