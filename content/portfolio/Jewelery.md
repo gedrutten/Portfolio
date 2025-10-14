@@ -1,11 +1,11 @@
 ---
-title: "Physical Jewelery"
+title: "Physical Jewellery"
 date: "2018-11-14T12:00:00+10:00"
 image: "Jewelery/20200329_122947.jpeg"
-Description: "Hand made jewelery pieces using traditional metalsmithing techniques"
+Description: "Hand made jewellery pieces using traditional metalsmithing techniques"
 draft: false
 ---
-Examples of a few of the physical jewelery pieces I've made over the years.  
+Examples of a few of the physical jewellery pieces I've made over the years.  
 
 <h2>Keepsake Pendant</h2>
 Pendant gifted to a rock collector allowing her to showcase her favourite stone for any occasion.
